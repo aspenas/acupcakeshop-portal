@@ -1,0 +1,12 @@
+---
+title: "Lamar 'Soup' Campbell (Seahawks) - Position Link"
+date_created: 2025-04-06
+date_modified: 2025-04-15
+status: active
+tags: []
+---
+
+---
+
+
+*This file serves as a role-based organizational link.*

@@ -1,0 +1,95 @@
+---
+title: "Dashboard: Content Status"
+date_created: 2025-04-08
+last_updated: 2025-04-08
+update_frequency: Weekly
+tags: [dashboard, content, documentation]
+---
+
+# Content Status Dashboard
+
+This dashboard tracks the status and completeness of documentation across the Athlete Financial Empowerment vault.
+
+## Content Overview
+
+```dataview
+TABLE WITHOUT ID
+  length(rows) as "Count",
+  substring(file.folder, 0, regexMatch(file.folder, "Athlete Financial Empowerment/\\d\\d-[^/]*").length) as "Section"
+FROM "Athlete Financial Empowerment"
+WHERE regexMatch(file.folder, "Athlete Financial Empowerment/\\d\\d-[^/]*")
+GROUP BY substring(file.folder, 0, regexMatch(file.folder, "Athlete Financial Empowerment/\\d\\d-[^/]*").length)
+```
+
+## Recent Updates
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Document",
+  file.mtime as "Last Modified"
+FROM "Athlete Financial Empowerment"
+SORT file.mtime desc
+LIMIT 10
+```
+
+## Content Gaps
+
+```dataview
+LIST WITHOUT ID "**Missing:** " + meta(section).missing
+FROM "Athlete Financial Empowerment"
+WHERE contains(file.tags, "#section") AND meta(section).missing
+```
+
+## Documentation Status
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Document",
+  status as "Status",
+  completion as "Completion %"
+FROM "Athlete Financial Empowerment"
+WHERE status AND completion
+SORT completion asc
+```
+
+## Content Types Distribution
+
+```mermaid
+pie title "Content Type Distribution"
+    "Research Notes" : 25
+    "Interview Summaries" : 20
+    "Analysis Documents" : 15
+    "Strategy Documents" : 12
+    "Competitor Profiles" : 10
+    "Process Maps" : 8
+    "Reference Materials" : 5
+```
+
+## Tagging Coverage
+
+```dataview
+TABLE WITHOUT ID
+  count(file.link) as "Count",
+  length(file.tags) as "Tags"
+FROM "Athlete Financial Empowerment"
+GROUP BY length(file.tags) as "Tag Count"
+SORT length(file.tags)
+```
+
+## Documentation To-Do List
+
+- [ ] Complete missing sections in market research
+- [ ] Update player interview templates with new questions
+- [ ] Add YAML frontmatter to all competitor profile documents
+- [ ] Create executive summary for each major section
+- [ ] Review and update all index files
+
+## Documentation Completion by Area
+
+```mermaid
+xychart-beta
+    title "Documentation Completion by Area"
+    x-axis ["Market Research", "Interviews", "Strategy", "Analysis", "Compliance", "Planning", "Team"]
+    y-axis "Completion %" 0 --> 100
+    bar [85, 70, 60, 65, 40, 55, 90]
+```

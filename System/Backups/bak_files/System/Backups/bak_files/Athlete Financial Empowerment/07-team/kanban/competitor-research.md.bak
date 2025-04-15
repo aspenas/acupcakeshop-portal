@@ -1,0 +1,33 @@
+---
+kanban-plugin: basic
+board-ID: board-ID-2
+---
+
+## To Research
+
+- [ ] Complete detailed analysis of KM Capital Management
+- [ ] Research emerging boutique firms specializing in NFL players
+- [ ] Develop comparison matrix of fee structures
+- [ ] Create detailed SWOT analysis for top 3 competitors
+- [ ] Analyze international athlete advisory firms
+
+
+## In Progress
+
+
+
+## To Review
+
+
+
+## Complete
+
+
+
+## Archived
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic","show-checkboxes":true,"tag-colors":[{"tagKey":"#high-priority","color":"rgba(213, 63, 63, 0.15)","backgroundColor":"rgba(213, 63, 63, 0.15)"},{"tagKey":"#medium-priority","color":"rgba(250, 176, 5, 0.15)","backgroundColor":"rgba(250, 176, 5, 0.15)"},{"tagKey":"#low-priority","color":"rgba(102, 204, 102, 0.15)","backgroundColor":"rgba(102, 204, 102, 0.15)"},{"tagKey":"#in-progress","color":"rgba(29, 105, 216, 0.15)","backgroundColor":"rgba(29, 105, 216, 0.15)"},{"tagKey":"#blocked","color":"rgba(113, 54, 164, 0.15)","backgroundColor":"rgba(113, 54, 164, 0.15)"}],"hide-tags-display":false,"date-colors":[],"hide-date-display":false,"date-trigger":"@","metadata-keys":[{"metadataKey":"assignee","label":"Assignee","shouldHideLabel":false,"containsMarkdown":false},{"metadataKey":"priority","label":"Priority","shouldHideLabel":false,"containsMarkdown":false},{"metadataKey":"due","label":"Due Date","shouldHideLabel":false,"containsMarkdown":false}]}
+```
+%%

@@ -1,0 +1,327 @@
+========================================================================
+LOG: migrate_content
+STARTED: Tue Apr 15 14:58:40 MDT 2025
+USER: patricksmith
+PID: 30132
+========================================================================
+
+[2025-04-15 14:58:40] [INFO] Starting script: migrate_content
+[2025-04-15 14:58:40] [INFO] Description: Content Migration
+[2025-04-15 14:58:40] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop
+[2025-04-15 14:58:40] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities
+[2025-04-15 14:58:40] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities/scripts
+[2025-04-15 14:58:40] [INFO] Starting content migration...
+[2025-04-15 14:58:40] [INFO] Migrating content from 8 source directories...
+[2025-04-15 14:58:40] [INFO] Processing directory: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview -> content/strategy
+[2025-04-15 14:58:40] [INFO] Processing directory: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews -> content/interviews
+[2025-04-15 14:58:40] [INFO] Processing directory: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research -> content/research
+[2025-04-15 14:58:40] [INFO] Processing directory: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy -> content/strategy
+[2025-04-15 14:58:40] [INFO] [research-summary.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/research-summary.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/research-summary.md
+[2025-04-15 14:58:40] [INFO] [key-project-areas.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/key-project-areas.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+00-project-overview/key-project-areas.md
+[2025-04-15 14:58:40] [INFO] [business-model.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/business-model.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/research-summary.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/research-summary.md (pending)
+Financial
+03-strategy/business-model.md
+[2025-04-15 14:58:40] [INFO] [INTERVIEW_GUIDE.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/INTERVIEW_GUIDE.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/Athlete
+Financial
+02-interviews/INTERVIEW-GUIDE.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/key-project-areas.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+00-project-overview/key-project-areas.md (pending)
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/INTERVIEW_GUIDE.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/Athlete
+Financial
+02-interviews/INTERVIEW-GUIDE.md (pending)
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/business-model.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+03-strategy/business-model.md (pending)
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/research-summary.md to completed
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/key-project-areas.md to completed
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/INTERVIEW_GUIDE.md to completed
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/business-model.md to completed
+[2025-04-15 14:58:40] [INFO] [key-project-areas.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/key-project-areas.md
+[2025-04-15 14:58:40] [INFO] [research-summary.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/research-summary.md
+[2025-04-15 14:58:40] [INFO] [INTERVIEW_GUIDE.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/INTERVIEW_GUIDE.md
+[2025-04-15 14:58:40] [INFO] [business-model.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/business-model.md
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [2025-04-06_johnson-jaylen_bears_safety.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_johnson-jaylen_bears_safety.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/johnson-jaylen-bears-safety.md
+[2025-04-15 14:58:40] [INFO] [research-roadmap.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/research-roadmap.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+03-strategy/research-roadmap.md
+[2025-04-15 14:58:40] [INFO] [current-status.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/current-status.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+00-project-overview/current-status.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_johnson-jaylen_bears_safety.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/johnson-jaylen-bears-safety.md (pending)
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/research-roadmap.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+03-strategy/research-roadmap.md (pending)
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/current-status.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+00-project-overview/current-status.md (pending)
+[2025-04-15 14:58:40] [INFO] [kevin-conner.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/kevin-conner.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/agents/kevin-conner.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/kevin-conner.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/agents/kevin-conner.md (pending)
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_johnson-jaylen_bears_safety.md to completed
+[2025-04-15 14:58:40] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/research-roadmap.md
+[2025-04-15 14:58:40] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/current-status.md
+[2025-04-15 14:58:40] [INFO] [2025-04-06_johnson-jaylen_bears_safety.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_johnson-jaylen_bears_safety.md
+[2025-04-15 14:58:40] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/kevin-conner.md
+[2025-04-15 14:58:40] [INFO] [current-status.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/current-status.md
+[2025-04-15 14:58:40] [INFO] [research-roadmap.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/research-roadmap.md
+[2025-04-15 14:58:40] [INFO] [kevin-conner.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/kevin-conner.md
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/_index.md
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/team-personnel/_index.md
+[2025-04-15 14:58:40] [INFO] [2025-04-06_smith-roquan_ravens_linebacker.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_smith-roquan_ravens_linebacker.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/smith-roquan-ravens-linebacker.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/team-personnel/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_smith-roquan_ravens_linebacker.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/smith-roquan-ravens-linebacker.md (pending)
+[2025-04-15 14:58:40] [INFO] [competitive-positioning.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/competitive-positioning.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+03-strategy/competitive-positioning.md
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/competitive-positioning.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+03-strategy/competitive-positioning.md (pending)
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [project-vision.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/project-vision.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+00-project-overview/project-vision.md
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/industry-analysis/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/project-vision.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Financial
+00-project-overview/project-vision.md (pending)
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/industry-analysis/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_smith-roquan_ravens_linebacker.md to completed
+[2025-04-15 14:58:40] [INFO] [2025-04-06_smith-roquan_ravens_linebacker.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_smith-roquan_ravens_linebacker.md
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/competitive-positioning.md to completed
+[2025-04-15 14:58:40] [INFO] [competitive-positioning.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/competitive-positioning.md
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/_index.md
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/project-vision.md to completed
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [project-vision.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/project-vision.md
+[2025-04-15 14:58:40] [INFO] [2025-04-06_oconnell-aidan_raiders_quarterback.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_oconnell-aidan_raiders_quarterback.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/oconnell-aidan-raiders-quarterback.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_oconnell-aidan_raiders_quarterback.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/oconnell-aidan-raiders-quarterback.md (pending)
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_oconnell-aidan_raiders_quarterback.md to completed
+[2025-04-15 14:58:40] [INFO] [2025-04-06_oconnell-aidan_raiders_quarterback.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_oconnell-aidan_raiders_quarterback.md
+[2025-04-15 14:58:40] [INFO] [2025-04-06_jenkins-john_raiders_defensive-tackle.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_jenkins-john_raiders_defensive-tackle.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/jenkins-john-raiders-defensive-tackle.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_jenkins-john_raiders_defensive-tackle.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/jenkins-john-raiders-defensive-tackle.md (pending)
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_jenkins-john_raiders_defensive-tackle.md to completed
+[2025-04-15 14:58:40] [INFO] [2025-04-06_jenkins-john_raiders_defensive-tackle.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_jenkins-john_raiders_defensive-tackle.md
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/former/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/former/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/agents/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/agents/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [lynn-nicole.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/lynn-nicole.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/lynn-nicole.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/lynn-nicole.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/lynn-nicole.md (pending)
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/lynn-nicole.md to completed
+[2025-04-15 14:58:40] [INFO] [lynn-nicole.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/lynn-nicole.md
+[2025-04-15 14:58:40] [INFO] [conner-kevin.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/conner-kevin.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/conner-kevin.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/conner-kevin.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/conner-kevin.md (pending)
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/conner-kevin.md to completed
+[2025-04-15 14:58:40] [INFO] [conner-kevin.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/conner-kevin.md
+[2025-04-15 14:58:40] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/_index.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/_index.md ->  (skipped)
+[2025-04-15 14:58:40] [INFO] [-.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/-.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/-.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/-.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/-.md (pending)
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/-.md to completed
+[2025-04-15 14:58:40] [INFO] [-.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/-.md
+[2025-04-15 14:58:40] [INFO] [campbell-lamar.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/campbell-lamar.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/campbell-lamar.md
+[2025-04-15 14:58:40] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/campbell-lamar.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/campbell-lamar.md (pending)
+[2025-04-15 14:58:40] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/campbell-lamar.md to completed
+[2025-04-15 14:58:40] [INFO] [campbell-lamar.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/campbell-lamar.md
+[2025-04-15 14:58:41] [INFO] [nelson-daryl.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/nelson-daryl.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/nelson-daryl.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/nelson-daryl.md -> /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/nelson-daryl.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/nelson-daryl.md to completed
+[2025-04-15 14:58:41] [INFO] [nelson-daryl.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/nelson-daryl.md
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] Processing directory: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis -> content/research
+[2025-04-15 14:58:41] [INFO] Processing directory: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance -> content/compliance
+[2025-04-15 14:58:41] [INFO] Processing directory: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning -> content/strategy/planning
+[2025-04-15 14:58:41] [INFO] Processing directory: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team -> content/strategy/team
+[2025-04-15 14:58:41] [INFO] [advisory-board-research.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/advisory-board-research.md -> /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+Financial
+05-compliance/advisory-board-research.md
+[2025-04-15 14:58:41] [INFO] [service-model-diagram.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/service-model-diagram.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Financial
+04-analysis/service-model-diagram.md
+[2025-04-15 14:58:41] [INFO] [mckinsey-analysis.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/mckinsey-analysis.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Financial
+06-planning/mckinsey-analysis.md
+[2025-04-15 14:58:41] [INFO] [call-list.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/call-list.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+calls/call-list.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/service-model-diagram.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Financial
+04-analysis/service-model-diagram.md (pending)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/advisory-board-research.md -> /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+Financial
+05-compliance/advisory-board-research.md (pending)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/call-list.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+calls/call-list.md (pending)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/mckinsey-analysis.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Financial
+06-planning/mckinsey-analysis.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/advisory-board-research.md to completed
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/service-model-diagram.md to completed
+[2025-04-15 14:58:41] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/call-list.md
+[2025-04-15 14:58:41] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/mckinsey-analysis.md
+[2025-04-15 14:58:41] [INFO] [advisory-board-research.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/advisory-board-research.md
+[2025-04-15 14:58:41] [INFO] [service-model-diagram.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/service-model-diagram.md
+[2025-04-15 14:58:41] [INFO] [call-list.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/call-list.md
+[2025-04-15 14:58:41] [INFO] [mckinsey-analysis.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/mckinsey-analysis.md
+[2025-04-15 14:58:41] [INFO] [interview-insights.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/interview-insights.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Financial
+04-analysis/interview-insights.md
+[2025-04-15 14:58:41] [INFO] [registration-requirements.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/registration-requirements.md -> /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+Financial
+05-compliance/registration-requirements.md
+[2025-04-15 14:58:41] [INFO] [working-sessions.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/working-sessions.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Financial
+06-planning/working-sessions.md
+[2025-04-15 14:58:41] [INFO] [tonight-guide.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/tonight-guide.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+calls/tonight-guide.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/interview-insights.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Financial
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/registration-requirements.md -> /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+04-analysis/interview-insights.md (pending)
+Financial
+05-compliance/registration-requirements.md (pending)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/working-sessions.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Financial
+06-planning/working-sessions.md (pending)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/tonight-guide.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+calls/tonight-guide.md (pending)
+[2025-04-15 14:58:41] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/interview-insights.md
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/registration-requirements.md to completed
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/tonight-guide.md to completed
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/working-sessions.md to completed
+[2025-04-15 14:58:41] [INFO] [interview-insights.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/interview-insights.md
+[2025-04-15 14:58:41] [INFO] [tonight-guide.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/tonight-guide.md
+[2025-04-15 14:58:41] [INFO] [working-sessions.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/working-sessions.md
+[2025-04-15 14:58:41] [INFO] [registration-requirements.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/registration-requirements.md
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/institutional-firms/_index.md
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/institutional-firms/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/boutique-firms/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/boutique-firms/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] [conversation-guide.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/conversation-guide.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+calls/conversation-guide.md
+[2025-04-15 14:58:41] [INFO] [key-hypotheses.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/key-hypotheses.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Financial
+06-planning/key-hypotheses.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/key-hypotheses.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Financial
+06-planning/key-hypotheses.md (pending)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/conversation-guide.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+calls/conversation-guide.md (pending)
+[2025-04-15 14:58:41] [INFO] [agent-advisor-models.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/agent-advisor-models.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Financial
+competitor-analysis/agent-advisor-models.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/agent-advisor-models.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Financial
+competitor-analysis/agent-advisor-models.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/conversation-guide.md to completed
+[2025-04-15 14:58:41] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/key-hypotheses.md
+[2025-04-15 14:58:41] [INFO] [conversation-guide.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/conversation-guide.md
+[2025-04-15 14:58:41] [INFO] [key-hypotheses.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/key-hypotheses.md
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/agent-advisor-models.md
+[2025-04-15 14:58:41] [INFO] [agent-advisor-models.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/agent-advisor-models.md
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] [business-model-framework.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/business-model-framework.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Financial
+06-planning/business-model-framework.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/business-model-framework.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Financial
+06-planning/business-model-framework.md (pending)
+[2025-04-15 14:58:41] [INFO] [task-guidelines.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/task-guidelines.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+07-team/task-guidelines.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/task-guidelines.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+07-team/task-guidelines.md (pending)
+[2025-04-15 14:58:41] [INFO] [competitor-positioning-diagram.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-positioning-diagram.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Financial
+04-analysis/competitor-positioning-diagram.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-positioning-diagram.md -> /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Financial
+04-analysis/competitor-positioning-diagram.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/business-model-framework.md to completed
+[2025-04-15 14:58:41] [INFO] [business-model-framework.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/business-model-framework.md
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/task-guidelines.md to completed
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/_index.md
+[2025-04-15 14:58:41] [INFO] [task-guidelines.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/task-guidelines.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-positioning-diagram.md to completed
+[2025-04-15 14:58:41] [INFO] [competitor-positioning-diagram.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-positioning-diagram.md
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/market-trends/_index.md
+[2025-04-15 14:58:41] [INFO] [tasks-dashboard.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/tasks-dashboard.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+07-team/tasks-dashboard.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/market-trends/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/tasks-dashboard.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+07-team/tasks-dashboard.md (pending)
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/tasks-dashboard.md to completed
+[2025-04-15 14:58:41] [INFO] [tasks-dashboard.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/tasks-dashboard.md
+[2025-04-15 14:58:41] [INFO] [competitor-research.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/competitor-research.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+kanban/competitor-research.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/competitor-research.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+kanban/competitor-research.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/competitor-research.md to completed
+[2025-04-15 14:58:41] [INFO] [competitor-research.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/competitor-research.md
+[2025-04-15 14:58:41] [INFO] [interview-pipeline.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/interview-pipeline.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+kanban/interview-pipeline.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/interview-pipeline.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+kanban/interview-pipeline.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/interview-pipeline.md to completed
+[2025-04-15 14:58:41] [INFO] [interview-pipeline.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/interview-pipeline.md
+[2025-04-15 14:58:41] [INFO] [service-development.md] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/service-development.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+kanban/service-development.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/service-development.md -> /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Financial
+kanban/service-development.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/service-development.md to completed
+[2025-04-15 14:58:41] [INFO] [service-development.md] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/service-development.md
+[2025-04-15 14:58:41] [INFO] [README.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/README.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/README.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/meetings/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/meetings/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/project-plan/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/project-plan/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [INFO] [_index.md] Skipping file: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/_index.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/_index.md ->  (skipped)
+[2025-04-15 14:58:41] [SUCCESS] Content migration completed successfully
+
+========================================================================
+COMPLETED: Tue Apr 15 14:58:41 MDT 2025
+STATUS: 0
+========================================================================
+[2025-04-15 14:58:41] [SUCCESS] Script completed successfully.

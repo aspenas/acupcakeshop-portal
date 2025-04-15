@@ -1,0 +1,789 @@
+========================================
+Frontmatter Standardization Log
+Started: Tue Apr 15 15:13:43 MDT 2025
+========================================
+Starting frontmatter standardization in 5 directories...
+Processing directory: /Users/patricksmith/obsidian/acupcakeshop/content
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/-.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/-.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 04-analysis/service-model-diagram.md
+  Standardized frontmatter in: 04-analysis/service-model-diagram.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 04-analysis/interview-insights.md
+  Standardized frontmatter in: 04-analysis/interview-insights.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 04-analysis/competitor-positioning-diagram.md
+  Standardized frontmatter in: 04-analysis/competitor-positioning-diagram.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/research-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/research-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/service-model-diagram.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/service-model-diagram.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/interview-insights.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/interview-insights.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/research-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/research-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/advisors/research-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/advisors/research-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/advisors/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/advisors/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/agents/kevin-conner.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/agents/kevin-conner.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/agents/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/agents/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/team-personnel/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/team-personnel/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/education/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/education/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/agents/kevin-conner.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/agents/kevin-conner.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: competitor-analysis/agent-advisor-models.md
+  Standardized frontmatter in: competitor-analysis/agent-advisor-models.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/kevin-conner.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/kevin-conner.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-analysis/institutional-firms/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-analysis/institutional-firms/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-analysis/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-analysis/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-analysis/boutique-firms/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-analysis/boutique-firms/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-analysis/agent-advisor-models.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-analysis/agent-advisor-models.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/industry-analysis/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/industry-analysis/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-positioning-diagram.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-positioning-diagram.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-trends/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-trends/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/agent-advisor-models.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/agent-advisor-models.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/campbell-lamar.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/campbell-lamar.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/competitor-research.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/competitor-research.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/mckinsey-analysis.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/mckinsey-analysis.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/jenkins-john-raiders-defensive-tackle.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/jenkins-john-raiders-defensive-tackle.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/competitor-profile-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/competitor-profile-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/call-list.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/call-list.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interview-pipeline.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interview-pipeline.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/index-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/index-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/service-development.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/service-development.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/tonight-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/tonight-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/advisory-board-research.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/advisory-board-research.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/task-guidelines.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/task-guidelines.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/nelson-daryl.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/nelson-daryl.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/lynn-nicole.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/lynn-nicole.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/cap-strategist-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/cap-strategist-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/conner-kevin.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/conner-kevin.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/key-project-areas.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/key-project-areas.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/registration-requirements.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/registration-requirements.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/service-model-diagram.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/service-model-diagram.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interview-insights.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interview-insights.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/conversation-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/conversation-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/tasks-dashboard.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/tasks-dashboard.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/business-model.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/business-model.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board-research.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board-research.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration-requirements.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration-requirements.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 05-compliance/advisory-board-research.md
+  Standardized frontmatter in: 05-compliance/advisory-board-research.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 05-compliance/registration-requirements.md
+  Standardized frontmatter in: 05-compliance/registration-requirements.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/kevin-conner.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/kevin-conner.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/working-sessions.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/working-sessions.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research-roadmap.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research-roadmap.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/agent-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/agent-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/competitive-positioning.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/competitive-positioning.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/former-player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/former-player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interview-summary-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interview-summary-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/key-hypotheses.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/key-hypotheses.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/johnson-jaylen-bears-safety.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/johnson-jaylen-bears-safety.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/INTERVIEW-GUIDE.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/INTERVIEW-GUIDE.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/task-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/task-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/current-status.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/current-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/competitor-positioning-diagram.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/competitor-positioning-diagram.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/agent-advisor-models.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/agent-advisor-models.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/audio-transcript-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/audio-transcript-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/smith-roquan-ravens-linebacker.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/smith-roquan-ravens-linebacker.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/-.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/-.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/campbell-lamar.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/campbell-lamar.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/jenkins-john-raiders-defensive-tackle.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/jenkins-john-raiders-defensive-tackle.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/jenkins-john-raiders.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/jenkins-john-raiders.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/smith-roquan-ravens.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/smith-roquan-ravens.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/johnson-jaylen-bears.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/johnson-jaylen-bears.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-jenkins-john-raiders-defensive-tackle.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-jenkins-john-raiders-defensive-tackle.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-smith-roquan-ravens-linebacker.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-smith-roquan-ravens-linebacker.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-oconnell-aidan-raiders-quarterback.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-oconnell-aidan-raiders-quarterback.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-johnson-jaylen-bears-safety.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-johnson-jaylen-bears-safety.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/jenkins-john-raiders-defensive-tackle.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/jenkins-john-raiders-defensive-tackle.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/johnson-jaylen-bears-safety.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/johnson-jaylen-bears-safety.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/smith-roquan-ravens-linebacker.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/smith-roquan-ravens-linebacker.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/oconnell-aidan-raiders-quarterback.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/oconnell-aidan-raiders-quarterback.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/former/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/former/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/oconnell-aidan-raiders.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/oconnell-aidan-raiders.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/nelson-daryl.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/nelson-daryl.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/lynn-nicole.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/lynn-nicole.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/conner-kevin.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/conner-kevin.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/lynn-nicole.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/lynn-nicole.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/conner-kevin.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/conner-kevin.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 02-interviews/INTERVIEW-GUIDE.md
+  Standardized frontmatter in: 02-interviews/INTERVIEW-GUIDE.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/-.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/-.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/campbell-lamar.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/campbell-lamar.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/nelson-daryl.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/nelson-daryl.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/agents/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/agents/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/agents/lynn-nicole.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/agents/lynn-nicole.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/agents/conner-kevin.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/agents/conner-kevin.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/agents/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/agents/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/team-personnel/player-development/campbell-lamar.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/team-personnel/player-development/campbell-lamar.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/team-personnel/player-development/nelson-daryl.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/team-personnel/player-development/nelson-daryl.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/team-personnel/.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/by-role/team-personnel/.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/johnson-jaylen-bears-safety.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/johnson-jaylen-bears-safety.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/INTERVIEW-GUIDE.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/INTERVIEW-GUIDE.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/smith-roquan-ravens-linebacker.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/smith-roquan-ravens-linebacker.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/oconnell-aidan-raiders-quarterback.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/oconnell-aidan-raiders-quarterback.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/business-model-framework.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/business-model-framework.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/oconnell-aidan-raiders-quarterback.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/oconnell-aidan-raiders-quarterback.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/key-project-areas.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/key-project-areas.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/mckinsey-analysis.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/mckinsey-analysis.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/working-sessions.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/working-sessions.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/key-hypotheses.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/key-hypotheses.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/business-model-framework.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/business-model-framework.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 06-planning/mckinsey-analysis.md
+  Standardized frontmatter in: 06-planning/mckinsey-analysis.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 06-planning/working-sessions.md
+  Standardized frontmatter in: 06-planning/working-sessions.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 06-planning/key-hypotheses.md
+  Standardized frontmatter in: 06-planning/key-hypotheses.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 06-planning/business-model-framework.md
+  Standardized frontmatter in: 06-planning/business-model-framework.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/research-roadmap.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/research-roadmap.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/competitive-positioning.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/competitive-positioning.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 00-project-overview/key-project-areas.md
+  Standardized frontmatter in: 00-project-overview/key-project-areas.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 00-project-overview/current-status.md
+  Standardized frontmatter in: 00-project-overview/current-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 00-project-overview/project-vision.md
+  Standardized frontmatter in: 00-project-overview/project-vision.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/calls/call-list.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/calls/call-list.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/calls/tonight-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/calls/tonight-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/calls/conversation-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/calls/conversation-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/calls/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/calls/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/competitor-research.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/competitor-research.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/call-list.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/call-list.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/interview-pipeline.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/interview-pipeline.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/service-development.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/service-development.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: kanban/competitor-research.md
+  Standardized frontmatter in: kanban/competitor-research.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: kanban/interview-pipeline.md
+  Standardized frontmatter in: kanban/interview-pipeline.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: kanban/service-development.md
+  Standardized frontmatter in: kanban/service-development.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: calls/call-list.md
+  Standardized frontmatter in: calls/call-list.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: calls/tonight-guide.md
+  Standardized frontmatter in: calls/tonight-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: calls/conversation-guide.md
+  Standardized frontmatter in: calls/conversation-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/tonight-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/tonight-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/task-guidelines.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/task-guidelines.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 07-team/task-guidelines.md
+  Standardized frontmatter in: 07-team/task-guidelines.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 07-team/tasks-dashboard.md
+  Standardized frontmatter in: 07-team/tasks-dashboard.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/conversation-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/conversation-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/tasks-dashboard.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/tasks-dashboard.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/kanban/competitor-research.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/kanban/competitor-research.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/kanban/interview-pipeline.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/kanban/interview-pipeline.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/kanban/service-development.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/kanban/service-development.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/kanban/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/kanban/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/meetings/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/meetings/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/project-plan/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/project-plan/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 03-strategy/business-model.md
+  Standardized frontmatter in: 03-strategy/business-model.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 03-strategy/research-roadmap.md
+  Standardized frontmatter in: 03-strategy/research-roadmap.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+Processing file: Financial
+  Standardized frontmatter in: Financial
+Processing file: 03-strategy/competitive-positioning.md
+  Standardized frontmatter in: 03-strategy/competitive-positioning.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/current-status.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/current-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/project-vision.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/project-vision.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/project-vision.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/project-vision.md
+Processing directory: /Users/patricksmith/obsidian/acupcakeshop/resources/templates
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/cap-strategist-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/cap-strategist-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/agent-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/agent-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/former-player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/former-player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/interview-summary-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-templates/interview-summary-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/competitor-profile-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/competitor-profile-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/competitor-templates/competitor-profile-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/competitor-templates/competitor-profile-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/index-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/index-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/competitor-profile-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/competitor-profile-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/competitor-profile.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/competitor-profile.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/standard-table-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/standard-table-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/fee-structure-comparison.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/fee-structure-comparison.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/_index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/_index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/service-comparison-matrix.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/service-comparison-matrix.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/cap-strategist-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/cap-strategist-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/analysis-templates/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/analysis-templates/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/weekly-status.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/weekly-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/kanban-card.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/kanban-card.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/task-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/task-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/weekly-note.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/weekly-note.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/agent-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/agent-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template-20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template-20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template_20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template_20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/cap-strategist-interview-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/cap-strategist-interview-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template_20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template_20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor_profile_template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor_profile_template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template_20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template_20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/cap-strategist-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/cap-strategist-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard_note_template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard_note_template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/former-player-interview-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/former-player-interview-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-table-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-table-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template-20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template-20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/agent-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/agent-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player_interview_template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player_interview_template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/weekly-status.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/weekly-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/former-player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/former-player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template_20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template_20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/interview-summary-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/interview-summary-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/agent-interview-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/agent-interview-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/industry-interview.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/industry-interview.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/interview-summary-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/interview-summary-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/yaml-frontmatter-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/yaml-frontmatter-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/meeting-notes.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/meeting-notes.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/kanban-card.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/kanban-card.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template-20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template-20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/test-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/test-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/fee-structure-comparison.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/fee-structure-comparison.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/moc-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/moc-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template-20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template-20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/weekly-note.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/weekly-note.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/audio-transcript-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/audio-transcript-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template_20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template_20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template-20250415145842.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template-20250415145842.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/client-analysis.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/client-analysis.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/service-comparison-matrix.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/service-comparison-matrix.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/former-player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/former-player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-summary-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview-summary-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/competitor-profile-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/competitor-profile-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/index-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/index-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template_20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template_20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template_20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template_20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template_20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template_20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template_20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template_20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template-20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template-20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/task-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/task-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template_20250415145841.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template_20250415145841.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/audio-transcript-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/audio-transcript-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/_index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/_index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/task-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/task-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/_index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/_index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/task-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/task-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/task-templates/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/task-templates/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/task-templates/task-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/task-templates/task-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/audio-transcript-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/audio-transcript-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/player-interview.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/player-interview.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/industry-interview.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/industry-interview.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/meeting-notes.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/meeting-notes.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/client-analysis.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/client-analysis.md
+Processing directory: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/competitor-analysis.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/competitor-analysis.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/competitor/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/competitor/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/financial/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/financial/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project-status.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/interview-insights.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/interview-insights.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/content-status.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/content-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/obsidian-compatibility-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/obsidian-compatibility-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/competitor-analysis.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/competitor-analysis.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-status.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/interview-insights.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/interview-insights.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/content-status.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/content-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/optimization-table-link.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/optimization-table-link.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-progress.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-progress.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-report.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-report.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/athlete-financial-needs.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/athlete-financial-needs.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-service-model-analysis.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-service-model-analysis.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/consolidation-success.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/consolidation-success.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-queries-dashboard.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-queries-dashboard.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/obsidian-compatibility-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/obsidian-compatibility-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/optimization-table-link.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/optimization-table-link.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/script-consolidation-report.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/script-consolidation-report.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/script-consolidation-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/script-consolidation-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/consolidation-success.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/System/consolidation-success.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project-progress.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project-progress.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/interview/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/interview/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/athlete-financial-needs.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/athlete-financial-needs.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/advanced-service-model-analysis.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/advanced-service-model-analysis.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/advanced-queries-dashboard.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/advanced-queries-dashboard.md
+Processing directory: /Users/patricksmith/obsidian/acupcakeshop/atlas
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape_20250415145843.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape_20250415145843.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/compliance-map.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/compliance-map.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models_20250415145843.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models_20250415145843.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews_20250415145843.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews_20250415145843.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/strategy-map.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/strategy-map.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning_20250415145843.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning_20250415145843.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-athlete-financial-lifecycle.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-athlete-financial-lifecycle.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-service-model.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-service-model.md
+Processing directory: /Users/patricksmith/obsidian/acupcakeshop/docs
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-plan.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-plan.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-executive-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-executive-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_verification_report.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_verification_report.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-execution-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-execution-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_completion_report.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_completion_report.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/vault_user_guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/vault_user_guide.md
+========================================
+Frontmatter standardization completed: Tue Apr 15 15:13:56 MDT 2025
+========================================

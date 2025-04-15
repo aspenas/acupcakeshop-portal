@@ -1,0 +1,358 @@
+========================================================================
+LOG: migrate_resources
+STARTED: Tue Apr 15 14:58:41 MDT 2025
+USER: patricksmith
+PID: 32350
+========================================================================
+
+[2025-04-15 14:58:41] [INFO] Starting script: migrate_resources
+[2025-04-15 14:58:41] [INFO] Description: Resource Migration
+[2025-04-15 14:58:41] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop
+[2025-04-15 14:58:41] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities
+[2025-04-15 14:58:41] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities/scripts
+[2025-04-15 14:58:41] [INFO] Starting resource migration...
+[2025-04-15 14:58:41] [INFO] Migrating templates...
+[2025-04-15 14:58:41] [INFO] Processing templates from 3 sources...
+[2025-04-15 14:58:41] [INFO] Scanning templates in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates (default category: interview)
+[2025-04-15 14:58:41] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/player-interview-template.md
+[2025-04-15 14:58:41] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/cap-strategist-interview-template.md
+[2025-04-15 14:58:41] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/player-interview-template_20250415145841.md
+[2025-04-15 14:58:41] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/agent-interview-template.md
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/player-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/player-interview-template_20250415145841.md
+[2025-04-15 14:58:41] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/cap-strategist-interview-template_20250415145841.md
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/cap-strategist-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/cap-strategist-interview-template_20250415145841.md
+[2025-04-15 14:58:41] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/former-player-interview-template.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/player-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/player-interview-template_20250415145841.md (pending)
+[2025-04-15 14:58:41] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/agent-interview-template_20250415145841.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/cap-strategist-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/cap-strategist-interview-template_20250415145841.md (pending)
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/agent-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/agent-interview-template_20250415145841.md
+[2025-04-15 14:58:41] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/former-player-interview-template_20250415145841.md
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/former-player-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/former-player-interview-template_20250415145841.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/agent-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/agent-interview-template_20250415145841.md (pending)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/former-player-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/former-player-interview-template_20250415145841.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/player-interview-template.md to completed
+[2025-04-15 14:58:41] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/player-interview-template.md
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/cap-strategist-interview-template.md to completed
+[2025-04-15 14:58:41] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/cap-strategist-interview-template.md
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/agent-interview-template.md to completed
+[2025-04-15 14:58:41] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/agent-interview-template.md
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/former-player-interview-template.md to completed
+[2025-04-15 14:58:41] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/former-player-interview-template.md
+[2025-04-15 14:58:41] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/interview-summary-template.md
+[2025-04-15 14:58:41] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/interview-summary-template_20250415145841.md
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/competitor-templates/competitor-profile-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/competitor-profile-template.md
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/interview-summary-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/interview-summary-template_20250415145841.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/competitor-templates/competitor-profile-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/competitor-profile-template.md (pending)
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/index-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/index-template.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/interview-summary-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/interview-summary-template_20250415145841.md (pending)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/index-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/index-template.md (pending)
+[2025-04-15 14:58:41] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/interview-summary-template.md
+[2025-04-15 14:58:41] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/interview-summary-template_20250415145841.md
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-summary-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/interview-summary-template_20250415145841.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-summary-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/interview-summary-template_20250415145841.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/competitor-templates/competitor-profile-template.md to completed
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/interview-summary-template.md to completed
+[2025-04-15 14:58:41] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/competitor-templates/competitor-profile-template.md
+[2025-04-15 14:58:41] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/interview-summary-template.md
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/index-template.md to completed
+[2025-04-15 14:58:41] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/index-template.md
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-summary-template.md to completed
+[2025-04-15 14:58:41] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-summary-template.md
+[2025-04-15 14:58:41] [INFO] Scanning templates in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates (default category: system)
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/task-templates/task-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/task-template.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/task-templates/task-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/task-template.md (pending)
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/audio-transcript-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/audio-transcript-template.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/audio-transcript-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/audio-transcript-template.md (pending)
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template.md (pending)
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile.md
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/standard-table-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/standard-table-template.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile.md (pending)
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/standard-table-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/standard-table-template.md (pending)
+[2025-04-15 14:58:41] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/fee-structure-comparison.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/fee-structure-comparison.md
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/task-templates/task-template.md to completed
+[2025-04-15 14:58:41] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/task-templates/task-template.md
+[2025-04-15 14:58:41] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/fee-structure-comparison.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/fee-structure-comparison.md (pending)
+[2025-04-15 14:58:41] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/audio-transcript-template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/audio-transcript-template.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile-template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile-template.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/standard-table-template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/standard-table-template.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/fee-structure-comparison.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/fee-structure-comparison.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/service-comparison-matrix.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/service-comparison-matrix.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/service-comparison-matrix.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/service-comparison-matrix.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-status.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/weekly-status.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/kanban-card.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/kanban-card.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-status.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/weekly-status.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/task-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/task-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/kanban-card.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/kanban-card.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/task-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/task-template.md (pending)
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/service-comparison-matrix.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/service-comparison-matrix.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-status.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-status.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/kanban-card.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/kanban-card.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/task-template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/task-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-note.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/weekly-note.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/index-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-note.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/weekly-note.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/standard-note-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/index-template.md (skipped)
+[2025-04-15 14:58:42] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template_20250415145842.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor_profile_template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template_20250415145842.md
+[2025-04-15 14:58:42] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/standard-note-template_20250415145842.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard_note_template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/standard-note-template_20250415145842.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor_profile_template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template_20250415145842.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard_note_template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/standard-note-template_20250415145842.md (pending)
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-note.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-note.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor_profile_template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor_profile_template.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard_note_template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard_note_template.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player_interview_template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/interview-summary-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player_interview_template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview-template.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/yaml-frontmatter-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/yaml-frontmatter-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/index.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/interview-summary-template.md (skipped)
+[2025-04-15 14:58:42] [INFO] [Template] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/yaml-frontmatter-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/yaml-frontmatter-template.md (skipped)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/index.md (skipped)
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player_interview_template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player_interview_template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/test-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/moc-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/test-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/audio-transcript-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/moc-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/test-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/test-template.md (skipped)
+[2025-04-15 14:58:42] [INFO] [Template] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/audio-transcript-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/standard-note-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/moc-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/moc-template.md (skipped)
+[2025-04-15 14:58:42] [INFO] [Template] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/audio-transcript-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/audio-transcript-template.md (skipped)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/standard-note-template.md (skipped)
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template_20250415145842.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/index-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/competitor-profile-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template_20250415145842.md
+[2025-04-15 14:58:42] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview-template_20250415145842.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/cap-strategist-interview-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/competitor-profile-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/competitor-profile-template_20250415145842.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview-template_20250415145842.md
+[2025-04-15 14:58:42] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/index-template_20250415145842.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/cap-strategist-interview-template.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview-template_20250415145842.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/index-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/index-template_20250415145842.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/index-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/index-template_20250415145842.md (pending)
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/competitor-profile-template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/competitor-profile-template.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template.md to completed
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/index-template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/index-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/interview-summary-template-20250415145841.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/agent-interview-template-20250415145841.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/interview-summary-template-20250415145841.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview-template-20250415145841.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/agent-interview-template-20250415145841.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview-template-20250415145841.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/agent-interview-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/agent-interview-template.md (pending)
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template_20250415145841.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template_20250415145841.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template_20250415145841.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template_20250415145841.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template_20250415145841.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template_20250415145841.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/former-player-interview-template-20250415145841.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/former-player-interview-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/former-player-interview-template-20250415145841.md (pending)
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/interview-summary-template.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/former-player-interview-template.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/cap-strategist-interview-template-20250415145841.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/interview-summary-template.md (skipped)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/cap-strategist-interview-template-20250415145841.md (pending)
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template_20250415145841.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template_20250415145841.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md
+[2025-04-15 14:58:42] [WARNING] [Template] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/task-template.md
+[2025-04-15 14:58:42] [WARNING] [Template] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/task-template_20250415145842.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/player-interview.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/task-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/task-template_20250415145842.md
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/industry-interview.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/industry-interview.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/player-interview.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/player-interview.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/task-template.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/task-template_20250415145842.md (pending)
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/meeting-notes.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/meeting-notes.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/industry-interview.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/industry-interview.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/meeting-notes.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/meeting-notes.md (pending)
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/task-template.md to completed
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/player-interview.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/task-template.md
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/player-interview.md
+[2025-04-15 14:58:42] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/meeting-notes.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/industry-interview.md to completed
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/industry-interview.md
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/meeting-notes.md
+[2025-04-15 14:58:42] [WARNING] Template source directory not found: /Users/patricksmith/obsidian/acupcakeshop/Templates
+[2025-04-15 14:58:42] [INFO] Migrating dashboards...
+[2025-04-15 14:58:42] [INFO] Processing dashboards from 2 sources...
+[2025-04-15 14:58:42] [INFO] Scanning dashboards in /Users/patricksmith/obsidian/acupcakeshop/Dashboards (default category: project)
+[2025-04-15 14:58:42] [INFO] [Template] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/client-analysis.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/client-analysis.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/client-analysis.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/templates/system/client-analysis.md (pending)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/optimization_table_link.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/optimization-table-link.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/obsidian_compatibility_summary.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/obsidian-compatibility-summary.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/optimization_table_link.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/optimization-table-link.md (pending)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_report.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-report.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/obsidian_compatibility_summary.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/obsidian-compatibility-summary.md (pending)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/consolidation_success.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/consolidation-success.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_report.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-report.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/consolidation_success.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/consolidation-success.md (pending)
+[2025-04-15 14:58:42] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/client-analysis.md
+[2025-04-15 14:58:42] [INFO] [Template] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/client-analysis.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/optimization_table_link.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/optimization_table_link.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/obsidian_compatibility_summary.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/obsidian_compatibility_summary.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_report.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_report.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/consolidation_success.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/consolidation_success.md
+[2025-04-15 14:58:42] [INFO] Scanning dashboards in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards (default category: project)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_summary.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-summary.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_summary.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-summary.md (pending)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor-analysis.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/competitor-analysis.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor-analysis.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/competitor-analysis.md (pending)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-status.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-status.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview-insights.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/interview-insights.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-status.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-status.md (pending)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/content-status.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/content-status.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview-insights.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/interview-insights.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/content-status.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/content-status.md (pending)
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_summary.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_summary.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor-analysis.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor-analysis.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-status.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-status.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview-insights.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview-insights.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/content-status.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/content-status.md
+[2025-04-15 14:58:42] [WARNING] [Dashboard] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/obsidian-compatibility-summary.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/obsidian-compatibility-summary.md
+[2025-04-15 14:58:42] [WARNING] [Dashboard] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/optimization-table-link.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/optimization-table-link.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/obsidian-compatibility-summary.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/obsidian-compatibility-summary.md (skipped)
+[2025-04-15 14:58:42] [WARNING] [Dashboard] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-report.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/optimization-table-link.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/optimization-table-link.md (skipped)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/script-consolidation-report.md
+[2025-04-15 14:58:42] [WARNING] [Dashboard] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/consolidation-success.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Files are identical, skipping: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/consolidation-success.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/script-consolidation-report.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-report.md (skipped)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/consolidation-success.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/consolidation-success.md (skipped)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-progress.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-progress.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/index.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/index.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-progress.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-progress.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/index.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/index.md (pending)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/athlete-financial-needs.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/athlete-financial-needs.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-service-model-analysis.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-service-model-analysis.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/athlete-financial-needs.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/athlete-financial-needs.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-service-model-analysis.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-service-model-analysis.md (pending)
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-progress.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-progress.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/index.md to completed
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/index.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/athlete-financial-needs.md to completed
+[2025-04-15 14:58:42] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-service-model-analysis.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/athlete-financial-needs.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-service-model-analysis.md
+[2025-04-15 14:58:42] [INFO] Migrating maps...
+[2025-04-15 14:58:42] [INFO] Processing maps from 2 sources...
+[2025-04-15 14:58:42] [INFO] Scanning maps in /Users/patricksmith/obsidian/acupcakeshop/Maps (target directory: atlas)
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-queries-dashboard.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-queries-dashboard.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-queries-dashboard.md -> /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-queries-dashboard.md (pending)
+[2025-04-15 14:58:42] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-strategic-planning.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning.md
+[2025-04-15 14:58:42] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-service-models.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models.md
+[2025-04-15 14:58:42] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-competitor-landscape.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape.md
+[2025-04-15 14:58:42] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-athlete-interviews.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-strategic-planning.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-service-models.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-competitor-landscape.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape.md (pending)
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-athlete-interviews.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews.md (pending)
+[2025-04-15 14:58:42] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-queries-dashboard.md
+[2025-04-15 14:58:42] [INFO] [Dashboard] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-queries-dashboard.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Maps/map-strategic-planning.md to completed
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Maps/map-athlete-interviews.md to completed
+[2025-04-15 14:58:42] [ERROR] Source file not found in tracker: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-competitor-landscape.md
+[2025-04-15 14:58:42] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Maps/map-service-models.md to completed
+[2025-04-15 14:58:42] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-service-models.md
+[2025-04-15 14:58:42] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-athlete-interviews.md
+[2025-04-15 14:58:42] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-strategic-planning.md
+[2025-04-15 14:58:42] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Maps/map-competitor-landscape.md
+[2025-04-15 14:58:42] [INFO] Scanning maps in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps (target directory: atlas)
+[2025-04-15 14:58:42] [INFO] [Map] Skipping README file: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/README.md
+[2025-04-15 14:58:42] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/README.md ->  (skipped)
+[2025-04-15 14:58:43] [WARNING] [Map] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape.md
+[2025-04-15 14:58:43] [WARNING] [Map] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews.md
+[2025-04-15 14:58:43] [WARNING] [Map] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models.md
+[2025-04-15 14:58:43] [WARNING] [Map] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews_20250415145843.md
+[2025-04-15 14:58:43] [WARNING] [Map] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape_20250415145843.md
+[2025-04-15 14:58:43] [WARNING] [Map] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models_20250415145843.md
+[2025-04-15 14:58:43] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-competitor-landscape.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape_20250415145843.md
+[2025-04-15 14:58:43] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-athlete-interviews.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews_20250415145843.md
+[2025-04-15 14:58:43] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-service-models.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models_20250415145843.md
+[2025-04-15 14:58:43] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-competitor-landscape.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape_20250415145843.md (pending)
+[2025-04-15 14:58:43] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-service-models.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models_20250415145843.md (pending)
+[2025-04-15 14:58:43] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-athlete-interviews.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews_20250415145843.md (pending)
+[2025-04-15 14:58:43] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-competitor-landscape.md to completed
+[2025-04-15 14:58:43] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-athlete-interviews.md to completed
+[2025-04-15 14:58:43] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-service-models.md to completed
+[2025-04-15 14:58:43] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-service-models.md
+[2025-04-15 14:58:43] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-athlete-interviews.md
+[2025-04-15 14:58:43] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-competitor-landscape.md
+[2025-04-15 14:58:43] [INFO] Migrating assets...
+[2025-04-15 14:58:43] [INFO] Processing assets from 2 sources...
+[2025-04-15 14:58:43] [WARNING] Asset source directory not found: /Users/patricksmith/obsidian/acupcakeshop/attachments
+[2025-04-15 14:58:43] [INFO] Scanning assets in /Users/patricksmith/obsidian/acupcakeshop/Resources/Attachments (target directory: resources/assets)
+[2025-04-15 14:58:43] [SUCCESS] Resource migration completed successfully
+
+========================================================================
+COMPLETED: Tue Apr 15 14:58:43 MDT 2025
+STATUS: 0
+========================================================================
+[2025-04-15 14:58:43] [SUCCESS] Script completed successfully.
+[2025-04-15 14:58:43] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-service-model.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-service-model.md
+[2025-04-15 14:58:43] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-athlete-financial-lifecycle.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-athlete-financial-lifecycle.md
+[2025-04-15 14:58:43] [WARNING] [Map] Target file already exists: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning.md
+[2025-04-15 14:58:43] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-athlete-financial-lifecycle.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-athlete-financial-lifecycle.md (pending)
+[2025-04-15 14:58:43] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-service-model.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-service-model.md (pending)
+[2025-04-15 14:58:43] [WARNING] [Map] Creating unique filename: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning_20250415145843.md
+[2025-04-15 14:58:43] [INFO] [Map] Migrating: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-strategic-planning.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning_20250415145843.md
+[2025-04-15 14:58:43] [INFO] Recorded migration: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-strategic-planning.md -> /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning_20250415145843.md (pending)
+[2025-04-15 14:58:43] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-service-model.md to completed
+[2025-04-15 14:58:43] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-athlete-financial-lifecycle.md to completed
+[2025-04-15 14:58:43] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-service-model.md
+[2025-04-15 14:58:43] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-athlete-financial-lifecycle.md
+[2025-04-15 14:58:43] [INFO] Updated migration status for /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-strategic-planning.md to completed
+[2025-04-15 14:58:43] [INFO] [Map] Migration completed: /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-strategic-planning.md

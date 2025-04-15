@@ -1,0 +1,42 @@
+{
+  "vault_path": ".",
+  "analysis": {
+    "min_similarity_threshold": 0.1,
+    "consolidation_threshold": 0.2,
+    "high_benefit_threshold": 0.3,
+    "min_shared_functions": 1
+  },
+  "execution": {
+    "default_dry_run": true,
+    "backup_before_consolidation": true,
+    "update_references": true,
+    "test_after_consolidation": true
+  },
+  "reporting": {
+    "include_code_snippets": true,
+    "dashboard_path": "Dashboards/System/script_consolidation_report.md",
+    "detailed_logs": true
+  },
+  "exclude_patterns": [
+    "**/node_modules/**",
+    "**/.git/**",
+    "**/System/Backups/**"
+  ],
+  "script_types": [
+    {
+      "extension": ".py",
+      "consolidation_strategy": "module",
+      "import_pattern": "from {module} import {function}"
+    },
+    {
+      "extension": ".sh",
+      "consolidation_strategy": "source",
+      "import_pattern": "source \"$SCRIPT_DIR/lib/{module}.sh\""
+    },
+    {
+      "extension": ".js",
+      "consolidation_strategy": "require",
+      "import_pattern": "const {function} = require('./{module}')"
+    }
+  ]
+}

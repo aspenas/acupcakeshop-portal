@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "84b04efb7a6146d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c75508a5b4c2ee61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c337c3634f3b87ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Athlete Financial Empowerment/03-strategy/research-roadmap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "research-roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d987f5b9daee8e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c6b8c778fbd9a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da7d6c713988a2e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "203840ef434a3009",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54a80e2584d9dbe2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "373128d5474a3dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce77825f523a124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef25a5763b85c1dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "445ba19ea3c41dc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "99452538c68515be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c5d5ceb34feb8f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Athlete Financial Empowerment/03-strategy/research-roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of research-roadmap"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5c5d5ceb34feb8f8",
+  "lastOpenFiles": [
+    "_utilities/scripts/simple_frontmatter_fix.sh",
+    "_utilities/scripts/simple_link_repair.sh",
+    "_utilities/logs/template_link_repair_20250415_160414.log",
+    "_utilities/logs/template_link_repair_20250415_160407.log",
+    "docs/template_usage_guide.md",
+    "docs/content_creation_workflow.md",
+    "docs/vault_structure_guide.md",
+    "_utilities/scripts/advanced_frontmatter_standardizer.sh",
+    "_utilities/scripts/template_aware_link_repair.sh",
+    "README_OBSIDIAN_PLUGINS.md",
+    "install_plugins.py",
+    "OBSIDIAN_PLUGINS_README.md",
+    "install_obsidian_plugins.sh",
+    "docs/migration_success_summary.md",
+    "_utilities/logs/verify_migration_20250415_152527.log",
+    "docs/knowledge-graph-enhancement-guide.md.tmp",
+    "docs/organization-standards.md.tmp",
+    "content/interviews/industry-professionals/2025/04_april/nelson-daryl-financial-advisor.md",
+    "content/interviews/industry-professionals/2025/04_april/campbell-lamar-financial-advisor.md",
+    "content/interviews/agents/2025/04_april/lynn-nicole-klutch-agent.md",
+    "content/interviews/agents/2025/04_april/conner-kevin-universal-agent.md",
+    "content/interviews/players/active/2025/04_april/smith-roquan-ravens-linebacker.md",
+    "content/interviews/players/active/2025/04_april/oconnell-aidan-raiders-quarterback.md",
+    "content/interviews/players/active/2025/04_april/johnson-jaylen-bears-safety.md",
+    "content/interviews/players/active/2025/04_april/jenkins-john-raiders-defensive-tackle.md",
+    "content/compliance/standards/recordkeeping-requirements.md",
+    "content/compliance/standards/disclosure-requirements.md",
+    "content/compliance/standards/fiduciary-requirements.md",
+    "content/compliance/advisory-board/governance-structure.md",
+    "content/compliance/advisory-board/candidate-research.md",
+    "content/compliance/advisory-board/board-requirements.md",
+    "content/compliance/registration/maintenance-requirements.md",
+    "content/compliance/registration/application-process.md",
+    "content/compliance/registration/requirements.md",
+    "content/strategy/implementation/phase-three.md",
+    "content/strategy/implementation/phase-two.md"
+  ]
+}

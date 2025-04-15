@@ -1,0 +1,25 @@
+{
+  "id": "sample123",
+  "name": "Sample Data",
+  "date": "2025-04-15",
+  "description": "This is sample data for testing",
+  "items": [
+    {
+      "id": 1,
+      "name": "Item 1",
+      "value": 10.5
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "value": 20.75
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "value": 15.25
+    }
+  ],
+  "processed_at": "2025-04-15T11:36:18.782617",
+  "status": "processed"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "group_id": 0,
+    "success": true,
+    "message": "Extracted 2 shared functions to example_script1_script2.py",
+    "consolidated_path": "Scripts/lib/example_script1_script2.py",
+    "modified_scripts": [
+      "/Users/patricksmith/obsidian/acupcakeshop/Scripts/example_script1.py",
+      "/Users/patricksmith/obsidian/acupcakeshop/Scripts/example_script2.py",
+      "/Users/patricksmith/obsidian/acupcakeshop/Scripts/example_script3.py"
+    ]
+  }
+]

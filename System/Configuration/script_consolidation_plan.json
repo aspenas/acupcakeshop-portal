@@ -1,0 +1,19 @@
+[
+  {
+    "group_id": 0,
+    "scripts": [
+      "/Users/patricksmith/obsidian/acupcakeshop/Scripts/example_script1.py",
+      "/Users/patricksmith/obsidian/acupcakeshop/Scripts/example_script2.py",
+      "/Users/patricksmith/obsidian/acupcakeshop/Scripts/example_script3.py"
+    ],
+    "shared_functions": [
+      "load_data",
+      "get_timestamp"
+    ],
+    "primary_type": "py",
+    "similarity_score": 0.4515334176701513,
+    "consolidated_name": "example_script1_script2",
+    "action": "extract_common",
+    "estimated_benefit": "medium"
+  }
+]

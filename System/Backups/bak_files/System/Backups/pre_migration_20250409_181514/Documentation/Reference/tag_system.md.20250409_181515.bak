@@ -1,0 +1,171 @@
+# Athlete Financial Empowerment - Tagging System
+
+This document outlines the comprehensive tagging system for the Athlete Financial Empowerment Obsidian vault.
+
+## Tagging Guidelines
+
+1. **Format**: Use kebab-case for multi-word tags (`financial-education` not `financial education`)
+2. **Hierarchy**: Use colon for hierarchical tags (`status:active` not `status-active`)
+3. **Consistency**: Choose one format for similar concepts and stick with it
+4. **Specificity**: Balance between too generic and too specific
+5. **Application**: Apply tags in the YAML frontmatter of each note
+
+## Core Tag Categories
+
+### Content Type Tags
+
+These tags identify the type of content in a note:
+
+- `#interview` - Interview notes and summaries
+- `#competitor` - Competitor analysis and profiles
+- `#research` - Market and industry research
+- `#analysis` - Analysis documents
+- `#strategy` - Strategic planning documents
+- `#meeting` - Meeting notes
+- `#task` - Task descriptions
+- `#milestone` - Project milestones
+- `#dashboard` - Dashboard and overview pages
+- `#template` - Template files
+- `#reference` - Reference materials
+- `#process` - Process documentation
+- `#protocol` - Standardized procedures
+- `#index` - Index and navigation pages
+
+### Subject Area Tags
+
+These tags identify the subject matter:
+
+- `#financial` - Financial topics
+- `#investment` - Investment strategies and topics
+- `#tax` - Tax planning and strategies
+- `#estate` - Estate planning
+- `#contract` - Contract analysis and negotiation
+- `#compliance` - Regulatory compliance
+- `#education` - Financial education materials
+- `#career` - Career planning and transitions
+- `#brand` - Brand building and endorsements
+- `#insurance` - Insurance topics
+- `#retirement` - Retirement planning
+- `#business` - Business ventures and opportunities
+
+### Status Tags
+
+These tags indicate content status:
+
+- `#status:active` - Active content/project
+- `#status:completed` - Completed content/task
+- `#status:review` - Content needs review
+- `#status:draft` - Draft content
+- `#status:archived` - Archived content
+- `#status:pending` - Pending or waiting
+- `#status:on-hold` - On hold temporarily
+
+### Priority Tags
+
+These tags indicate priority levels:
+
+- `#priority:high` - High priority
+- `#priority:medium` - Medium priority
+- `#priority:low` - Low priority
+
+### Sport Tags
+
+These tags indicate sport categories:
+
+- `#football` - NFL and football
+- `#basketball` - NBA and basketball
+- `#baseball` - MLB and baseball
+- `#hockey` - NHL and hockey
+- `#soccer` - MLS and soccer
+- `#olympic` - Olympic sports
+- `#multi-sport` - Multiple sports
+
+### Career Stage Tags
+
+These tags indicate athlete career stages:
+
+- `#rookie` - First-year professionals
+- `#early-career` - Years 2-4
+- `#mid-career` - Years 5-8
+- `#late-career` - Years 9+
+- `#post-career` - Retired athletes
+
+### Stakeholder Tags
+
+These tags indicate stakeholder types:
+
+- `#athlete` - Professional athletes
+- `#agent` - Sports agents
+- `#advisor` - Financial advisors
+- `#team` - Team personnel
+- `#league` - League executives
+- `#family` - Family members
+- `#partner` - Business partners
+
+## Tag Combinations
+
+Effective tag combinations include:
+
+- `#interview #athlete #football #mid-career` - Interview with a mid-career NFL player
+- `#competitor #financial #analysis` - Analysis of a competitor in financial services
+- `#task #status:active #priority:high` - High-priority active task
+- `#strategy #education #status:draft` - Draft strategy for educational content
+- `#meeting #agent #status:completed` - Completed meeting notes with an agent
+
+## Implementation Strategy
+
+1. **Start with Core Tags**: Begin by applying content type and subject tags
+2. **Add Status Tags**: Apply status tags to all content
+3. **Add Specificity**: Add more specific tags as needed
+4. **Review for Consistency**: Regularly review tag usage for consistency
+5. **Refine Over Time**: Adjust the tagging system as the project evolves
+
+## Tag Usage in Queries
+
+Examples of how to use tags in Dataview queries:
+
+```dataview
+TABLE file.cday as "Created"
+FROM #interview AND #football
+SORT file.cday DESC
+```
+
+```dataview
+TABLE status as "Status", priority as "Priority"
+FROM #task AND #status:active
+SORT priority DESC
+```
+
+## Tag Application in YAML Frontmatter
+
+Example of proper tag application in frontmatter:
+
+```yaml
+---
+title: "Interview with John Smith"
+date: 2025-04-06
+tags: [interview, athlete, football, mid-career, contract]
+---
+```
+
+## Tagging Best Practices
+
+1. Apply tags consistently across similar content
+2. Don't over-tag - 3-7 tags per note is usually sufficient
+3. Review and update tags as the project evolves
+4. Use tags in combination with Dataview for powerful queries
+5. Document new tag categories in this reference document
+6. Consider tag maintenance as part of regular vault maintenance
+
+## Automated Tag Suggestions
+
+Use templated notes with pre-populated tag options to encourage consistent tagging.
+
+Example in meeting template:
+```yaml
+---
+title: "Meeting: {{title}}"
+date: {{date:YYYY-MM-DD}}
+tags: [meeting, {{type}}]
+---
+```

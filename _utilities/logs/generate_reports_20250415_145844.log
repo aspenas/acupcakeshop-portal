@@ -1,0 +1,18 @@
+========================================================================
+LOG: generate_reports
+STARTED: Tue Apr 15 14:58:44 MDT 2025
+USER: patricksmith
+PID: 38144
+========================================================================
+
+[2025-04-15 14:58:44] [INFO] Starting script: generate_reports
+[2025-04-15 14:58:44] [INFO] Description: Report Generation
+[2025-04-15 14:58:44] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop
+[2025-04-15 14:58:44] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities
+[2025-04-15 14:58:44] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities/scripts
+[2025-04-15 14:58:44] [INFO] Starting report generation...
+[2025-04-15 14:58:44] [INFO] Generating migration completion report...
+[2025-04-15 14:58:44] [SUCCESS] Generated completion report: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_completion_report.md
+[2025-04-15 14:58:44] [INFO] Generating migration summary report...
+[2025-04-15 14:58:44] [SUCCESS] Generated summary report: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_summary.md
+[2025-04-15 14:58:44] [INFO] Generating vault user guide...

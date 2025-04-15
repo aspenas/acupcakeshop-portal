@@ -1,0 +1,105 @@
+========================================================================
+LOG: prepare_migration
+STARTED: Tue Apr 15 14:58:39 MDT 2025
+USER: patricksmith
+PID: 29891
+========================================================================
+
+[2025-04-15 14:58:39] [INFO] Starting script: prepare_migration
+[2025-04-15 14:58:39] [INFO] Description: Migration Preparation
+[2025-04-15 14:58:39] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop
+[2025-04-15 14:58:39] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities
+[2025-04-15 14:58:39] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities/scripts
+[2025-04-15 14:58:39] [INFO] Starting migration preparation...
+[2025-04-15 14:58:39] [INFO] Creating directory structure for the new organization...
+[2025-04-15 14:58:39] [INFO] Created directory: atlas
+[2025-04-15 14:58:39] [INFO] Created directory: content
+[2025-04-15 14:58:39] [INFO] Created directory: content/interviews
+[2025-04-15 14:58:39] [INFO] Created directory: content/interviews/players
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/interviews/agents
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/interviews/industry-professionals
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/research
+[2025-04-15 14:58:39] [INFO] Created directory: content/research/market-analysis
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/research/competitor-profiles
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/research/industry-analysis
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/research/industry-analysis/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/strategy
+[2025-04-15 14:58:39] [INFO] Created directory: content/strategy/business-model
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/strategy/planning
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/strategy/implementation
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/compliance
+[2025-04-15 14:58:39] [INFO] Created directory: content/compliance/registration
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/compliance/advisory-board
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: content/compliance/standards
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources
+[2025-04-15 14:58:39] [INFO] Created directory: resources/templates
+[2025-04-15 14:58:39] [INFO] Created directory: resources/templates/interview
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/interview/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources/templates/analysis
+[2025-04-15 14:58:39] [INFO] Created directory: resources/templates/project
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/project/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources/templates/task
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/task/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources/templates/system
+[2025-04-15 14:58:39] [INFO] Created directory: resources/assets
+[2025-04-15 14:58:39] [INFO] Created directory: resources/assets/images
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/images/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources/assets/documents
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/documents/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources/assets/diagrams
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/diagrams/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources/dashboards
+[2025-04-15 14:58:39] [INFO] Created directory: resources/dashboards/project
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources/dashboards/competitor
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/competitor/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources/dashboards/financial
+[2025-04-15 14:58:39] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/financial/README.md
+[2025-04-15 14:58:39] [INFO] Created directory: resources/dashboards/interview
+[2025-04-15 14:58:40] [INFO] Created README: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/interview/README.md
+[2025-04-15 14:58:40] [INFO] Created directory: docs
+[2025-04-15 14:58:40] [SUCCESS] Directory structure created successfully
+[2025-04-15 14:58:40] [INFO] Validating script permissions...
+[2025-04-15 14:58:40] [INFO] Script validated: migration_lib.sh
+[2025-04-15 14:58:40] [INFO] Script validated: migration_core.sh
+[2025-04-15 14:58:40] [INFO] Script validated: backup_vault.sh
+[2025-04-15 14:58:40] [INFO] Script validated: prepare_migration.sh
+[2025-04-15 14:58:40] [INFO] Script validated: migrate_content.sh
+[2025-04-15 14:58:40] [INFO] Script validated: migrate_resources.sh
+[2025-04-15 14:58:40] [INFO] Script validated: update_links.sh
+[2025-04-15 14:58:40] [INFO] Script validated: verify_migration.sh
+[2025-04-15 14:58:40] [INFO] Script validated: generate_reports.sh
+[2025-04-15 14:58:40] [SUCCESS] All scripts have correct permissions
+[2025-04-15 14:58:40] [INFO] Creating inventory of source files...
+[2025-04-15 14:58:40] [INFO] Creating content inventory...
+[2025-04-15 14:58:40] [INFO] Found 80 content files
+[2025-04-15 14:58:40] [INFO] Creating templates inventory...
+[2025-04-15 14:58:40] [INFO] Found 268 template files
+[2025-04-15 14:58:40] [INFO] Creating dashboards and maps inventory...
+[2025-04-15 14:58:40] [INFO] Found 98 dashboard and map files
+[2025-04-15 14:58:40] [INFO] Creating assets inventory...
+[2025-04-15 14:58:40] [INFO] Found 0 asset files
+[2025-04-15 14:58:40] [SUCCESS] Source inventory created successfully
+[2025-04-15 14:58:40] [INFO] Initializing migration tracker...
+[2025-04-15 14:58:40] [INFO] Initialized migration tracker: /Users/patricksmith/obsidian/acupcakeshop/_utilities/inventory/migration_tracker.csv
+[2025-04-15 14:58:40] [SUCCESS] Migration tracker initialized successfully
+[2025-04-15 14:58:40] [INFO] Creating .obsidian-ignore file...
+[2025-04-15 14:58:40] [SUCCESS] Created .obsidian-ignore file: /Users/patricksmith/obsidian/acupcakeshop/.obsidian-ignore
+[2025-04-15 14:58:40] [SUCCESS] Migration preparation completed successfully
+
+========================================================================
+COMPLETED: Tue Apr 15 14:58:40 MDT 2025
+STATUS: 0
+========================================================================
+[2025-04-15 14:58:40] [SUCCESS] Script completed successfully.

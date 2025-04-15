@@ -1,0 +1,183 @@
+========================================================================
+LOG: verify_migration
+STARTED: Tue Apr 15 15:14:02 MDT 2025
+USER: patricksmith
+PID: 72103
+========================================================================
+
+[2025-04-15 15:14:02] [INFO] Starting script: verify_migration
+[2025-04-15 15:14:02] [INFO] Description: Migration Verification
+[2025-04-15 15:14:02] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop
+[2025-04-15 15:14:02] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities
+[2025-04-15 15:14:02] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities/scripts
+[2025-04-15 15:14:02] [INFO] Starting migration verification...
+[2025-04-15 15:14:02] [INFO] Checking for unmigrated content...
+[2025-04-15 15:14:02] [INFO] Creating inventory of original markdown files...
+[2025-04-15 15:14:02] [INFO] Found 362 original markdown files
+[2025-04-15 15:14:02] [INFO] Found 80 migrated source files
+[2025-04-15 15:14:02] [WARNING] Found 283 unmigrated files
+[2025-04-15 15:14:02] [INFO] Checking for broken links in migrated content...
+[2025-04-15 15:14:02] [INFO] Checking links in: /Users/patricksmith/obsidian/acupcakeshop/content
+[2025-04-15 15:14:02] [INFO] Checking links in: /Users/patricksmith/obsidian/acupcakeshop/resources
+[2025-04-15 15:14:03] [INFO] Checking links in: /Users/patricksmith/obsidian/acupcakeshop/atlas
+[2025-04-15 15:14:03] [INFO] Checking links in: /Users/patricksmith/obsidian/acupcakeshop/docs
+[2025-04-15 15:14:03] [WARNING] Found 182 broken links
+[2025-04-15 15:14:03] [INFO] Checking frontmatter standardization...
+[2025-04-15 15:14:03] [INFO] Checking frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content
+[2025-04-15 15:14:03] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/README.md
+[2025-04-15 15:14:04] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/README.md
+[2025-04-15 15:14:04] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/README.md
+[2025-04-15 15:14:04] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/README.md
+[2025-04-15 15:14:04] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/smith-roquan-ravens.md
+[2025-04-15 15:14:04] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-smith-roquan-ravens-linebacker.md
+[2025-04-15 15:14:05] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/README.md
+[2025-04-15 15:14:05] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/README.md
+[2025-04-15 15:14:06] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/README.md
+[2025-04-15 15:14:06] [INFO] Checking frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources
+[2025-04-15 15:14:06] [WARNING] Found 5 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Maps/map-service-models.md
+[2025-04-15 15:14:06] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Maps/README.md
+[2025-04-15 15:14:06] [WARNING] Found 5 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Maps/map-athlete-interviews.md
+[2025-04-15 15:14:06] [WARNING] Found 5 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Maps/map-competitor-landscape.md
+[2025-04-15 15:14:06] [WARNING] Found 5 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Maps/map-strategic-planning.md
+[2025-04-15 15:14:06] [WARNING] Found 5 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Maps/mind-map-athlete-financial-lifecycle.md
+[2025-04-15 15:14:06] [WARNING] Found 5 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Maps/mind-map-service-model.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/optimization-table.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/automation-scripts-guide.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/recovery-complete.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/deployment-package.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/vault-fix-report.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/vault-reorganization-plan.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/implementation-status.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/migration-dashboard.md
+[2025-04-15 15:14:06] [WARNING] Found 4 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/tagging-implementation-guide.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/athlete-financial-lifecycle.excalidraw.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/cleanup-summary.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/strategic-linking-summary.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/strategic-linking-implementation.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/documentation-dashboard.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/fix-next-steps.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/welcome.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/directory-structure-log.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/mermaid-implementation-guide.md
+[2025-04-15 15:14:06] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/migration-verification-status.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/phased-migration-plan.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/migration-verification-report.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/enhanced-implementation-plan.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/yaml-audit-results.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/first-phase-plugin-guide.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/migration-completion-report.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/final-recovery-report.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/obsidian-enhancement-summary.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/implementation-plan.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/redirection-fix-report.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/implementation-roadmap.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/index.md
+[2025-04-15 15:14:07] [WARNING] Found 4 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/consolidation-next-steps.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/strategic-linking-guide.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/vault-migration-plan.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/advanced-enhancement-recommendations.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/recovery-successful.md
+[2025-04-15 15:14:07] [WARNING] Found 5 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/enhancement-summary.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/migration-report.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/template-implementation-guide.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/verification-report-20250409-132809.md
+[2025-04-15 15:14:07] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/yaml-frontmatter-standardization.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/graph-view-optimization.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/Installation.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/plugin-installation-guide.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/dataview-implementation-guide.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/Maintenance.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/yaml-frontmatter-guide.md
+[2025-04-15 15:14:07] [WARNING] Found 4 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/obsidian-sync-compatibility.md
+[2025-04-15 15:14:07] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/README-templates.md
+[2025-04-15 15:14:07] [WARNING] Found 4 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/obsidian-performance-guide.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/tag-system.md
+[2025-04-15 15:14:07] [WARNING] Found 3 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/Automation.md
+[2025-04-15 15:14:07] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/README.md
+[2025-04-15 15:14:07] [WARNING] Found 5 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Visualizations/athlete-financial-lifecycle.excalidraw.md
+[2025-04-15 15:14:07] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Visualizations/README.md
+[2025-04-15 15:14:07] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Visualizations/README-templates.md
+[2025-04-15 15:14:07] [WARNING] Found 5 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/index.md
+[2025-04-15 15:14:07] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/competitor/README.md
+[2025-04-15 15:14:07] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/financial/README.md
+[2025-04-15 15:14:07] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/README.md
+[2025-04-15 15:14:07] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/project/README.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/obsidian-compatibility-summary.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/optimization-table-link.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/script-consolidation-report.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/script-consolidation-summary.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/consolidation-success.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/interview/README.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/competitor-profile.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/standard-table-template.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/README.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/fee-structure-comparison.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/_index.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/service-comparison-matrix.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/README.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/weekly-status.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/kanban-card.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/task-template.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/weekly-note.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/competitor-profile-template.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/player-interview-template.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/index-template.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/competitor_profile_template.md
+[2025-04-15 15:14:08] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/standard_note_template.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/README.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/player_interview_template.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/interview-summary-template.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/yaml-frontmatter-template.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/index.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/test-template.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/moc-template.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/audio-transcript-template.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/standard-note-template.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Interview/README.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Interview/_index.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Task/README.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Task/_index.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/player-interview.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/industry-interview.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/meeting-notes.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/client-analysis.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/images/README.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/diagrams/README.md
+[2025-04-15 15:14:09] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/README.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/documents/README.md
+[2025-04-15 15:14:10] [INFO] Checking frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/atlas/compliance-map.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/atlas/README.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/atlas/strategy-map.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning.md
+[2025-04-15 15:14:10] [INFO] Checking frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-plan.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_summary.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-executive-summary.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/README.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_verification_report.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-execution-guide.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_completion_report.md
+[2025-04-15 15:14:10] [WARNING] Found 1 frontmatter issues in: /Users/patricksmith/obsidian/acupcakeshop/docs/vault_user_guide.md
+[2025-04-15 15:14:10] [WARNING] Found 335 frontmatter issues
+[2025-04-15 15:14:10] [INFO] Generating verification report...
+[2025-04-15 15:14:10] [SUCCESS] Verification report generated: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_verification_report.md
+[2025-04-15 15:14:10] [WARNING] Verification completed with issues
+
+========================================================================
+COMPLETED: Tue Apr 15 15:14:10 MDT 2025
+STATUS: 1
+========================================================================
+[2025-04-15 15:14:10] [ERROR] Script completed with errors (status: 1).
+[2025-04-15 15:14:10] [ERROR] Error occurred in verify_migration.sh:494: 'return "${status}"' (exit code: 1)
+Stack trace:
+  494 main _utilities/scripts/verify_migration.sh

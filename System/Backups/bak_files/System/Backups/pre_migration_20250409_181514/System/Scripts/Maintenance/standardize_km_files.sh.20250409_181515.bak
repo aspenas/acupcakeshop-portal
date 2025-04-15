@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# Script to standardize the YAML frontmatter for KM Capital Management and Drew Freides files
+# This ensures consistency with the rest of the Obsidian vault
+
+VAULT_PATH="/Users/patricksmith/obsidian/acupcakeshop"
+STANDARDIZE_SCRIPT="$VAULT_PATH/standardize_yaml.sh"
+
+# Files to standardize
+FILES=(
+  "$VAULT_PATH/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/km-capital-management.md"
+  "$VAULT_PATH/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/drew-freides.md"
+  "$VAULT_PATH/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/_index.md"
+  "$VAULT_PATH/Athlete Financial Empowerment/01-market-research/competitor-profiles/_index.md"
+  "$VAULT_PATH/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/research-summary.md"
+)
+
+# Ensure standardize_yaml.sh exists
+if [ ! -f "$STANDARDIZE_SCRIPT" ]; then
+  echo "Error: Standardization script not found: $STANDARDIZE_SCRIPT"
+  exit 1
+fi
+
+# Count the number of files
+FILE_COUNT=${#FILES[@]}
+echo "Found $FILE_COUNT files to process."
+echo
+
+# Process each file
+COUNTER=0
+for file in "${FILES[@]}"; do
+  ((COUNTER++))
+  if [ -f "$file" ]; then
+    echo "[$COUNTER/$FILE_COUNT] Processing: ${file#$VAULT_PATH/}"
+    "$STANDARDIZE_SCRIPT" "$file"
+    echo
+  else
+    echo "[$COUNTER/$FILE_COUNT] File not found: ${file#$VAULT_PATH/}"
+    echo
+  fi
+done
+
+echo "Completed YAML frontmatter standardization for KM Capital Management and Drew Freides files."

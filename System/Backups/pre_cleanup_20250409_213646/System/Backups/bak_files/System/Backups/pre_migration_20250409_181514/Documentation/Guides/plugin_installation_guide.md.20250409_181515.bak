@@ -1,0 +1,94 @@
+---
+title: "Plugin Installation Guide"
+date_created: 2025-04-09
+date_modified: 2025-04-09
+status: active
+tags: [documentation, plugins, installation, guide]
+---
+
+# Plugin Installation Guide
+
+> [!NOTE] Related Resources
+> - [[Documentation/first_phase_plugin_guide|First Phase Plugin Enhancement Guide]]
+> - [[Documentation/Implementation/implementation_status|Implementation Status]]
+> - [[index|Main Vault Index]]
+
+This guide provides instructions for installing the enhanced plugin set for the Athlete Financial Empowerment Obsidian vault.
+
+## First Phase Plugins
+
+The first phase of plugin enhancements includes:
+
+1. **Advanced Charts** - Interactive data visualization
+2. **DataLoom** - Sophisticated data tables with filtering
+3. **Templater** (enhanced usage) - Programmable templates
+4. **QuickAdd** - Rapid content creation with macros
+
+## Installation Instructions
+
+### Using the Installation Script
+
+The easiest way to install all plugins is to use the provided installation script:
+
+1. Open a terminal
+2. Navigate to the vault directory:
+   ```bash
+   cd /Users/patricksmith/obsidian/acupcakeshop
+   ```
+3. Run the installation script:
+   ```bash
+   ./install_recommended_plugins.sh
+   ```
+4. Restart Obsidian
+5. Enable the newly installed plugins in Settings > Community Plugins
+
+### Manual Installation
+
+If you prefer to install plugins manually:
+
+1. Open Obsidian
+2. Go to Settings > Community Plugins
+3. Turn off Restricted Mode if enabled
+4. Click "Browse" to open the Community Plugins browser
+5. Search for and install each plugin:
+   - Advanced Charts
+   - DataLoom
+   - Templater (if not already installed)
+   - QuickAdd
+6. Enable each plugin after installation
+
+## Next Steps
+
+After installing the plugins:
+
+1. Review the [First Phase Plugin Enhancement Guide](Documentation/first_phase_plugin_guide.md) for detailed usage instructions
+2. Configure each plugin according to the recommendations
+3. Create initial templates and QuickAdd macros
+4. Experiment with charts and DataLoom tables
+5. Update existing content to leverage new plugin capabilities
+
+## Troubleshooting
+
+If you encounter issues during installation:
+
+1. Check that Obsidian is closed before running the script
+2. Verify that the `.obsidian/plugins` directory exists
+3. Check permissions on the vault directory
+4. Try installing plugins manually through the Community Plugins browser
+5. Consult the plugin documentation for specific troubleshooting advice
+
+## Future Plugin Phases
+
+This is the first of four planned plugin enhancement phases. Future phases will add:
+
+- Client management capabilities
+- Advanced dashboard components
+- Integration with external systems
+- Additional analytical tools
+
+Each phase will include comprehensive documentation and implementation guidance.
+
+---
+
+*Guide created: April 9, 2025*  
+*Last updated: April 9, 2025*

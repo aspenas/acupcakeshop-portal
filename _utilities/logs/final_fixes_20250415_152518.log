@@ -1,0 +1,556 @@
+========================================
+Final Migration Fixes Log
+Started: Tue Apr 15 15:25:18 MDT 2025
+========================================
+Fixing remaining unmigrated files...
+Fixed frontmatter in /Users/patricksmith/obsidian/acupcakeshop/resources/scripts/Automation.md
+Fixed frontmatter in /Users/patricksmith/obsidian/acupcakeshop/resources/scripts/Installation.md
+Fixed frontmatter in /Users/patricksmith/obsidian/acupcakeshop/resources/scripts/Maintenance.md
+Fixed frontmatter in /Users/patricksmith/obsidian/acupcakeshop/resources/scripts/Readme.md
+All remaining unmigrated files have been fixed
+Creating missing files for broken links...
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/research/industry-analysis
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/2025/04_april
+Created directory: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/2025/04_april
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/athlete-financial-needs.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/service-gaps.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/market-size.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/integra-wealth.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/athlete-wealth-partners.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/agent-advisor-models.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/research/industry-analysis/fee-structures.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/research/industry-analysis/service-models.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/mission-statement.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/service-offerings.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/revenue-model.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/competitive-positioning.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/phase-one.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/phase-two.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/phase-three.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/requirements.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/application-process.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/maintenance-requirements.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/board-requirements.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/candidate-research.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/governance-structure.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/fiduciary-requirements.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/disclosure-requirements.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/recordkeeping-requirements.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/jenkins-john-raiders-defensive-tackle.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/johnson-jaylen-bears-safety.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/oconnell-aidan-raiders-quarterback.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/smith-roquan-ravens-linebacker.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/2025/04_april/conner-kevin-universal-agent.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/2025/04_april/lynn-nicole-klutch-agent.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/2025/04_april/campbell-lamar-financial-advisor.md
+Created placeholder file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/2025/04_april/nelson-daryl-financial-advisor.md
+Created all missing files for broken links
+Running enhanced frontmatter standardization again...
+========================================
+Enhanced Frontmatter Standardization Log
+Started: Tue Apr 15 15:25:19 MDT 2025
+========================================
+Found existing frontmatter issues inventory, processing...
+Processing files with frontmatter issues...
+File not found, skipping: 04-analysis/service-model-diagram.md
+File not found, skipping: 04-analysis/interview-insights.md
+File not found, skipping: 04-analysis/competitor-positioning-diagram.md
+File not found, skipping: competitor-analysis/agent-advisor-models.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/README.md
+File not found, skipping: 05-compliance/advisory-board-research.md
+File not found, skipping: 05-compliance/registration-requirements.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/smith-roquan-ravens.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/smith-roquan-ravens.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-smith-roquan-ravens-linebacker.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/2025/04_april/2025-04-06-smith-roquan-ravens-linebacker.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/README.md
+File not found, skipping: 02-interviews/INTERVIEW-GUIDE.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/README.md
+File not found, skipping: 06-planning/mckinsey-analysis.md
+File not found, skipping: 06-planning/working-sessions.md
+File not found, skipping: 06-planning/key-hypotheses.md
+File not found, skipping: 06-planning/business-model-framework.md
+File not found, skipping: 00-project-overview/key-project-areas.md
+File not found, skipping: 00-project-overview/current-status.md
+File not found, skipping: 00-project-overview/project-vision.md
+File not found, skipping: kanban/competitor-research.md
+File not found, skipping: kanban/interview-pipeline.md
+File not found, skipping: kanban/service-development.md
+File not found, skipping: calls/call-list.md
+File not found, skipping: calls/tonight-guide.md
+File not found, skipping: calls/conversation-guide.md
+File not found, skipping: 07-team/task-guidelines.md
+File not found, skipping: 07-team/tasks-dashboard.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/README.md
+File not found, skipping: 03-strategy/business-model.md
+File not found, skipping: 03-strategy/research-roadmap.md
+File not found, skipping: 03-strategy/competitive-positioning.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Maps/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Maps/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/optimization-table.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/optimization-table.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/tagging-implementation-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/tagging-implementation-guide.md
+File not found, skipping: tags
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/consolidation-next-steps.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/consolidation-next-steps.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/template-implementation-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/template-implementation-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/yaml-frontmatter-standardization.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/yaml-frontmatter-standardization.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/yaml-frontmatter-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/yaml-frontmatter-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/obsidian-sync-compatibility.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/obsidian-sync-compatibility.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/README-templates.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/README-templates.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/obsidian-performance-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/obsidian-performance-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Visualizations/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Visualizations/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Visualizations/README-templates.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Visualizations/README-templates.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/competitor/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/competitor/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/financial/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/financial/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/project/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/project/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/obsidian-compatibility-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/obsidian-compatibility-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/optimization-table-link.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/optimization-table-link.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/script-consolidation-report.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/script-consolidation-report.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/script-consolidation-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/script-consolidation-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/consolidation-success.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/System/consolidation-success.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/interview/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Dashboards/interview/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/competitor-profile.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/competitor-profile.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/standard-table-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/standard-table-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/fee-structure-comparison.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/fee-structure-comparison.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/_index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/_index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/service-comparison-matrix.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Analysis/service-comparison-matrix.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/weekly-status.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/weekly-status.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/kanban-card.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/kanban-card.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/task-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/task-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/weekly-note.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/weekly-note.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/competitor-profile-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/competitor-profile-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/index-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/index-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/competitor_profile_template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/competitor_profile_template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/standard_note_template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/standard_note_template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/player_interview_template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/player_interview_template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/interview-summary-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/interview-summary-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/yaml-frontmatter-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/yaml-frontmatter-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/test-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/test-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/moc-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/moc-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/audio-transcript-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/audio-transcript-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/standard-note-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/standard-note-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Interview/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Interview/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Interview/_index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Interview/_index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Task/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Task/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Task/_index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Task/_index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/player-interview.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/player-interview.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/industry-interview.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/industry-interview.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/meeting-notes.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/meeting-notes.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/client-analysis.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Client/client-analysis.md
+  Skipping file in excluded directory: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/images/README.md
+  Skipping file in excluded directory: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/diagrams/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/README.md
+  Skipping file in excluded directory: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/documents/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/compliance-map.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/compliance-map.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/atlas/strategy-map.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/atlas/strategy-map.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-plan.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-plan.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/tagging-implementation-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/tagging-implementation-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-executive-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-executive-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/PerformanceReports/optimization-table.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/PerformanceReports/optimization-table.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/competitor-profile-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/competitor-profile-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/obsidian-compatibility-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/obsidian-compatibility-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/player-interview-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/player-interview-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/index-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/index-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/optimization-table-link.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/optimization-table-link.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/README.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/README.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/interview-summary-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/interview-summary-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/yaml-frontmatter-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/yaml-frontmatter-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/consolidation-next-steps.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/consolidation-next-steps.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/script-consolidation-report.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/script-consolidation-report.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/script-consolidation-summary.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/script-consolidation-summary.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/test-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/test-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/moc-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/moc-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/consolidation-success.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/consolidation-success.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/audio-transcript-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/audio-transcript-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/obsidian-sync-compatibility.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/obsidian-sync-compatibility.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/obsidian-performance-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/obsidian-performance-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/standard-note-template.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/system/standard-note-template.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/index.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/index.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_verification_report.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_verification_report.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-execution-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-execution-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_completion_report.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration_completion_report.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/template-implementation-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/template-implementation-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/vault_user_guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/vault_user_guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/yaml-frontmatter-standardization.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/yaml-frontmatter-standardization.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/dataview-implementation-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/dataview-implementation-guide.md
+Processing file: /Users/patricksmith/obsidian/acupcakeshop/docs/yaml-frontmatter-guide.md
+  Standardized frontmatter in: /Users/patricksmith/obsidian/acupcakeshop/docs/yaml-frontmatter-guide.md
+Processed 111 files with frontmatter issues
+========================================
+Frontmatter standardization completed: Tue Apr 15 15:25:23 MDT 2025
+========================================
+Frontmatter standardization completed. See log at: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/enhanced_frontmatter_20250415_152519.log
+Running enhanced link fixing again...
+========================================
+Enhanced Link Repair Log
+Started: Tue Apr 15 15:25:23 MDT 2025
+========================================
+Generating complete path mapping...
+Generated path mapping with      362 entries
+Adding manual path mappings...
+Adding special mappings for atlas content...
+Added manual mappings (total:      428 entries)
+Found existing broken links inventory, processing...
+Processing broken links from inventory...
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md
+  Updated: [[Fee-Only Advisory Model]] -> [[Fee-Only Advisory Model|Fee Only Advisory Model]]
+  Updated: [[AUM-Based Model]] -> [[AUM-Based Model|AUM Based Model]]
+  Updated: [[Hybrid Service Model]] -> [[Hybrid Service Model|Hybrid Service Model]]
+  Updated: [[Competitor Analysis: Integra Wealth]] -> [[Competitor Analysis: Integra Wealth|Competitor Analysis: Integra Wealth]]
+  Updated: [[Competitor Analysis: UBS Mainsail]] -> [[Competitor Analysis: UBS Mainsail|Competitor Analysis: UBS Mainsail]]
+  Updated: [[Service Model Comparison Matrix]] -> [[Service Model Comparison Matrix|Service Model Comparison Matrix]]
+  Updated: [[Interview: Roquan Smith - Advisory Preferences]] -> [[Interview: Roquan Smith - Advisory Preferences|Interview: Roquan Smith   Advisory Preferences]]
+  Updated: [[Interview: Chris Harris - Post-Career Advisory Needs]] -> [[Interview: Chris Harris - Post-Career Advisory Needs|Interview: Chris Harris   Post Career Advisory Needs]]
+  Updated: [[Athlete Risk Factors]] -> [[Athlete Risk Factors|Athlete Risk Factors]]
+  Updated: [[Risk Assessment Framework]] -> [[Risk Assessment Framework|Risk Assessment Framework]]
+  Updated: [[Career Stage Risk Variables]] -> [[Career Stage Risk Variables|Career Stage Risk Variables]]
+  Updated: [[Case Study: NFL Rookie Risk Profile]] -> [[Case Study: NFL Rookie Risk Profile|Case Study: NFL Rookie Risk Profile]]
+  Updated: [[Interview: Financial Risk Perceptions]] -> [[Interview: Financial Risk Perceptions|Interview: Financial Risk Perceptions]]
+  Updated: [[Interview: Roquan Smith]] -> [[Interview: Roquan Smith|Interview: Roquan Smith]]
+  Updated: [[Interview: Roquan Smith#Advisor Selection Criteria]] -> [[Interview: Roquan Smith#Advisor Selection Criteria|Interview: Roquan Smith#Advisor Selection Criteria]]
+  Updated: [[Trust Framework in Advisory Relationships]] -> [[Trust Framework in Advisory Relationships|Trust Framework in Advisory Relationships]]
+  Updated: [[Background Verification Methods]] -> [[Background Verification Methods|Background Verification Methods]]
+  Updated: [[Advisor Selection Checklist]] -> [[Advisor Selection Checklist|Advisor Selection Checklist]]
+  Updated: [[Red Flags in Advisory Relationships]] -> [[Red Flags in Advisory Relationships|Red Flags in Advisory Relationships]]
+  Updated: [[Interview: Roquan Smith#Trust Factors]] -> [[Interview: Roquan Smith#Trust Factors|Interview: Roquan Smith#Trust Factors]]
+  Updated: [[Interview: Chris Harris#Advisor Selection]] -> [[Interview: Chris Harris#Advisor Selection|Interview: Chris Harris#Advisor Selection]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/resources/misc/template-implementation-guide.md
+  Updated: [[AnotherNote]] -> [[AnotherNote|AnotherNote]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/resources/misc/template-implementation-guide.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/task-template.md
+  Updated: [[{{RELATED_TASK_1}}]] -> [[{{RELATED_TASK_1}}|{{RELATED_TASK_1}}]]
+  Updated: [[{{RELATED_TASK_2}}]] -> [[{{RELATED_TASK_2}}|{{RELATED_TASK_2}}]]
+  Updated: [[{{DEPENDENCY_1}}]] -> [[{{DEPENDENCY_1}}|{{DEPENDENCY_1}}]]
+  Updated: [[{{DEPENDENCY_2}}]] -> [[{{DEPENDENCY_2}}|{{DEPENDENCY_2}}]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/task-template.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/task-template.md
+  Updated: [[{{RELATED_TASK_1}}]] -> [[{{RELATED_TASK_1}}|{{RELATED_TASK_1}}]]
+  Updated: [[{{RELATED_TASK_2}}]] -> [[{{RELATED_TASK_2}}|{{RELATED_TASK_2}}]]
+  Updated: [[{{DEPENDENCY_1}}]] -> [[{{DEPENDENCY_1}}|{{DEPENDENCY_1}}]]
+  Updated: [[{{DEPENDENCY_2}}]] -> [[{{DEPENDENCY_2}}|{{DEPENDENCY_2}}]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/task-template.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/atlas/compliance-map.md
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/atlas/compliance-map.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md
+  Updated: [[/content/interviews/players/john-jenkins-raiders-defensive-tackle|John Jenkins (Raiders)]] -> [[/content/interviews/players/active/2025/04_april/jenkins-john-raiders-defensive-tackle|John Jenkins (Raiders)]]
+  Updated: [[/content/interviews/players/jaylen-johnson-bears-safety|Jaylen Johnson (Bears)]] -> [[/content/interviews/players/active/2025/04_april/johnson-jaylen-bears-safety|Jaylen Johnson (Bears)]]
+  Updated: [[/content/interviews/players/aidan-oconnell-raiders-quarterback|Aidan O'Connell (Raiders)]] -> [[/content/interviews/players/active/2025/04_april/oconnell-aidan-raiders-quarterback|Aidan O'Connell (Raiders)]]
+  Updated: [[/content/interviews/players/roquan-smith-ravens-linebacker|Roquan Smith (Ravens)]] -> [[/content/interviews/players/active/2025/04_april/smith-roquan-ravens-linebacker|Roquan Smith (Ravens)]]
+  Updated: [[/content/interviews/agents/kevin-conner|Kevin Conner]] -> [[/content/interviews/agents/2025/04_april/conner-kevin-universal-agent|Kevin Conner]]
+  Updated: [[/content/interviews/agents/nicole-lynn|Nicole Lynn]] -> [[/content/interviews/agents/2025/04_april/lynn-nicole-klutch-agent|Nicole Lynn]]
+  Updated: [[/content/interviews/industry-professionals/lamar-campbell|Lamar Campbell]] -> [[/content/interviews/industry-professionals/2025/04_april/campbell-lamar-financial-advisor|Lamar Campbell]]
+  Updated: [[/content/interviews/industry-professionals/daryl-nelson|Daryl Nelson]] -> [[/content/interviews/industry-professionals/2025/04_april/nelson-daryl-financial-advisor|Daryl Nelson]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md
+  Updated: [[/content/research/market-analysis/existing-service-gaps|Existing Service Gaps]] -> [[/content/research/market-analysis/service-gaps|Existing Service Gaps]]
+  Updated: [[/content/research/market-analysis/market-size-analysis|Market Size Analysis]] -> [[/content/research/market-analysis/market-size|Market Size Analysis]]
+  Updated: [[/content/research/competitor-profiles/integra-wealth-management|Integra Wealth Management]] -> [[/content/research/competitor-profiles/integra-wealth|Integra Wealth Management]]
+  Updated: [[/content/research/industry-analysis/fee-structure-comparison|Fee Structure Comparison]] -> [[/content/research/industry-analysis/fee-structures|Fee Structure Comparison]]
+  Updated: [[/content/research/industry-analysis/service-model-comparison|Service Model Comparison]] -> [[/content/research/industry-analysis/service-models|Service Model Comparison]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/atlas/strategy-map.md
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/atlas/strategy-map.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md
+  Updated: [[template-guide]] -> [[/resources/templates/template-guide|template guide]]
+  Updated: [[utilities-guide]] -> [[utilities-guide|utilities guide]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/docs/README.md
+  Updated: [[utilities-guide]] -> [[utilities-guide|utilities guide]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/docs/README.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md
+  Updated: [[{{RELATED_TASK_1}}]] -> [[{{RELATED_TASK_1}}|{{RELATED_TASK_1}}]]
+  Updated: [[{{RELATED_TASK_2}}]] -> [[{{RELATED_TASK_2}}|{{RELATED_TASK_2}}]]
+  Updated: [[{{DEPENDENCY_1}}]] -> [[{{DEPENDENCY_1}}|{{DEPENDENCY_1}}]]
+  Updated: [[{{DEPENDENCY_2}}]] -> [[{{DEPENDENCY_2}}|{{DEPENDENCY_2}}]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/docs/index.md
+  Updated: [[atlas/README|Atlas]] -> [[atlas/README|Atlas]]
+  Updated: [[content/README|Content]] -> [[content/README|Content]]
+  Updated: [[resources/README|Resources]] -> [[resources/README|Resources]]
+  Updated: [[docs/README|Documentation]] -> [[docs/README|Documentation]]
+  Updated: [[atlas/interview-map|Interview Map]] -> [[/content/interviews/misc/interview-map|Interview Map]]
+  Updated: [[atlas/research-map|Research Map]] -> [[atlas/research-map|Research Map]]
+  Updated: [[atlas/strategy-map|Strategy Map]] -> [[atlas/strategy-map|Strategy Map]]
+  Updated: [[atlas/compliance-map|Compliance Map]] -> [[atlas/compliance-map|Compliance Map]]
+  Updated: [[content/interviews/players/jenkins-john-raiders|John Jenkins (Raiders)]] -> [[content/interviews/players/jenkins-john-raiders|John Jenkins (Raiders)]]
+  Updated: [[content/interviews/players/jaylen-johnson-bears|Jaylen Johnson (Bears)]] -> [[content/interviews/players/jaylen-johnson-bears|Jaylen Johnson (Bears)]]
+  Updated: [[content/interviews/players/aidan-oconnell-raiders|Aidan O'Connell (Raiders)]] -> [[content/interviews/players/aidan-oconnell-raiders|Aidan O'Connell (Raiders)]]
+  Updated: [[content/strategy/business-model/competitive-positioning|Competitive Positioning]] -> [[/content/strategy/business-model/competitive-positioning|Competitive Positioning]]
+  Updated: [[content/strategy/implementation/phase-one|Phase One: Validation]] -> [[/content/strategy/implementation/phase-one|Phase One: Validation]]
+  Updated: [[resources/templates/interview/player-interview-template|Player Interview Template]] -> [[/content/interviews/misc/player-interview-template|Player Interview Template]]
+  Updated: [[resources/templates/analysis/competitor-profile-template|Competitor Profile Template]] -> [[/content/research/misc/competitor-profile-template|Competitor Profile Template]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/docs/index.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/docs/implementation/template-implementation-guide.md
+  Updated: [[Documentation/Implementation/template_implementation_guide.md|template_implementation_guide]] -> [[/docs/implementation/template-implementation-guide|template_implementation_guide]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/docs/implementation/template-implementation-guide.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md
+  Updated: [[ "$source_path" == *"/players/"* ]] -> [[ "$source_path" == *"/players/"* |"* ]]
+  Updated: [[ "$source_path" == *"/agents/"* ]] -> [[ "$source_path" == *"/agents/"* |"* ]]
+  Updated: [[ "$source_path" == *"/industry-professionals/"* ]] -> [[ "$source_path" == *"/industry-professionals/"* |"* ]]
+  Updated: [[ "$filename" == "_index.md" || "$filename" == "README.md" ]] -> [[ "$filename" == "_index.md" || "$filename" == "README.md" ]]
+  Updated: [[ -n "$creation_date" ]] -> [[ -n "$creation_date" |  n "$creation_date" ]]
+  Updated: [[ -n "$modified_date" ]] -> [[ -n "$modified_date" |  n "$modified_date" ]]
+  Updated: [[ -d "$SOURCE_DIR" ]] -> [[ -d "$SOURCE_DIR" |  d "$SOURCE_DIR" ]]
+  Updated: [[ "$source_path" == *"/competitor-profiles/"* ]] -> [[ "$source_path" == *"/competitor-profiles/"* |"* ]]
+  Updated: [[ "$source_path" == *"/industry-analysis/"* ]] -> [[ "$source_path" == *"/industry-analysis/"* |"* ]]
+  Updated: [[ "$filename" == "_index.md" || "$filename" == "README.md" ]] -> [[ "$filename" == "_index.md" || "$filename" == "README.md" ]]
+  Updated: [[ -n "$creation_date" ]] -> [[ -n "$creation_date" |  n "$creation_date" ]]
+  Updated: [[ -n "$modified_date" ]] -> [[ -n "$modified_date" |  n "$modified_date" ]]
+  Updated: [[ -d "$SOURCE_DIR" ]] -> [[ -d "$SOURCE_DIR" |  d "$SOURCE_DIR" ]]
+  Updated: [[ ! -d "$source_dir" ]] -> [[ ! -d "$source_dir" | !  d "$source_dir" ]]
+  Updated: [[ "$filename" == "_index.md" || "$filename" == "README.md" ]] -> [[ "$filename" == "_index.md" || "$filename" == "README.md" ]]
+  Updated: [[ -n "$creation_date" ]] -> [[ -n "$creation_date" |  n "$creation_date" ]]
+  Updated: [[ -n "$modified_date" ]] -> [[ -n "$modified_date" |  n "$modified_date" ]]
+  Updated: [[ ! -d "$SOURCE_DIR" ]] -> [[ ! -d "$SOURCE_DIR" | !  d "$SOURCE_DIR" ]]
+  Updated: [[ "$filename" == "_index.md" || "$filename" == "README.md" ]] -> [[ "$filename" == "_index.md" || "$filename" == "README.md" ]]
+  Updated: [[ "$filename" == *"registration"* ]] -> [[ "$filename" == *"registration"* | "$filename" == *"registration"* ]]
+  Updated: [[ "$filename" == *"advisory"* || "$filename" == *"board"* ]] -> [[ "$filename" == *"advisory"* || "$filename" == *"board"* ]]
+  Updated: [[ -n "$creation_date" ]] -> [[ -n "$creation_date" |  n "$creation_date" ]]
+  Updated: [[ -n "$modified_date" ]] -> [[ -n "$modified_date" |  n "$modified_date" ]]
+  Updated: [[ "$filename" == *"interview"* || "$source_path" == *"/interview"* ]] -> [[/content/interviews/misc/ "$filename" == *"interview"* || "$source_path" == *"/interview"* ]]
+  Updated: [[ "$filename" == *"competitor"* || "$source_path" == *"/analysis"* ]] -> [[/content/research/misc/ "$filename" == *"competitor"* || "$source_path" == *"/analysis"* ]]
+  Updated: [[ "$filename" == *"task"* || "$source_path" == *"/task"* ]] -> [[ "$filename" == *"task"* || "$source_path" == *"/task"* ]]
+  Updated: [[ "$filename" == *"project"* || "$source_path" == *"/project"* ]] -> [[ "$filename" == *"project"* || "$source_path" == *"/project"* ]]
+  Updated: [[ "$filename" == "_index.md" || "$filename" == "README.md" ]] -> [[ "$filename" == "_index.md" || "$filename" == "README.md" ]]
+  Updated: [[ -f "$target_file" ]] -> [[ -f "$target_file" |  f "$target_file" ]]
+  Updated: [[ -z "$creation_date" ]] -> [[ -z "$creation_date" |  z "$creation_date" ]]
+  Updated: [[ -z "$modified_date" ]] -> [[ -z "$modified_date" |  z "$modified_date" ]]
+  Updated: [[ -d "$source_dir" ]] -> [[ -d "$source_dir" |  d "$source_dir" ]]
+  Updated: [[ -d "$source_dir" ]] -> [[ -d "$source_dir" |  d "$source_dir" ]]
+  Updated: [[ "$filename" == "README.md" ]] -> [[ "$filename" == "README.md" | "$filename" == "README.md" ]]
+  Updated: [[ "$filename" == *"competitor"* ]] -> [[/content/research/misc/ "$filename" == *"competitor"* | "$filename" == *"competitor"* ]]
+  Updated: [[ "$filename" == *"interview"* ]] -> [[/content/interviews/misc/ "$filename" == *"interview"* | "$filename" == *"interview"* ]]
+  Updated: [[ "$filename" == *"financial"* ]] -> [[ "$filename" == *"financial"* | "$filename" == *"financial"* ]]
+  Updated: [[ -f "$target_file" ]] -> [[ -f "$target_file" |  f "$target_file" ]]
+  Updated: [[ -n "$creation_date" ]] -> [[ -n "$creation_date" |  n "$creation_date" ]]
+  Updated: [[ -n "$modified_date" ]] -> [[ -n "$modified_date" |  n "$modified_date" ]]
+  Updated: [[ -d "$source_dir" ]] -> [[ -d "$source_dir" |  d "$source_dir" ]]
+  Updated: [[ "$filename" == "README.md" ]] -> [[ "$filename" == "README.md" | "$filename" == "README.md" ]]
+  Updated: [[ -f "$target_file" ]] -> [[ -f "$target_file" |  f "$target_file" ]]
+  Updated: [[ -n "$creation_date" ]] -> [[ -n "$creation_date" |  n "$creation_date" ]]
+  Updated: [[ -n "$modified_date" ]] -> [[ -n "$modified_date" |  n "$modified_date" ]]
+  Updated: [[ "$ext" == "png" || "$ext" == "jpg" || "$ext" == "jpeg" || "$ext" == "gif" || "$ext" == "svg" ]] -> [[ "$ext" == "png" || "$ext" == "jpg" || "$ext" == "jpeg" || "$ext" == "gif" || "$ext" == "svg" ]]
+  Updated: [[ "$ext" == "pdf" || "$ext" == "docx" || "$ext" == "xlsx" || "$ext" == "pptx" || "$ext" == "txt" ]] -> [[ "$ext" == "pdf" || "$ext" == "docx" || "$ext" == "xlsx" || "$ext" == "pptx" || "$ext" == "txt" ]]
+  Updated: [[ "$ext" == "excalidraw" || "$filename" == *"diagram"* || "$filename" == *"chart"* ]] -> [[ "$ext" == "excalidraw" || "$filename" == *"diagram"* || "$filename" == *"chart"* ]]
+  Updated: [[ -d "$source_dir" ]] -> [[ -d "$source_dir" |  d "$source_dir" ]]
+  Updated: [[ "$filename" == .* || "$filename" == *~ ]] -> [[ "$filename" == .* || "$filename" == *~ ]]
+  Updated: [[ -f "$target_file" ]] -> [[ -f "$target_file" |  f "$target_file" ]]
+  Updated: [[ -z "$old_path" || -z "$new_path" ]] -> [[ -z "$old_path" || -z "$new_path" ]]
+  Updated: [[old_file]] -> [[old_file|old_file]]
+  Updated: [[new_file]] -> [[new_file|new_file]]
+  Updated: [[ "$content" == *"[[$old_basename]] -> [[ "$content" == *"[[$old_basename| "$content" == *"[[$old_basename]]
+  Updated: [[$old_basename]] -> [[$old_basename|$old_basename]]
+  Updated: [[$new_basename]] -> [[$new_basename|$new_basename]]
+  Updated: [[old_file|text]] -> [[old_file|text]]
+  Updated: [[new_file|text]] -> [[new_file|text]]
+  Updated: [[ "$content" == *"[[$old_basename|"* ]] -> [[ "$content" == *"[[$old_basename|"* ]]
+  Updated: [[$old_basename|...]] -> [[$old_basename|...]]
+  Updated: [[$new_basename|...]] -> [[$new_basename|...]]
+  Updated: [[old/path/file]] -> [[old/path/file|file]]
+  Updated: [[new/path/file]] -> [[new/path/file|file]]
+  Updated: [[ "$content" == *"[[$old_rel_path_no_ext]] -> [[ "$content" == *"[[$old_rel_path_no_ext| "$content" == *"[[$old_rel_path_no_ext]]
+  Updated: [[$old_rel_path_no_ext]] -> [[$old_rel_path_no_ext|$old_rel_path_no_ext]]
+  Updated: [[$new_rel_path_no_ext]] -> [[$new_rel_path_no_ext|$new_rel_path_no_ext]]
+  Updated: [[old/path/file|text]] -> [[old/path/file|text]]
+  Updated: [[new/path/file|text]] -> [[new/path/file|text]]
+  Updated: [[ "$content" == *"[[$old_rel_path_no_ext|"* ]] -> [[ "$content" == *"[[$old_rel_path_no_ext|"* ]]
+  Updated: [[$old_rel_path_no_ext|...]] -> [[$old_rel_path_no_ext|...]]
+  Updated: [[$new_rel_path_no_ext|...]] -> [[$new_rel_path_no_ext|...]]
+  Updated: [[ "$content" != "$original_content" ]] -> [[ "$content" != "$original_content" | "$content" != "$original_content" ]]
+  Updated: [[ $unmigrated_count -gt 0 ]] -> [[ $unmigrated_count -gt 0 | $unmigrated_count  gt 0 ]]
+  Updated: [[^]] -> [[^|^]]
+  Updated: [[ "$link" == *"|"* ]] -> [[ "$link" == *"|"* ]]
+  Updated: [[ "$link" != *".md" && "$link" != *"http"* ]] -> [[ "$link" != *".md" && "$link" != *"http"* | "$link" != *".md" && "$link" != *"http"* ]]
+  Updated: [[ "$link" == /* ]] -> [[ "$link" == /* |* ]]
+  Updated: [[ ! -f "$target" && "$link" != *"http"* ]] -> [[ ! -f "$target" && "$link" != *"http"* | !  f "$target" && "$link" != *"http"* ]]
+  Updated: [[ $broken_count -gt 0 ]] -> [[ $broken_count -gt 0 | $broken_count  gt 0 ]]
+  Updated: [[ $has_title -eq 0 || $has_date_created -eq 0 || $has_date_modified -eq 0 || $has_status -eq 0 || $has_tags -eq 0 ]] -> [[ $has_title -eq 0 || $has_date_created -eq 0 || $has_date_modified -eq 0 || $has_status -eq 0 || $has_tags -eq 0 ]]
+  Updated: [[ $has_title -eq 0 ]] -> [[ $has_title -eq 0 | $has_title  eq 0 ]]
+  Updated: [[ $has_date_created -eq 0 ]] -> [[ $has_date_created -eq 0 | $has_date_created  eq 0 ]]
+  Updated: [[ $has_date_modified -eq 0 ]] -> [[ $has_date_modified -eq 0 | $has_date_modified  eq 0 ]]
+  Updated: [[ $has_status -eq 0 ]] -> [[ $has_status -eq 0 | $has_status  eq 0 ]]
+  Updated: [[ $has_tags -eq 0 ]] -> [[ $has_tags -eq 0 | $has_tags  eq 0 ]]
+  Updated: [[ $issues_count -gt 0 ]] -> [[ $issues_count -gt 0 | $issues_count  gt 0 ]]
+  Updated: [[ $unmigrated_count -gt 0 ]] -> [[ $unmigrated_count -gt 0 | $unmigrated_count  gt 0 ]]
+  Updated: [[ $unmigrated_count -gt 20 ]] -> [[ $unmigrated_count -gt 20 | $unmigrated_count  gt 20 ]]
+  Updated: [[ $broken_links_count -gt 0 ]] -> [[ $broken_links_count -gt 0 | $broken_links_count  gt 0 ]]
+  Updated: [[ $broken_links_count -gt 20 ]] -> [[ $broken_links_count -gt 20 | $broken_links_count  gt 20 ]]
+  Updated: [[ $frontmatter_issues_count -gt 0 ]] -> [[ $frontmatter_issues_count -gt 0 | $frontmatter_issues_count  gt 0 ]]
+  Updated: [[ $frontmatter_issues_count -gt 10 ]] -> [[ $frontmatter_issues_count -gt 10 | $frontmatter_issues_count  gt 10 ]]
+  Updated: [[ $unmigrated_count -gt 0 || $broken_links_count -gt 0 || $frontmatter_issues_count -gt 0 ]] -> [[ $unmigrated_count -gt 0 || $broken_links_count -gt 0 || $frontmatter_issues_count -gt 0 ]]
+  Updated: [[ $unmigrated_count -gt 0 ]] -> [[ $unmigrated_count -gt 0 | $unmigrated_count  gt 0 ]]
+  Updated: [[ $broken_links_count -gt 0 ]] -> [[ $broken_links_count -gt 0 | $broken_links_count  gt 0 ]]
+  Updated: [[ $frontmatter_issues_count -gt 0 ]] -> [[ $frontmatter_issues_count -gt 0 | $frontmatter_issues_count  gt 0 ]]
+  Updated: [[ $unmigrated_count -gt 0 || $broken_links_count -gt 0 || $frontmatter_issues_count -gt 0 ]] -> [[ $unmigrated_count -gt 0 || $broken_links_count -gt 0 || $frontmatter_issues_count -gt 0 ]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md
+  Updated: [[file-name]] -> [[file-name|file name]]
+  Updated: [[file-name|Descriptive Text]] -> [[file-name|Descriptive Text]]
+  Updated: [[template-guide]] -> [[/resources/templates/template-guide|template guide]]
+  Updated: [[frontmatter-standards]] -> [[frontmatter-standards|frontmatter standards]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md
+  Updated: [[Fee-Only Advisory Model]] -> [[Fee-Only Advisory Model|Fee Only Advisory Model]]
+  Updated: [[AUM-Based Model]] -> [[AUM-Based Model|AUM Based Model]]
+  Updated: [[Hybrid Service Model]] -> [[Hybrid Service Model|Hybrid Service Model]]
+  Updated: [[Competitor Analysis: Integra Wealth]] -> [[Competitor Analysis: Integra Wealth|Competitor Analysis: Integra Wealth]]
+  Updated: [[Competitor Analysis: UBS Mainsail]] -> [[Competitor Analysis: UBS Mainsail|Competitor Analysis: UBS Mainsail]]
+  Updated: [[Service Model Comparison Matrix]] -> [[Service Model Comparison Matrix|Service Model Comparison Matrix]]
+  Updated: [[Interview: Roquan Smith - Advisory Preferences]] -> [[Interview: Roquan Smith - Advisory Preferences|Interview: Roquan Smith   Advisory Preferences]]
+  Updated: [[Interview: Chris Harris - Post-Career Advisory Needs]] -> [[Interview: Chris Harris - Post-Career Advisory Needs|Interview: Chris Harris   Post Career Advisory Needs]]
+  Updated: [[Athlete Risk Factors]] -> [[Athlete Risk Factors|Athlete Risk Factors]]
+  Updated: [[Risk Assessment Framework]] -> [[Risk Assessment Framework|Risk Assessment Framework]]
+  Updated: [[Career Stage Risk Variables]] -> [[Career Stage Risk Variables|Career Stage Risk Variables]]
+  Updated: [[Case Study: NFL Rookie Risk Profile]] -> [[Case Study: NFL Rookie Risk Profile|Case Study: NFL Rookie Risk Profile]]
+  Updated: [[Interview: Financial Risk Perceptions]] -> [[Interview: Financial Risk Perceptions|Interview: Financial Risk Perceptions]]
+  Updated: [[Interview: Roquan Smith]] -> [[Interview: Roquan Smith|Interview: Roquan Smith]]
+  Updated: [[Interview: Roquan Smith#Advisor Selection Criteria]] -> [[Interview: Roquan Smith#Advisor Selection Criteria|Interview: Roquan Smith#Advisor Selection Criteria]]
+  Updated: [[Trust Framework in Advisory Relationships]] -> [[Trust Framework in Advisory Relationships|Trust Framework in Advisory Relationships]]
+  Updated: [[Background Verification Methods]] -> [[Background Verification Methods|Background Verification Methods]]
+  Updated: [[Advisor Selection Checklist]] -> [[Advisor Selection Checklist|Advisor Selection Checklist]]
+  Updated: [[Red Flags in Advisory Relationships]] -> [[Red Flags in Advisory Relationships|Red Flags in Advisory Relationships]]
+  Updated: [[Interview: Roquan Smith#Trust Factors]] -> [[Interview: Roquan Smith#Trust Factors|Interview: Roquan Smith#Trust Factors]]
+  Updated: [[Interview: Chris Harris#Advisor Selection]] -> [[Interview: Chris Harris#Advisor Selection|Interview: Chris Harris#Advisor Selection]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md
+Checking file: /Users/patricksmith/obsidian/acupcakeshop/docs/template-implementation-guide.md
+  Updated: [[AnotherNote]] -> [[AnotherNote|AnotherNote]]
+  No links needed updating in /Users/patricksmith/obsidian/acupcakeshop/docs/template-implementation-guide.md
+Processed 209 broken links in 17 files
+========================================
+Link fixing completed: Tue Apr 15 15:25:27 MDT 2025
+========================================
+Link fixing completed. See log at: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/enhanced_fix_links_20250415_152523.log
+Running verification...
+========================================
+Final fixes completed: Tue Apr 15 15:25:36 MDT 2025
+========================================

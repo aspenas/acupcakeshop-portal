@@ -1,0 +1,33 @@
+Starting to fix player interview files...
+Copying player interview files from the broken backup...
+Transfer starting: 4 files
+2025-04-06_jenkins-john_raiders_defensive-tackle.md
+2025-04-06_johnson-jaylen_bears_safety.md
+2025-04-06_oconnell-aidan_raiders_quarterback.md
+2025-04-06_smith-roquan_ravens_linebacker.md
+
+sent 17835 bytes  received 108 bytes  11962 bytes/sec
+total size is 17311  speedup is 0.96
+Setting up by-position directories...
+Transfer starting: 12 files
+./.DS_Store
+./defense/defensive-tackle/jenkins-john.md
+./defense/linebacker/smith-roquan.md
+./defense/safety/johnson-jaylen.md
+./offense/quarterback/oconnell-aidan.md
+
+sent 11892 bytes  received 172 bytes  8042 bytes/sec
+total size is 11042  speedup is 0.92
+Checking for former player interviews...
+Transfer starting: 1 files
+2025-04-06_harris-chris_broncos_cornerback.md
+
+sent 3503 bytes  received 42 bytes  7090 bytes/sec
+total size is 3331  speedup is 0.94
+Transfer starting: 4 files
+./defense/cornerback/harris-chris.md
+
+sent 1508 bytes  received 60 bytes  3136 bytes/sec
+total size is 1240  speedup is 0.79
+Player interview fix completed.
+Fix details added to: /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/comprehensive_recovery_summary.md

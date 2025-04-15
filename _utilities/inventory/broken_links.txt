@@ -1,0 +1,190 @@
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Fee-Only Advisory Model.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:AUM-Based Model.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Hybrid Service Model.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Competitor Analysis: Integra Wealth.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Competitor Analysis: UBS Mainsail.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Service Model Comparison Matrix.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Interview: Roquan Smith - Advisory Preferences.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Interview: Chris Harris - Post-Career Advisory Needs.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Athlete Risk Factors.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Risk Assessment Framework.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Career Stage Risk Variables.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Case Study: NFL Rookie Risk Profile.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Interview: Financial Risk Perceptions.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Interview: Roquan Smith.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Interview: Roquan Smith#Advisor Selection Criteria.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Trust Framework in Advisory Relationships.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Background Verification Methods.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Advisor Selection Checklist.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Red Flags in Advisory Relationships.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Interview: Roquan Smith#Trust Factors.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/knowledge-graph-enhancement-guide.md:Interview: Chris Harris#Advisor Selection.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/misc/template-implementation-guide.md:AnotherNote.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/task-template.md:{{RELATED_TASK_1}}.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/task-template.md:{{RELATED_TASK_2}}.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/task-template.md:{{DEPENDENCY_1}}.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/Templates/Project/task-template.md:{{DEPENDENCY_2}}.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/task-template.md:{{RELATED_TASK_1}}.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/task-template.md:{{RELATED_TASK_2}}.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/task-template.md:{{DEPENDENCY_1}}.md
+/Users/patricksmith/obsidian/acupcakeshop/resources/Templates/System/task-template.md:{{DEPENDENCY_2}}.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md:/content/interviews/players/john-jenkins-raiders-defensive-tackle.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md:/content/interviews/players/jaylen-johnson-bears-safety.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md:/content/interviews/players/aidan-oconnell-raiders-quarterback.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md:/content/interviews/players/roquan-smith-ravens-linebacker.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md:/content/interviews/agents/kevin-conner.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md:/content/interviews/agents/nicole-lynn.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md:/content/interviews/industry-professionals/lamar-campbell.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md:/content/interviews/industry-professionals/daryl-nelson.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md:/content/research/market-analysis/existing-service-gaps.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md:/content/research/market-analysis/market-size-analysis.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md:/content/research/competitor-profiles/integra-wealth-management.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md:/content/research/industry-analysis/fee-structure-comparison.md
+/Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md:/content/research/industry-analysis/service-model-comparison.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md:template-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md:utilities-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/README.md:utilities-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md:{{RELATED_TASK_1}}.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md:{{RELATED_TASK_2}}.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md:{{DEPENDENCY_1}}.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md:{{DEPENDENCY_2}}.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:atlas/README.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:content/README.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:resources/README.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:docs/README.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:atlas/interview-map.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:atlas/research-map.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:atlas/strategy-map.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:atlas/compliance-map.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:content/interviews/players/jenkins-john-raiders.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:content/interviews/players/jaylen-johnson-bears.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:content/interviews/players/aidan-oconnell-raiders.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:content/strategy/business-model/competitive-positioning.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:content/strategy/implementation/phase-one.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:resources/templates/interview/player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/index.md:resources/templates/analysis/competitor-profile-template.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/implementation/template-implementation-guide.md:Documentation/Implementation/template_implementation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$source_path" == *"/players/"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$source_path" == *"/agents/"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$source_path" == *"/industry-professionals/"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == "_index.md" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$creation_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$modified_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -d "$SOURCE_DIR" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$source_path" == *"/competitor-profiles/"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$source_path" == *"/industry-analysis/"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == "_index.md" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$creation_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$modified_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -d "$SOURCE_DIR" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: ! -d "$source_dir" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == "_index.md" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$creation_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$modified_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: ! -d "$SOURCE_DIR" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == "_index.md" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == *"registration"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == *"advisory"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$creation_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$modified_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == *"interview"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == *"competitor"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == *"task"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == *"project"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == "_index.md" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -f "$target_file" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -z "$creation_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -z "$modified_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -d "$source_dir" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -d "$source_dir" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == "README.md" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == *"competitor"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == *"interview"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == *"financial"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -f "$target_file" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$creation_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$modified_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -d "$source_dir" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == "README.md" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -f "$target_file" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$creation_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -n "$modified_date" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$ext" == "png" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$ext" == "pdf" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$ext" == "excalidraw" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -d "$source_dir" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$filename" == .* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -f "$target_file" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: -z "$old_path" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:old_file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:new_file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$content" == *"[[$old_basename.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:$old_basename.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:$new_basename.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:old_file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:new_file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$content" == *"[[$old_basename.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:$old_basename.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:$new_basename.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:old/path/file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:new/path/file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$content" == *"[[$old_rel_path_no_ext.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:$old_rel_path_no_ext.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:$new_rel_path_no_ext.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:old/path/file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:new/path/file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$content" == *"[[$old_rel_path_no_ext.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:$old_rel_path_no_ext.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:$new_rel_path_no_ext.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$content" != "$original_content" .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $unmigrated_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md:^.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$link" == *".md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$link" != *".md" && "$link" != *"http"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: "$link" == /* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: ! -f "$target" && "$link" != *"http"* .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $broken_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $has_title -eq 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $has_title -eq 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $has_date_created -eq 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $has_date_modified -eq 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $has_status -eq 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $has_tags -eq 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $issues_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $unmigrated_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $unmigrated_count -gt 20 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $broken_links_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $broken_links_count -gt 20 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $frontmatter_issues_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $frontmatter_issues_count -gt 10 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $unmigrated_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $unmigrated_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $broken_links_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $frontmatter_issues_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $unmigrated_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md:file-name.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md:file-name.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md:template-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md:frontmatter-standards.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Fee-Only Advisory Model.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:AUM-Based Model.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Hybrid Service Model.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Competitor Analysis: Integra Wealth.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Competitor Analysis: UBS Mainsail.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Service Model Comparison Matrix.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Interview: Roquan Smith - Advisory Preferences.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Interview: Chris Harris - Post-Career Advisory Needs.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Athlete Risk Factors.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Risk Assessment Framework.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Career Stage Risk Variables.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Case Study: NFL Rookie Risk Profile.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Interview: Financial Risk Perceptions.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Interview: Roquan Smith.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Interview: Roquan Smith#Advisor Selection Criteria.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Trust Framework in Advisory Relationships.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Background Verification Methods.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Advisor Selection Checklist.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Red Flags in Advisory Relationships.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Interview: Roquan Smith#Trust Factors.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Interview: Chris Harris#Advisor Selection.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/template-implementation-guide.md:AnotherNote.md

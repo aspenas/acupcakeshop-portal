@@ -1,0 +1,30 @@
+========================================
+Interview Migration Log
+Started: Tue Apr 15 14:27:25 MDT 2025
+========================================
+Target directory: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players
+Finding interview files in: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april
+Migrating: 2025-04-06_johnson-jaylen_bears_safety.md
+  Source: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_johnson-jaylen_bears_safety.md
+  Target: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/johnson-jaylen-bears.md
+  Migration complete
+
+Migrating: 2025-04-06_smith-roquan_ravens_linebacker.md
+  Source: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_smith-roquan_ravens_linebacker.md
+  Target: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/smith-roquan-ravens.md
+  Migration complete
+
+Migrating: 2025-04-06_oconnell-aidan_raiders_quarterback.md
+  Source: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_oconnell-aidan_raiders_quarterback.md
+  Target: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/oconnell-aidan-raiders.md
+  Migration complete
+
+Migrating: 2025-04-06_jenkins-john_raiders_defensive-tackle.md
+  Source: /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_jenkins-john_raiders_defensive-tackle.md
+  Target: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/jenkins-john-raiders.md
+  Migration complete
+
+========================================
+Migration completed: Tue Apr 15 14:27:26 MDT 2025
+Total files migrated: 5
+========================================

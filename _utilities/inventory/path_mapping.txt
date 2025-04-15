@@ -1,0 +1,428 @@
+/_templates/|/resources/templates/
+/Athlete Financial Empowerment/_index.md|/content/README.md
+/Athlete Financial Empowerment/_templates/_index.md|/content/README.md
+/Athlete Financial Empowerment/_templates/analysis-templates/_index.md|/content/README.md
+/Athlete Financial Empowerment/_templates/audio-transcript-template.md|/content/audio-transcript-template.md
+/Athlete Financial Empowerment/_templates/competitor-templates/competitor-profile-template.md|/content/competitor-profile-template.md
+/Athlete Financial Empowerment/_templates/index-template.md|/content/index-template.md
+/Athlete Financial Empowerment/_templates/interview-summary-template.md|/content/interview-summary-template.md
+/Athlete Financial Empowerment/_templates/interview-templates/_index.md|/content/README.md
+/Athlete Financial Empowerment/_templates/interview-templates/agent-interview-template.md|/content/agent-interview-template.md
+/Athlete Financial Empowerment/_templates/interview-templates/cap-strategist-interview-template.md|/content/cap-strategist-interview-template.md
+/Athlete Financial Empowerment/_templates/interview-templates/former-player-interview-template.md|/content/former-player-interview-template.md
+/Athlete Financial Empowerment/_templates/interview-templates/interview-summary-template.md|/content/interview-summary-template.md
+/Athlete Financial Empowerment/_templates/interview-templates/player-interview-template.md|/content/player-interview-template.md
+/Athlete Financial Empowerment/_templates/task-templates/_index.md|/content/README.md
+/Athlete Financial Empowerment/_templates/task-templates/task-template.md|/content/task-template.md
+/Athlete Financial Empowerment/|/content/
+/Athlete Financial Empowerment/00-project-overview/_index.md|/content/README.md
+/Athlete Financial Empowerment/00-project-overview/|/content/strategy/
+/Athlete Financial Empowerment/00-project-overview/current-status.md|/content/current-status.md
+/Athlete Financial Empowerment/00-project-overview/key-project-areas.md|/content/key-project-areas.md
+/Athlete Financial Empowerment/00-project-overview/project-vision.md|/content/project-vision.md
+/Athlete Financial Empowerment/01-education/_index.md|/content/README.md
+/Athlete Financial Empowerment/01-market-research/_index.md|/content/README.md
+/Athlete Financial Empowerment/01-market-research/|/content/research/
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/_index.md|/content/README.md
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/_index.md|/content/README.md
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/integra-wealth-management.md|/content/research/competitor-profiles/integra-wealth.md
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/km-capital-management.md|/content/research/competitor-profiles/km-capital.md
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/research-summary.md|/content/research-summary.md
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/ubs-mainsail.md|/content/research/competitor-profiles/ubs-mainsail.md
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/wme-joel-segal.md|/content/research/competitor-profiles/wme-joel-segal.md
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/_index.md|/content/README.md
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/kevin-conner.md|/content/kevin-conner.md
+/Athlete Financial Empowerment/01-market-research/competitor-profiles/team-personnel/_index.md|/content/README.md
+/Athlete Financial Empowerment/01-market-research/industry-analysis/_index.md|/content/README.md
+/Athlete Financial Empowerment/01-market-research/key-insights.md|/content/research/key-insights.md
+/Athlete Financial Empowerment/02-interviews/_index.md|/content/README.md
+/Athlete Financial Empowerment/02-interviews/|/content/interviews/
+/Athlete Financial Empowerment/02-interviews/industry-professionals/_index.md|/content/README.md
+/Athlete Financial Empowerment/02-interviews/industry-professionals/agents/_index.md|/content/README.md
+/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/_index.md|/content/README.md
+/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/conner-kevin.md|/content/conner-kevin.md
+/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/lynn-nicole.md|/content/lynn-nicole.md
+/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/-.md|/content/-.md
+/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/campbell-lamar.md|/content/campbell-lamar.md
+/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/nelson-daryl.md|/content/nelson-daryl.md
+/Athlete Financial Empowerment/02-interviews/INTERVIEW_GUIDE.md|/content/INTERVIEW-GUIDE.md
+/Athlete Financial Empowerment/02-interviews/players/_index.md|/content/README.md
+/Athlete Financial Empowerment/02-interviews/players/active/_index.md|/content/README.md
+/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_jenkins-john_raiders_defensive-tackle.md|/content/jenkins-john-raiders-defensive-tackle.md
+/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_johnson-jaylen_bears_safety.md|/content/johnson-jaylen-bears-safety.md
+/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_oconnell-aidan_raiders_quarterback.md|/content/oconnell-aidan-raiders-quarterback.md
+/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_smith-roquan_ravens_linebacker.md|/content/smith-roquan-ravens-linebacker.md
+/Athlete Financial Empowerment/02-interviews/players/former/_index.md|/content/README.md
+/Athlete Financial Empowerment/02-interviews/players/roquan-smith.md|/content/interviews/players/smith-roquan-ravens.md
+/Athlete Financial Empowerment/03-strategy/_index.md|/content/README.md
+/Athlete Financial Empowerment/03-strategy/|/content/strategy/
+/Athlete Financial Empowerment/03-strategy/business-model.md|/content/strategy/business-model.md
+/Athlete Financial Empowerment/03-strategy/competitive-positioning.md|/content/competitive-positioning.md
+/Athlete Financial Empowerment/03-strategy/research-roadmap.md|/content/research-roadmap.md
+/Athlete Financial Empowerment/04-analysis/_index.md|/content/README.md
+/Athlete Financial Empowerment/04-analysis/|/content/research/
+/Athlete Financial Empowerment/04-analysis/competitor-analysis/_index.md|/content/README.md
+/Athlete Financial Empowerment/04-analysis/competitor-analysis/agent-advisor-models.md|/content/agent-advisor-models.md
+/Athlete Financial Empowerment/04-analysis/competitor-analysis/boutique-firms/_index.md|/content/README.md
+/Athlete Financial Empowerment/04-analysis/competitor-analysis/institutional-firms/_index.md|/content/README.md
+/Athlete Financial Empowerment/04-analysis/competitor-positioning-diagram.md|/content/competitor-positioning-diagram.md
+/Athlete Financial Empowerment/04-analysis/interview-insights.md|/content/interview-insights.md
+/Athlete Financial Empowerment/04-analysis/market-trends/_index.md|/content/README.md
+/Athlete Financial Empowerment/04-analysis/service-model-diagram.md|/content/service-model-diagram.md
+/Athlete Financial Empowerment/05-compliance/_index.md|/content/README.md
+/Athlete Financial Empowerment/05-compliance/|/content/compliance/
+/Athlete Financial Empowerment/05-compliance/advisory-board-research.md|/content/advisory-board-research.md
+/Athlete Financial Empowerment/05-compliance/registration-requirements.md|/content/registration-requirements.md
+/Athlete Financial Empowerment/06-planning/_index.md|/content/README.md
+/Athlete Financial Empowerment/06-planning/|/content/strategy/planning/
+/Athlete Financial Empowerment/06-planning/business-model-framework.md|/content/business-model-framework.md
+/Athlete Financial Empowerment/06-planning/key-hypotheses.md|/content/key-hypotheses.md
+/Athlete Financial Empowerment/06-planning/mckinsey-analysis.md|/content/mckinsey-analysis.md
+/Athlete Financial Empowerment/06-planning/working-sessions.md|/content/working-sessions.md
+/Athlete Financial Empowerment/07-team/_index.md|/content/README.md
+/Athlete Financial Empowerment/07-team/|/content/strategy/team/
+/Athlete Financial Empowerment/07-team/calls/_index.md|/content/README.md
+/Athlete Financial Empowerment/07-team/calls/call-list.md|/content/call-list.md
+/Athlete Financial Empowerment/07-team/calls/conversation-guide.md|/content/conversation-guide.md
+/Athlete Financial Empowerment/07-team/calls/tonight-guide.md|/content/tonight-guide.md
+/Athlete Financial Empowerment/07-team/kanban/competitor-research.md|/content/competitor-research.md
+/Athlete Financial Empowerment/07-team/kanban/interview-pipeline.md|/content/interview-pipeline.md
+/Athlete Financial Empowerment/07-team/kanban/README.md|/content/README.md
+/Athlete Financial Empowerment/07-team/kanban/service-development.md|/content/service-development.md
+/Athlete Financial Empowerment/07-team/meetings/_index.md|/content/README.md
+/Athlete Financial Empowerment/07-team/project-plan/_index.md|/content/README.md
+/Athlete Financial Empowerment/07-team/task-guidelines.md|/content/task-guidelines.md
+/Athlete Financial Empowerment/07-team/tasks-dashboard.md|/content/tasks-dashboard.md
+/Athlete Financial Empowerment/index.md|/content/index.md
+/content/compliance/advisory-board/board-requirements.md|/content/compliance/advisory-board/board-requirements.md
+/content/compliance/advisory-board/candidate-research.md|/content/compliance/advisory-board/candidate-research.md
+/content/compliance/advisory-board/governance-structure.md|/content/compliance/advisory-board/governance-structure.md
+/content/compliance/registration/application-process.md|/content/compliance/registration/application-process.md
+/content/compliance/registration/maintenance-requirements.md|/content/compliance/registration/maintenance-requirements.md
+/content/compliance/registration/requirements.md|/content/compliance/registration/requirements.md
+/content/compliance/standards/disclosure-requirements.md|/content/compliance/standards/disclosure-requirements.md
+/content/compliance/standards/fiduciary-requirements.md|/content/compliance/standards/fiduciary-requirements.md
+/content/compliance/standards/recordkeeping-requirements.md|/content/compliance/standards/recordkeeping-requirements.md
+/content/interviews/agents/kevin-conner.md|/content/interviews/agents/2025/04_april/conner-kevin-universal-agent.md
+/content/interviews/agents/nicole-lynn.md|/content/interviews/agents/2025/04_april/lynn-nicole-klutch-agent.md
+/content/interviews/industry-professionals/daryl-nelson.md|/content/interviews/industry-professionals/2025/04_april/nelson-daryl-financial-advisor.md
+/content/interviews/industry-professionals/lamar-campbell.md|/content/interviews/industry-professionals/2025/04_april/campbell-lamar-financial-advisor.md
+/content/interviews/players/aidan-oconnell-raiders-quarterback.md|/content/interviews/players/active/2025/04_april/oconnell-aidan-raiders-quarterback.md
+/content/interviews/players/jaylen-johnson-bears-safety.md|/content/interviews/players/active/2025/04_april/johnson-jaylen-bears-safety.md
+/content/interviews/players/john-jenkins-raiders-defensive-tackle.md|/content/interviews/players/active/2025/04_april/jenkins-john-raiders-defensive-tackle.md
+/content/interviews/players/roquan-smith-ravens-linebacker.md|/content/interviews/players/active/2025/04_april/smith-roquan-ravens-linebacker.md
+/content/research/competitor-profiles/agent-advisor-models.md|/content/research/competitor-profiles/agent-advisor-models.md
+/content/research/competitor-profiles/athlete-wealth-partners.md|/content/research/competitor-profiles/athlete-wealth-partners.md
+/content/research/competitor-profiles/integra-wealth-management.md|/content/research/competitor-profiles/integra-wealth.md
+/content/research/industry-analysis/fee-structure-comparison.md|/content/research/industry-analysis/fee-structures.md
+/content/research/industry-analysis/service-model-comparison.md|/content/research/industry-analysis/service-models.md
+/content/research/market-analysis/athlete-financial-needs.md|/content/research/market-analysis/athlete-financial-needs.md
+/content/research/market-analysis/existing-service-gaps.md|/content/research/market-analysis/service-gaps.md
+/content/research/market-analysis/market-size-analysis.md|/content/research/market-analysis/market-size.md
+/content/strategy/business-model/competitive-positioning.md|/content/strategy/business-model/competitive-positioning.md
+/content/strategy/business-model/revenue-model.md|/content/strategy/business-model/revenue-model.md
+/content/strategy/business-model/service-offerings.md|/content/strategy/business-model/service-offerings.md
+/content/strategy/implementation/phase-one.md|/content/strategy/implementation/phase-one.md
+/content/strategy/implementation/phase-three.md|/content/strategy/implementation/phase-three.md
+/content/strategy/implementation/phase-two.md|/content/strategy/implementation/phase-two.md
+/content/strategy/mission-statement.md|/content/strategy/mission-statement.md
+/Dashboards/|/resources/dashboards/
+/Dashboards/competitor-analysis.md|/resources/dashboards/competitor-analysis.md
+/Dashboards/project-progress.md|/resources/dashboards/project-progress.md
+/Dashboards/System/consolidation_success.md|/docs/system/consolidation-success.md
+/Dashboards/System/obsidian_compatibility_summary.md|/docs/system/obsidian-compatibility-summary.md
+/Dashboards/System/optimization_table_link.md|/docs/system/optimization-table-link.md
+/Dashboards/System/script_consolidation_report.md|/docs/system/script-consolidation-report.md
+/Dashboards/System/script_consolidation_summary.md|/docs/system/script-consolidation-summary.md
+/docs/frontmatter-standards.md|/docs/guides/frontmatter-standards.md
+/docs/template-guide.md|/docs/guides/template-guide.md
+/docs/utilities-guide.md|/docs/guides/utilities-guide.md
+/Documentation/|/docs/
+/Documentation/dataview_implementation_guide.md|/docs/dataview-implementation-guide.md
+/Documentation/enhanced_implementation_plan.md|/docs/enhanced-implementation-plan.md
+/Documentation/Guides/first_phase_plugin_guide.md|/docs/guides/first-phase-plugin-guide.md
+/Documentation/Guides/graph_view_optimization.md|/docs/guides/graph-view-optimization.md
+/Documentation/Guides/knowledge_graph_enhancement_guide.md|/docs/guides/knowledge-graph-enhancement-guide.md
+/Documentation/Guides/plugin_installation_guide.md|/docs/guides/plugin-installation-guide.md
+/Documentation/Guides/strategic_linking_guide.md|/docs/guides/strategic-linking-guide.md
+/Documentation/Implementation/advanced_enhancement_recommendations.md|/docs/implementation/advanced-enhancement-recommendations.md
+/Documentation/Implementation/cleanup_summary.md|/docs/implementation/cleanup-summary.md
+/Documentation/Implementation/dataview_implementation_guide.md|/docs/implementation/dataview-implementation-guide.md
+/Documentation/Implementation/deployment_package.md|/docs/implementation/deployment-package.md
+/Documentation/Implementation/documentation_dashboard.md|/docs/implementation/documentation-dashboard.md
+/Documentation/Implementation/enhanced_implementation_plan.md|/docs/implementation/enhanced-implementation-plan.md
+/Documentation/Implementation/enhancement_summary.md|/docs/implementation/enhancement-summary.md
+/Documentation/Implementation/final_recovery_report.md|/docs/implementation/final-recovery-report.md
+/Documentation/Implementation/fix_next_steps.md|/docs/implementation/fix-next-steps.md
+/Documentation/Implementation/implementation_roadmap.md|/docs/implementation/implementation-roadmap.md
+/Documentation/Implementation/implementation_status.md|/docs/implementation/implementation-status.md
+/Documentation/Implementation/implementation-plan.md|/docs/implementation/implementation-plan.md
+/Documentation/Implementation/mermaid_implementation_guide.md|/docs/implementation/mermaid-implementation-guide.md
+/Documentation/Implementation/migration_completion_report.md|/docs/implementation/migration-completion-report.md
+/Documentation/Implementation/migration_dashboard.md|/docs/implementation/migration-dashboard.md
+/Documentation/Implementation/migration_report.md|/docs/implementation/migration-report.md
+/Documentation/Implementation/migration_verification_report.md|/docs/implementation/migration-verification-report.md
+/Documentation/Implementation/migration_verification_status.md|/docs/implementation/migration-verification-status.md
+/Documentation/Implementation/obsidian_enhancement_summary.md|/docs/implementation/obsidian-enhancement-summary.md
+/Documentation/Implementation/redirection_fix_report.md|/docs/implementation/redirection-fix-report.md
+/Documentation/Implementation/strategic_linking_summary.md|/docs/implementation/strategic-linking-summary.md
+/Documentation/Implementation/tagging_implementation_guide.md|/docs/implementation/tagging-implementation-guide.md
+/Documentation/Implementation/template_implementation_guide.md|/docs/implementation/template-implementation-guide.md
+/Documentation/Implementation/vault_fix_report_20250410_075058.md|/docs/implementation/vault-fix-report-20250410-075058.md
+/Documentation/Implementation/vault_fix_report.md|/docs/implementation/vault-fix-report.md
+/Documentation/Implementation/vault_migration_plan.md|/docs/implementation/vault-migration-plan.md
+/Documentation/knowledge_graph_enhancement_guide.md|/docs/knowledge-graph-enhancement-guide.md
+/Documentation/Reference/automation_scripts_guide.md|/docs/reference/automation-scripts-guide.md
+/Documentation/Reference/tag_system.md|/docs/reference/tag-system.md
+/Documentation/Reference/yaml_frontmatter_guide.md|/docs/reference/yaml-frontmatter-guide.md
+/Documentation/System/consolidation_next_steps.md|/docs/system/consolidation-next-steps.md
+/Documentation/System/obsidian_performance_guide.md|/docs/system/obsidian-performance-guide.md
+/Documentation/System/obsidian_sync_compatibility.md|/docs/system/obsidian-sync-compatibility.md
+/Documentation/System/script_consolidation_README.md|/docs/system/script-consolidation-README.md
+/Documentation/System/yaml_audit_results.md|/docs/system/yaml-audit-results.md
+/Documentation/System/yaml_frontmatter_standardization.md|/docs/system/yaml-frontmatter-standardization.md
+/Documentation/tagging_implementation_guide.md|/docs/tagging-implementation-guide.md
+/Documentation/template_implementation_guide.md|/docs/template-implementation-guide.md
+/Documentation/vault_reorganization_plan.md|/docs/vault-reorganization-plan.md
+/Documentation/yaml_frontmatter_guide.md|/docs/yaml-frontmatter-guide.md
+/Documentation/yaml_frontmatter_standardization.md|/docs/yaml-frontmatter-standardization.md
+/index.md|/docs/index.md
+/Maps/|/atlas/
+/maps/map-athlete-interviews.md|/atlas/interview-map.md
+/Maps/map-athlete-interviews.md|/atlas/map-athlete-interviews.md
+/Maps/map-competitor-landscape.md|/atlas/map-competitor-landscape.md
+/maps/map-competitor-landscape.md|/atlas/research-map.md
+/Maps/map-service-models.md|/atlas/map-service-models.md
+/maps/map-service-models.md|/atlas/strategy-map.md
+/Maps/map-strategic-planning.md|/atlas/map-strategic-planning.md
+/maps/map-strategic-planning.md|/atlas/strategy-map.md
+/PERFORMANCE_README.md|/docs/PERFORMANCE-README.md
+/phased_migration_plan.md|/docs/phased-migration-plan.md
+/recovery_complete.md|/docs/recovery-complete.md
+/recovery_successful.md|/docs/recovery-successful.md
+/Resources/assets/diagrams/README.md|/resources/assets/diagrams/README.md
+/Resources/assets/documents/README.md|/resources/assets/documents/README.md
+/Resources/assets/images/README.md|/resources/assets/images/README.md
+/Resources/assets/README.md|/resources/assets/README.md
+/Resources/Dashboards/|/resources/dashboards/
+/Resources/Dashboards/advanced-queries-dashboard.md|/resources/dashboards/advanced-queries-dashboard.md
+/Resources/Dashboards/advanced-service-model-analysis.md|/resources/dashboards/advanced-service-model-analysis.md
+/Resources/Dashboards/athlete-financial-needs.md|/resources/dashboards/athlete-financial-needs.md
+/Resources/Dashboards/competitor-analysis.md|/resources/dashboards/competitor-analysis.md
+/Resources/Dashboards/competitor/README.md|/resources/dashboards/competitor/README.md
+/Resources/Dashboards/content-status.md|/resources/dashboards/content-status.md
+/Resources/Dashboards/financial/README.md|/resources/dashboards/financial/README.md
+/Resources/Dashboards/index.md|/resources/dashboards/index.md
+/Resources/Dashboards/interview-insights.md|/resources/dashboards/interview-insights.md
+/Resources/Dashboards/interview/README.md|/resources/dashboards/interview/README.md
+/Resources/Dashboards/project-progress.md|/resources/dashboards/project-progress.md
+/Resources/Dashboards/project-status.md|/resources/dashboards/project-status.md
+/Resources/Dashboards/project/advanced-queries-dashboard.md|/resources/dashboards/project/advanced-queries-dashboard.md
+/Resources/Dashboards/project/advanced-service-model-analysis.md|/resources/dashboards/project/advanced-service-model-analysis.md
+/Resources/Dashboards/project/athlete-financial-needs.md|/resources/dashboards/project/athlete-financial-needs.md
+/Resources/Dashboards/project/competitor-analysis.md|/resources/dashboards/project/competitor-analysis.md
+/Resources/Dashboards/project/consolidation-success.md|/resources/dashboards/project/consolidation-success.md
+/Resources/Dashboards/project/content-status.md|/resources/dashboards/project/content-status.md
+/Resources/Dashboards/project/index.md|/resources/dashboards/project/index.md
+/Resources/Dashboards/project/interview-insights.md|/resources/dashboards/project/interview-insights.md
+/Resources/Dashboards/project/obsidian-compatibility-summary.md|/resources/dashboards/project/obsidian-compatibility-summary.md
+/Resources/Dashboards/project/optimization-table-link.md|/resources/dashboards/project/optimization-table-link.md
+/Resources/Dashboards/project/project-progress.md|/resources/dashboards/project/project-progress.md
+/Resources/Dashboards/project/project-status.md|/resources/dashboards/project/project-status.md
+/Resources/Dashboards/project/README.md|/resources/dashboards/project/README.md
+/Resources/Dashboards/project/script-consolidation-report.md|/resources/dashboards/project/script-consolidation-report.md
+/Resources/Dashboards/project/script-consolidation-summary.md|/resources/dashboards/project/script-consolidation-summary.md
+/Resources/Dashboards/README.md|/resources/dashboards/README.md
+/Resources/Dashboards/System/consolidation-success.md|/docs/system/consolidation-success.md
+/Resources/Dashboards/System/obsidian-compatibility-summary.md|/docs/system/obsidian-compatibility-summary.md
+/Resources/Dashboards/System/optimization-table-link.md|/docs/system/optimization-table-link.md
+/Resources/Dashboards/System/script-consolidation-report.md|/docs/system/script-consolidation-report.md
+/Resources/Dashboards/System/script-consolidation-summary.md|/docs/system/script-consolidation-summary.md
+/Resources/index.md|/resources/misc/index.md
+/Resources/Maps/|/atlas/
+/Resources/Maps/map-athlete-interviews.md|/atlas/map-athlete-interviews.md
+/Resources/Maps/map-competitor-landscape.md|/atlas/map-competitor-landscape.md
+/Resources/Maps/map-service-models.md|/atlas/map-service-models.md
+/Resources/Maps/map-strategic-planning.md|/atlas/map-strategic-planning.md
+/Resources/Maps/mind-map-athlete-financial-lifecycle.md|/atlas/mind-map-athlete-financial-lifecycle.md
+/Resources/Maps/mind-map-service-model.md|/atlas/mind-map-service-model.md
+/Resources/Maps/README.md|/atlas/README.md
+/Resources/misc/advanced-enhancement-recommendations.md|/resources/misc/advanced-enhancement-recommendations.md
+/Resources/misc/athlete-financial-lifecycle.excalidraw.md|/resources/misc/athlete-financial-lifecycle.excalidraw.md
+/Resources/misc/automation-scripts-guide.md|/resources/misc/automation-scripts-guide.md
+/Resources/misc/Automation.md|/resources/misc/Automation.md
+/Resources/misc/cleanup-summary.md|/resources/misc/cleanup-summary.md
+/Resources/misc/consolidation-next-steps.md|/resources/misc/consolidation-next-steps.md
+/Resources/misc/dataview-implementation-guide.md|/resources/misc/dataview-implementation-guide.md
+/Resources/misc/deployment-package.md|/resources/misc/deployment-package.md
+/Resources/misc/directory-structure-log.md|/resources/misc/directory-structure-log.md
+/Resources/misc/documentation-dashboard.md|/resources/misc/documentation-dashboard.md
+/Resources/misc/enhanced-implementation-plan.md|/resources/misc/enhanced-implementation-plan.md
+/Resources/misc/enhancement-summary.md|/resources/misc/enhancement-summary.md
+/Resources/misc/final-recovery-report.md|/resources/misc/final-recovery-report.md
+/Resources/misc/first-phase-plugin-guide.md|/resources/misc/first-phase-plugin-guide.md
+/Resources/misc/fix-next-steps.md|/resources/misc/fix-next-steps.md
+/Resources/misc/graph-view-optimization.md|/resources/misc/graph-view-optimization.md
+/Resources/misc/implementation-plan.md|/resources/misc/implementation-plan.md
+/Resources/misc/implementation-roadmap.md|/resources/misc/implementation-roadmap.md
+/Resources/misc/implementation-status.md|/resources/misc/implementation-status.md
+/Resources/misc/index.md|/resources/misc/index.md
+/Resources/misc/Installation.md|/resources/misc/Installation.md
+/resources/misc/knowledge-graph-enhancement-guide.md|/docs/guides/knowledge-graph-enhancement-guide.md
+/Resources/misc/knowledge-graph-enhancement-guide.md|/resources/misc/knowledge-graph-enhancement-guide.md
+/Resources/misc/Maintenance.md|/resources/misc/Maintenance.md
+/Resources/misc/mermaid-implementation-guide.md|/resources/misc/mermaid-implementation-guide.md
+/Resources/misc/migration-completion-report.md|/resources/misc/migration-completion-report.md
+/Resources/misc/migration-dashboard.md|/resources/misc/migration-dashboard.md
+/Resources/misc/migration-report.md|/resources/misc/migration-report.md
+/Resources/misc/migration-verification-report.md|/resources/misc/migration-verification-report.md
+/Resources/misc/migration-verification-status.md|/resources/misc/migration-verification-status.md
+/Resources/misc/obsidian-enhancement-summary.md|/resources/misc/obsidian-enhancement-summary.md
+/Resources/misc/obsidian-performance-guide.md|/resources/misc/obsidian-performance-guide.md
+/Resources/misc/obsidian-sync-compatibility.md|/resources/misc/obsidian-sync-compatibility.md
+/Resources/misc/optimization-table.md|/resources/misc/optimization-table.md
+/Resources/misc/PERFORMANCE-README.md|/resources/misc/PERFORMANCE-README.md
+/Resources/misc/phased-migration-plan.md|/resources/misc/phased-migration-plan.md
+/Resources/misc/plugin-installation-guide.md|/resources/misc/plugin-installation-guide.md
+/Resources/misc/README-templates.md|/resources/misc/README-templates.md
+/Resources/misc/README.md|/resources/misc/README.md
+/Resources/misc/recovery-complete.md|/resources/misc/recovery-complete.md
+/Resources/misc/recovery-successful.md|/resources/misc/recovery-successful.md
+/Resources/misc/redirection-fix-report.md|/resources/misc/redirection-fix-report.md
+/Resources/misc/script-consolidation-README.md|/resources/misc/script-consolidation-README.md
+/Resources/misc/strategic-linking-guide.md|/resources/misc/strategic-linking-guide.md
+/Resources/misc/strategic-linking-implementation.md|/resources/misc/strategic-linking-implementation.md
+/Resources/misc/strategic-linking-summary.md|/resources/misc/strategic-linking-summary.md
+/Resources/misc/tag-system.md|/resources/misc/tag-system.md
+/Resources/misc/tagging-implementation-guide.md|/resources/misc/tagging-implementation-guide.md
+/Resources/misc/template-implementation-guide.md|/resources/misc/template-implementation-guide.md
+/Resources/misc/vault-fix-report-20250410-075058.md|/resources/misc/vault-fix-report-20250410-075058.md
+/Resources/misc/vault-fix-report.md|/resources/misc/vault-fix-report.md
+/Resources/misc/vault-migration-plan.md|/resources/misc/vault-migration-plan.md
+/Resources/misc/vault-reorganization-plan.md|/resources/misc/vault-reorganization-plan.md
+/Resources/misc/verification-report-20250409-132809.md|/resources/misc/verification-report-20250409-132809.md
+/Resources/misc/welcome.md|/resources/misc/welcome.md
+/Resources/misc/yaml-audit-results.md|/resources/misc/yaml-audit-results.md
+/Resources/misc/yaml-frontmatter-guide.md|/resources/misc/yaml-frontmatter-guide.md
+/Resources/misc/yaml-frontmatter-standardization.md|/resources/misc/yaml-frontmatter-standardization.md
+/Resources/README.md|/resources/misc/README.md
+/Resources/Templates/|/resources/templates/
+/Resources/Templates/agent-interview-template.md|/resources/templates/agent-interview-template.md
+/Resources/Templates/analysis-templates/README.md|/resources/templates/analysis-templates/README.md
+/Resources/Templates/Analysis/_index.md|/resources/templates/Analysis/README.md
+/Resources/Templates/Analysis/competitor-profile-template.md|/resources/templates/Analysis/competitor-profile-template.md
+/Resources/Templates/Analysis/competitor-profile.md|/resources/templates/Analysis/competitor-profile.md
+/Resources/Templates/Analysis/fee-structure-comparison.md|/resources/templates/Analysis/fee-structure-comparison.md
+/Resources/Templates/Analysis/README.md|/resources/templates/Analysis/README.md
+/Resources/Templates/Analysis/service-comparison-matrix.md|/resources/templates/Analysis/service-comparison-matrix.md
+/Resources/Templates/Analysis/standard-table-template.md|/resources/templates/Analysis/standard-table-template.md
+/Resources/Templates/audio-transcript-template.md|/resources/templates/audio-transcript-template.md
+/Resources/Templates/cap-strategist-interview-template.md|/resources/templates/cap-strategist-interview-template.md
+/Resources/Templates/Client/client-analysis.md|/resources/templates/Client/client-analysis.md
+/Resources/Templates/Client/industry-interview.md|/resources/templates/Client/industry-interview.md
+/Resources/Templates/Client/meeting-notes.md|/resources/templates/Client/meeting-notes.md
+/Resources/Templates/Client/player-interview.md|/resources/templates/Client/player-interview.md
+/Resources/Templates/competitor-profile-template.md|/resources/templates/competitor-profile-template.md
+/Resources/Templates/competitor-templates/competitor-profile-template.md|/resources/templates/competitor-templates/competitor-profile-template.md
+/Resources/Templates/former-player-interview-template.md|/resources/templates/former-player-interview-template.md
+/Resources/Templates/index-template.md|/resources/templates/index-template.md
+/Resources/Templates/interview-summary-template.md|/resources/templates/interview-summary-template.md
+/Resources/Templates/interview-templates/agent-interview-template.md|/resources/templates/interview-templates/agent-interview-template.md
+/Resources/Templates/interview-templates/cap-strategist-interview-template.md|/resources/templates/interview-templates/cap-strategist-interview-template.md
+/Resources/Templates/interview-templates/former-player-interview-template.md|/resources/templates/interview-templates/former-player-interview-template.md
+/Resources/Templates/interview-templates/interview-summary-template.md|/resources/templates/interview-templates/interview-summary-template.md
+/Resources/Templates/interview-templates/player-interview-template.md|/resources/templates/interview-templates/player-interview-template.md
+/Resources/Templates/interview-templates/README.md|/resources/templates/interview-templates/README.md
+/Resources/Templates/Interview/_index.md|/resources/templates/Interview/README.md
+/Resources/Templates/Interview/agent-interview-template_20250415145841.md|/resources/templates/Interview/agent-interview-template-20250415145841.md
+/Resources/Templates/Interview/agent-interview-template-20250415145841.md|/resources/templates/Interview/agent-interview-template-20250415145841.md
+/Resources/Templates/Interview/agent-interview-template.md|/resources/templates/Interview/agent-interview-template.md
+/Resources/Templates/Interview/audio-transcript-template.md|/resources/templates/Interview/audio-transcript-template.md
+/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md|/resources/templates/Interview/cap-strategist-interview-template-20250415145841.md
+/Resources/Templates/Interview/cap-strategist-interview-template-20250415145841.md|/resources/templates/Interview/cap-strategist-interview-template-20250415145841.md
+/Resources/Templates/Interview/cap-strategist-interview-template.md|/resources/templates/Interview/cap-strategist-interview-template.md
+/Resources/Templates/Interview/competitor-profile-template.md|/resources/templates/Interview/competitor-profile-template.md
+/Resources/Templates/Interview/former-player-interview-template_20250415145841.md|/resources/templates/Interview/former-player-interview-template-20250415145841.md
+/Resources/Templates/Interview/former-player-interview-template-20250415145841.md|/resources/templates/Interview/former-player-interview-template-20250415145841.md
+/Resources/Templates/Interview/former-player-interview-template.md|/resources/templates/Interview/former-player-interview-template.md
+/Resources/Templates/Interview/index-template.md|/resources/templates/Interview/index-template.md
+/Resources/Templates/Interview/interview-summary-template_20250415145841.md|/resources/templates/Interview/interview-summary-template-20250415145841.md
+/Resources/Templates/Interview/interview-summary-template-20250415145841.md|/resources/templates/Interview/interview-summary-template-20250415145841.md
+/Resources/Templates/Interview/interview-summary-template.md|/resources/templates/Interview/interview-summary-template.md
+/Resources/Templates/Interview/player-interview-template_20250415145841.md|/resources/templates/Interview/player-interview-template-20250415145841.md
+/Resources/Templates/Interview/player-interview-template-20250415145841.md|/resources/templates/Interview/player-interview-template-20250415145841.md
+/Resources/Templates/Interview/player-interview-template.md|/resources/templates/Interview/player-interview-template.md
+/Resources/Templates/Interview/README.md|/resources/templates/Interview/README.md
+/Resources/Templates/Interview/task-template.md|/resources/templates/Interview/task-template.md
+/Resources/Templates/player-interview-template.md|/resources/templates/player-interview-template.md
+/Resources/Templates/Project/kanban-card.md|/resources/templates/Project/kanban-card.md
+/Resources/Templates/Project/README.md|/resources/templates/Project/README.md
+/Resources/Templates/Project/task-template.md|/resources/templates/Project/task-template.md
+/Resources/Templates/Project/weekly-note.md|/resources/templates/Project/weekly-note.md
+/Resources/Templates/Project/weekly-status.md|/resources/templates/Project/weekly-status.md
+/Resources/Templates/README.md|/resources/templates/README.md
+/Resources/Templates/System/agent-interview-template-20250415145841.md|/docs/system/agent-interview-template-20250415145841.md
+/Resources/Templates/System/agent-interview-template.md|/docs/system/agent-interview-template.md
+/Resources/Templates/System/audio-transcript-template.md|/docs/system/audio-transcript-template.md
+/Resources/Templates/System/cap-strategist-interview-template-20250415145841.md|/docs/system/cap-strategist-interview-template-20250415145841.md
+/Resources/Templates/System/cap-strategist-interview-template.md|/docs/system/cap-strategist-interview-template.md
+/Resources/Templates/System/client-analysis.md|/docs/system/client-analysis.md
+/Resources/Templates/System/competitor_profile_template.md|/docs/system/competitor-profile-template.md
+/Resources/Templates/System/competitor-profile-template_20250415145842.md|/docs/system/competitor-profile-template-20250415145842.md
+/Resources/Templates/System/competitor-profile-template-20250415145842.md|/docs/system/competitor-profile-template-20250415145842.md
+/Resources/Templates/System/competitor-profile-template.md|/docs/system/competitor-profile-template.md
+/Resources/Templates/System/competitor-profile.md|/docs/system/competitor-profile.md
+/Resources/Templates/System/fee-structure-comparison.md|/docs/system/fee-structure-comparison.md
+/Resources/Templates/System/former-player-interview-template-20250415145841.md|/docs/system/former-player-interview-template-20250415145841.md
+/Resources/Templates/System/former-player-interview-template.md|/docs/system/former-player-interview-template.md
+/Resources/Templates/System/index-template_20250415145842.md|/docs/system/index-template-20250415145842.md
+/Resources/Templates/System/index-template-20250415145842.md|/docs/system/index-template-20250415145842.md
+/Resources/Templates/System/index-template.md|/docs/system/index-template.md
+/Resources/Templates/System/index.md|/docs/system/index.md
+/Resources/Templates/System/industry-interview.md|/docs/system/industry-interview.md
+/Resources/Templates/System/interview-summary-template-20250415145841.md|/docs/system/interview-summary-template-20250415145841.md
+/Resources/Templates/System/interview-summary-template.md|/docs/system/interview-summary-template.md
+/Resources/Templates/System/kanban-card.md|/docs/system/kanban-card.md
+/Resources/Templates/System/meeting-notes.md|/docs/system/meeting-notes.md
+/Resources/Templates/System/moc-template.md|/docs/system/moc-template.md
+/Resources/Templates/System/player_interview_template.md|/docs/system/player-interview-template.md
+/Resources/Templates/System/player-interview-template_20250415145842.md|/docs/system/player-interview-template-20250415145842.md
+/Resources/Templates/System/player-interview-template-20250415145841.md|/docs/system/player-interview-template-20250415145841.md
+/Resources/Templates/System/player-interview-template-20250415145842.md|/docs/system/player-interview-template-20250415145842.md
+/Resources/Templates/System/player-interview-template.md|/docs/system/player-interview-template.md
+/Resources/Templates/System/player-interview.md|/docs/system/player-interview.md
+/Resources/Templates/System/README.md|/docs/system/README.md
+/Resources/Templates/System/service-comparison-matrix.md|/docs/system/service-comparison-matrix.md
+/Resources/Templates/System/standard_note_template.md|/docs/system/standard-note-template.md
+/Resources/Templates/System/standard-note-template_20250415145842.md|/docs/system/standard-note-template-20250415145842.md
+/Resources/Templates/System/standard-note-template-20250415145842.md|/docs/system/standard-note-template-20250415145842.md
+/Resources/Templates/System/standard-note-template.md|/docs/system/standard-note-template.md
+/Resources/Templates/System/standard-table-template.md|/docs/system/standard-table-template.md
+/Resources/Templates/System/task-template_20250415145842.md|/docs/system/task-template-20250415145842.md
+/Resources/Templates/System/task-template-20250415145842.md|/docs/system/task-template-20250415145842.md
+/Resources/Templates/System/task-template.md|/docs/system/task-template.md
+/Resources/Templates/System/test-template.md|/docs/system/test-template.md
+/Resources/Templates/System/weekly-note.md|/docs/system/weekly-note.md
+/Resources/Templates/System/weekly-status.md|/docs/system/weekly-status.md
+/Resources/Templates/System/yaml-frontmatter-template.md|/docs/system/yaml-frontmatter-template.md
+/Resources/Templates/task-template.md|/resources/templates/task-template.md
+/Resources/Templates/task-templates/README.md|/resources/templates/task-templates/README.md
+/Resources/Templates/task-templates/task-template.md|/resources/templates/task-templates/task-template.md
+/Resources/Templates/Task/_index.md|/resources/templates/Task/README.md
+/Resources/Templates/Task/README.md|/resources/templates/Task/README.md
+/Resources/Templates/Task/task-template.md|/resources/templates/Task/task-template.md
+/Resources/Visualizations/athlete-financial-lifecycle.excalidraw.md|/resources/visualizations/athlete-financial-lifecycle.excalidraw.md
+/Resources/Visualizations/README-templates.md|/resources/visualizations/README-templates.md
+/Resources/Visualizations/README.md|/resources/visualizations/README.md
+/Scripts/Automation.md|/resources/scripts/Automation.md
+/Scripts/Installation.md|/resources/scripts/Installation.md
+/Scripts/Maintenance.md|/resources/scripts/Maintenance.md
+/Scripts/Readme.md|/resources/scripts/Readme.md
+/System/|/docs/system/
+/System/directory_structure_log.md|/docs/system/directory-structure-log.md
+/System/index.md|/docs/system/index.md
+/System/PerformanceReports/optimization_table.md|/docs/system/PerformanceReports/optimization-table.md
+/System/Scripts/strategic_linking_implementation.md|/docs/system/Scripts/strategic-linking-implementation.md
+/System/verification_report_20250409_132809.md|/docs/system/verification-report-20250409-132809.md
+/Templates/|/resources/templates/
+/welcome.md|/docs/welcome.md

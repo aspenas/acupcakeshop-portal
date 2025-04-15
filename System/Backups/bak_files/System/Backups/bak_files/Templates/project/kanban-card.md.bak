@@ -1,0 +1,28 @@
+---
+title: "{{title}}"
+created: {{date:YYYY-MM-DD}}
+due: 
+assignee: 
+priority: Medium
+tags: [task]
+---
+
+# {{title}}
+
+## Description
+
+Brief description of the task.
+
+## Requirements
+
+- [ ] Requirement 1
+- [ ] Requirement 2
+- [ ] Requirement 3
+
+## Related Resources
+
+- Link to related resources
+
+## Notes
+
+Additional notes about the task.

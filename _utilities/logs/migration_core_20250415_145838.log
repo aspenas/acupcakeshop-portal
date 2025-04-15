@@ -1,0 +1,83 @@
+========================================================================
+LOG: migration_core
+STARTED: Tue Apr 15 14:58:38 MDT 2025
+USER: patricksmith
+PID: 29626
+========================================================================
+
+[2025-04-15 14:58:38] [INFO] Starting script: migration_core
+[2025-04-15 14:58:38] [INFO] Description: Core Migration Manager
+[2025-04-15 14:58:38] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop
+[2025-04-15 14:58:38] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities
+[2025-04-15 14:58:38] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities/scripts
+[2025-04-15 14:58:38] [INFO] Creating comprehensive vault backup...
+[2025-04-15 14:58:38] [INFO] Creating full vault backup to: /Users/patricksmith/obsidian/acupcakeshop_backup_20250415_145838
+[2025-04-15 14:58:38] [SUCCESS] Vault backup created successfully at: /Users/patricksmith/obsidian/acupcakeshop_backup_20250415_145838
+[2025-04-15 14:58:38] [INFO] Creating directory structure...
+[2025-04-15 14:58:38] [INFO] Creating directory: atlas (Knowledge maps and navigation)
+[2025-04-15 14:58:38] [INFO] Creating directory: content (Primary knowledge content)
+[2025-04-15 14:58:38] [INFO] Creating directory: content/interviews (Interview content)
+[2025-04-15 14:58:38] [INFO] Created README stub: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/README.md
+[2025-04-15 14:58:38] [INFO] Creating directory: content/research (Research content)
+[2025-04-15 14:58:38] [INFO] Created README stub: /Users/patricksmith/obsidian/acupcakeshop/content/research/README.md
+[2025-04-15 14:58:38] [INFO] Creating directory: content/strategy (Strategic planning)
+[2025-04-15 14:58:38] [INFO] Created README stub: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/README.md
+[2025-04-15 14:58:38] [INFO] Creating directory: content/compliance (Regulatory compliance)
+[2025-04-15 14:58:38] [INFO] Created README stub: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/README.md
+[2025-04-15 14:58:38] [INFO] Creating directory: resources (Supporting materials)
+[2025-04-15 14:58:38] [INFO] Creating directory: resources/templates (Templates)
+[2025-04-15 14:58:38] [INFO] Created README stub: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/README.md
+[2025-04-15 14:58:38] [INFO] Creating directory: resources/assets (Media and attachments)
+[2025-04-15 14:58:38] [INFO] Created README stub: /Users/patricksmith/obsidian/acupcakeshop/resources/assets/README.md
+[2025-04-15 14:58:38] [INFO] Creating directory: resources/dashboards (Performance dashboards)
+[2025-04-15 14:58:38] [INFO] Creating directory: _utilities (Non-content utilities)
+[2025-04-15 14:58:38] [INFO] Creating directory: _utilities/scripts (Automation scripts)
+[2025-04-15 14:58:39] [INFO] Created README stub: /Users/patricksmith/obsidian/acupcakeshop/_utilities/scripts/README.md
+[2025-04-15 14:58:39] [INFO] Creating directory: _utilities/config (Configuration files)
+[2025-04-15 14:58:39] [INFO] Created README stub: /Users/patricksmith/obsidian/acupcakeshop/_utilities/config/README.md
+[2025-04-15 14:58:39] [INFO] Creating directory: docs (Vault documentation)
+[2025-04-15 14:58:39] [SUCCESS] Directory structure created successfully
+[2025-04-15 14:58:39] [INFO] Validating migration scripts...
+[2025-04-15 14:58:39] [SUCCESS] All migration scripts validated successfully
+[2025-04-15 14:58:39] [INFO] Creating migration inventory...
+[2025-04-15 14:58:39] [INFO] Finding content files...
+[2025-04-15 14:58:39] [INFO] Found       80 content files
+[2025-04-15 14:58:39] [INFO] Finding template files...
+[2025-04-15 14:58:39] [INFO] Found      110 template files
+[2025-04-15 14:58:39] [INFO] Finding resource files...
+[2025-04-15 14:58:39] [INFO] Found       68 resource files
+[2025-04-15 14:58:39] [INFO] Finding asset files...
+[2025-04-15 14:58:39] [INFO] Found        0 asset files
+[2025-04-15 14:58:39] [INFO] Initialized migration tracker: /Users/patricksmith/obsidian/acupcakeshop/_utilities/inventory/migration_tracker.csv
+[2025-04-15 14:58:39] [SUCCESS] Migration inventory created successfully
+[2025-04-15 14:58:39] [INFO] ========================================================================
+[2025-04-15 14:58:39] [INFO] Starting migration phase 1_backup: Create full vault backup
+[2025-04-15 14:58:39] [INFO] ========================================================================
+[2025-04-15 14:58:39] [ERROR] Migration phase 1_backup failed with status 1: Create full vault backup
+[2025-04-15 14:58:39] [ERROR] Migration phase 1_backup failed, continuing with next phase
+[2025-04-15 14:58:39] [INFO] ========================================================================
+[2025-04-15 14:58:39] [INFO] Starting migration phase 2_prepare: Prepare migration environment
+[2025-04-15 14:58:39] [INFO] ========================================================================
+[2025-04-15 14:58:40] [SUCCESS] Migration phase 2_prepare completed successfully: Prepare migration environment
+[2025-04-15 14:58:40] [INFO] ========================================================================
+[2025-04-15 14:58:40] [INFO] Starting migration phase 3_content: Migrate content files
+[2025-04-15 14:58:40] [INFO] ========================================================================
+[2025-04-15 14:58:41] [SUCCESS] Migration phase 3_content completed successfully: Migrate content files
+[2025-04-15 14:58:41] [INFO] ========================================================================
+[2025-04-15 14:58:41] [INFO] Starting migration phase 4_resources: Migrate resources
+[2025-04-15 14:58:41] [INFO] ========================================================================
+[2025-04-15 14:58:43] [SUCCESS] Migration phase 4_resources completed successfully: Migrate resources
+[2025-04-15 14:58:43] [INFO] ========================================================================
+[2025-04-15 14:58:43] [INFO] Starting migration phase 5_links: Update internal links
+[2025-04-15 14:58:43] [INFO] ========================================================================
+[2025-04-15 14:58:44] [SUCCESS] Migration phase 5_links completed successfully: Update internal links
+[2025-04-15 14:58:44] [INFO] ========================================================================
+[2025-04-15 14:58:44] [INFO] Starting migration phase 6_verify: Verify migration completeness
+[2025-04-15 14:58:44] [INFO] ========================================================================
+[2025-04-15 14:58:44] [ERROR] Migration phase 6_verify failed with status 2: Verify migration completeness
+[2025-04-15 14:58:44] [ERROR] Migration phase 6_verify failed, continuing with next phase
+[2025-04-15 14:58:44] [INFO] ========================================================================
+[2025-04-15 14:58:44] [INFO] Starting migration phase 7_report: Generate migration reports
+[2025-04-15 14:58:44] [INFO] ========================================================================
+[2025-04-15 14:58:44] [ERROR] Migration phase 7_report failed with status 1: Generate migration reports
+[2025-04-15 14:58:44] [ERROR] Migration phase 7_report failed, continuing with next phase

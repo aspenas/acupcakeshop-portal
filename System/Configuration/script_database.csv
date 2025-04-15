@@ -1,0 +1,12 @@
+Path,Type,Description,Last Run,Last Modified,Frequency,Dependencies,Status,Priority,Notes
+Scripts/consolidate_scripts.py,py,Script consolidation tool for identifying and merging duplicate script functionality,2025-04-15,2025-04-15,Monthly,"logger.py,config_manager.py,file_utils.py,error_handler.py",Active,High,Used to optimize scripts by identifying and consolidating duplicate functions
+Scripts/example_script1.py,py,Example script for processing JSON files,2025-04-15,2025-04-15,Daily,"example_script1_script2.py",Active,Medium,Example script for consolidation testing
+Scripts/example_script2.py,py,Example script for analyzing JSON files,2025-04-15,2025-04-15,Daily,"example_script1_script2.py",Active,Medium,Example script for consolidation testing
+Scripts/example_script3.py,py,Example script for converting JSON to CSV,2025-04-15,2025-04-15,Weekly,"example_script1_script2.py",Active,Medium,Example script for consolidation testing
+Scripts/lib/example_script1_script2.py,py,Shared functions extracted from example scripts,2025-04-15,2025-04-15,N/A,,Active,High,Consolidated shared functions
+Scripts/lib/logger.py,py,Standardized logging module,2025-04-15,2025-04-15,N/A,,Active,High,Core logging library
+Scripts/lib/file_utils.py,py,File utility functions,2025-04-15,2025-04-15,N/A,"logger.py",Active,High,Core file operations library
+Scripts/lib/error_handler.py,py,Error handling utilities,2025-04-15,2025-04-15,N/A,"logger.py",Active,High,Core error handling library
+Scripts/lib/config_manager.py,py,Configuration management,2025-04-15,2025-04-15,N/A,"logger.py",Active,High,Core configuration library
+Scripts/lib/consolidation_functions.py,py,Script consolidation functions,2025-04-15,2025-04-15,N/A,"logger.py,file_utils.py",Active,High,Functions for extracting and consolidating scripts
+Scripts/verify_paths.py,py,Path verification utility,2025-04-15,2025-04-15,As needed,"logger.py,config_manager.py,file_utils.py",Active,Low,Verifies path resolution is working correctly

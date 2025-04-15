@@ -1,0 +1,19 @@
+# Obsidian ignore file
+# This file tells Obsidian which directories to skip when indexing
+# It improves performance and prevents indexing of utility files
+
+# Utility directories
+_utilities/
+System/
+Scripts/
+
+# Backup directories
+backup_*/
+*.bak
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Log files
+*.log

@@ -1,0 +1,89 @@
+---
+created: 2025-04-06
+modified: 2025-04-08
+status: approved
+tags:
+- analysis
+- athlete
+- business
+- competitor-analysis
+- compliance
+- education
+- financial
+- football
+- index
+- interview-insights
+- status:completed
+title: Analysis Index
+type: index
+---
+
+# Analysis
+
+In-depth analysis and critical insights derived from our research, interviews, and market assessment.
+
+## Key Analysis Documents
+
+- [Interview Insights](./interview-insights.md) - Deep patterns and unspoken implications from our athlete interviews
+  - Unspoken power dynamics in advisor relationships
+  - Family factors in financial decisions
+  - Hidden timing problems in advisory services
+  - Technology disconnects and expectations
+  - Identity factors in financial decisions
+
+## Competitor Analysis
+
+- [Competitor Analysis](./competitor-analysis/_index.md) - Strategic assessment of competitive landscape
+  - [Boutique Advisory Firms](./competitor-analysis/boutique-firms/_index.md) - Analysis of specialized athlete-focused firms
+  - [Institutional Firms](./competitor-analysis/institutional-firms/_index.md) - Analysis of large institution divisions
+  - [Agent-Advisor Models](./competitor-analysis/agent-advisor-models.md) - Analysis of integrated service approaches
+
+## Market Trends
+
+- [Market Trends](./market-trends/_index.md) - Emerging patterns and opportunities
+  - NIL impact on early career advisory relationships
+  - Technology integration in wealth management
+  - Fee compression and service expansion
+  - Educational components as differentiators
+  - Career transition specialization
+
+## Analysis Categories
+
+- **Competitor Analysis** - Strategic assessment of competitive landscape
+- **Market Trends** - Emerging patterns and opportunities
+- **Interview Insights** - Deeper meaning from stakeholder conversations
+- **Strategic Implications** - Actionable findings for business model development
+- **Client Needs Assessment** - Analysis of expressed and unexpressed client needs
+- **Opportunity Identification** - Strategic gaps in current marketplace
+
+## Analytical Framework
+
+Our analysis follows these principles:
+- Identify patterns across multiple data points
+- Surface unstated or implicit dynamics
+- Connect findings to strategic implications
+- Separate observation from interpretation
+- Challenge assumptions with evidence
+- Link insights to actionable recommendations
+
+## Future Analysis Needs
+
+- Competitive response modeling
+- Service model validation
+- Pricing sensitivity analysis
+- Client segment prioritization
+- Technology platform requirements
+- NIL market opportunity sizing
+
+## Related Resources
+
+- [Player Interviews](../02-interviews/players/_index.md) - Source material for player insights
+- [Industry Professionals](../02-interviews/industry-professionals/_index.md) - Source material for industry perspective
+- [Market Research](../01-market-research/_index.md) - Competitive analysis and market insights
+- [Strategic Implementation](../03-strategy/_index.md) - Application of analytical findings
+- [Back to Main Index](../_index.md)
+
+---
+
+*Index maintained by: Team*  
+*Last updated: April 8, 2025*

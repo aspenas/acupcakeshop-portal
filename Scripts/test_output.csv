@@ -1,0 +1,2 @@
+id,name,date,description,items,exported_at
+sample123,Sample Data,2025-04-15,This is sample data for testing,"[{'id': 1, 'name': 'Item 1', 'value': 10.5}, {'id': 2, 'name': 'Item 2', 'value': 20.75}, {'id': 3, 'name': 'Item 3', 'value': 15.25}]",2025-04-15T11:36:26.938936

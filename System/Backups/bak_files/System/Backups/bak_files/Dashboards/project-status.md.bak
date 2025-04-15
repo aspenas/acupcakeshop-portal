@@ -1,0 +1,104 @@
+---
+title: "Dashboard: Project Status"
+date_created: 2025-04-08
+last_updated: 2025-04-08
+update_frequency: Daily
+tags: [dashboard, project, tasks]
+---
+
+# Project Status Dashboard
+
+This dashboard tracks all active tasks and projects within the Athlete Financial Empowerment initiative.
+
+## Active Tasks
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Task",
+  status as "Status",
+  due as "Due Date",
+  assigned as "Owner"
+FROM "Athlete Financial Empowerment"
+WHERE contains(file.tags, "#task") AND status != "Completed"
+SORT due asc
+```
+
+## Project Milestones
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Milestone",
+  due as "Target Date",
+  status as "Status",
+  owner as "Owner"
+FROM "Athlete Financial Empowerment"
+WHERE contains(file.tags, "#milestone")
+SORT due asc
+```
+
+## Recent Completions
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Task",
+  completed as "Completion Date",
+  assigned as "Owner"
+FROM "Athlete Financial Empowerment"
+WHERE contains(file.tags, "#task") AND status = "Completed"
+SORT completed desc
+LIMIT 10
+```
+
+## Team Workload
+
+```dataview
+TABLE WITHOUT ID
+  assigned as "Team Member",
+  count(assigned) as "Active Tasks"
+FROM "Athlete Financial Empowerment"
+WHERE contains(file.tags, "#task") AND status != "Completed"
+GROUP BY assigned
+SORT count(assigned) desc
+```
+
+## Project Progress
+
+```mermaid
+gantt
+    title Athlete Financial Empowerment Project
+    dateFormat  YYYY-MM-DD
+    section Research
+    Market Analysis       :done, 2025-01-15, 2025-03-01
+    Competitor Research   :active, 2025-02-15, 2025-04-15
+    Client Interviews     :active, 2025-03-01, 2025-05-01
+    section Strategy
+    Service Definition    :2025-04-01, 2025-05-15
+    Business Model        :2025-04-15, 2025-06-01
+    section Development
+    Client Materials      :2025-05-01, 2025-06-15
+    Marketing Plan        :2025-05-15, 2025-07-01
+    section Launch
+    NFLPA Registration    :2025-06-01, 2025-07-15
+    Pilot Program         :2025-07-01, 2025-08-15
+```
+
+## Upcoming Deadlines
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Task",
+  due as "Due Date",
+  assigned as "Owner",
+  status as "Status"
+FROM "Athlete Financial Empowerment"
+WHERE contains(file.tags, "#task") AND status != "Completed" AND due
+WHERE due >= date(today) AND due <= date(today) + dur(14 days)
+SORT due asc
+```
+
+## Task Action Items
+
+- [ ] Review all tasks with past due dates
+- [ ] Update status on research milestones
+- [ ] Assign owners to unassigned tasks
+- [ ] Schedule weekly progress review meeting

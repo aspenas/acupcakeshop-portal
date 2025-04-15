@@ -1,0 +1,165 @@
+#!/bin/bash
+
+# Obsidian Recommended Plugins Installation Script
+# This script helps download and install recommended Obsidian plugins for the
+# Athlete Financial Empowerment vault.
+
+VAULT_PATH="/Users/patricksmith/obsidian/acupcakeshop"
+PLUGINS_DIR="$VAULT_PATH/.obsidian/plugins"
+PLUGINS_JSON="$VAULT_PATH/.obsidian/community-plugins.json"
+
+# Define recommended plugins with their GitHub repository IDs
+# Using simple arrays instead of associative arrays for better compatibility
+PLUGIN_IDS=(
+  "obsidian-kanban"
+  "table-editor-obsidian"
+  "calendar"
+  "obsidian-tasks-plugin"
+  "obsidian-excalidraw-plugin"
+  "obsidian-projects"
+  "obsidian-mind-map"
+  "obsidian-charts"
+  "obsidian-dataloom"
+  "templater-obsidian"
+  "quickadd"
+)
+
+PLUGIN_REPOS=(
+  "mgmeyers/obsidian-kanban"
+  "tgrosinger/advanced-tables-obsidian"
+  "liamcain/obsidian-calendar-plugin"
+  "obsidian-tasks-group/obsidian-tasks"
+  "zsviczian/obsidian-excalidraw-plugin"
+  "marcusolsson/obsidian-projects"
+  "james-tindal/obsidian-mind-map"
+  "phibr0/obsidian-charts"
+  "trey-wallis/obsidian-dataloom"
+  "SilentVoid13/Templater"
+  "chhoumann/quickadd"
+)
+
+# Utility function to check if a plugin is already installed
+plugin_is_installed() {
+  local plugin_id="$1"
+  
+  # Check if the plugin directory exists
+  if [ -d "$PLUGINS_DIR/$plugin_id" ]; then
+    return 0  # Plugin installed
+  else
+    return 1  # Plugin not installed
+  fi
+}
+
+# Utility function to check if a plugin is enabled
+plugin_is_enabled() {
+  local plugin_id="$1"
+  
+  # Check if plugin is in the enabled plugins list
+  if [ -f "$PLUGINS_JSON" ]; then
+    grep -q "\"$plugin_id\"" "$PLUGINS_JSON"
+    return $?
+  else
+    return 1
+  fi
+}
+
+# Function to add a plugin to community-plugins.json
+enable_plugin() {
+  local plugin_id="$1"
+  
+  if [ -f "$PLUGINS_JSON" ]; then
+    if ! plugin_is_enabled "$plugin_id"; then
+      # Backup current file
+      cp "$PLUGINS_JSON" "${PLUGINS_JSON}.bak"
+      
+      # Add plugin to the list
+      contents=$(cat "$PLUGINS_JSON")
+      if [ "$contents" == "[]" ]; then
+        # Empty array, add as first element
+        echo "[\"$plugin_id\"]" > "$PLUGINS_JSON"
+      else
+        # Add to existing array
+        contents="${contents%]}, \"$plugin_id\"]"
+        echo "$contents" > "$PLUGINS_JSON"
+      fi
+      
+      echo "  ✅ Enabled plugin: $plugin_id"
+    else
+      echo "  ℹ️ Plugin already enabled: $plugin_id"
+    fi
+  else
+    echo "  ⚠️ No community-plugins.json found"
+    # Create a new file with just this plugin
+    echo "[\"$plugin_id\"]" > "$PLUGINS_JSON"
+    echo "  ✅ Created new plugins configuration with: $plugin_id"
+  fi
+}
+
+# Function to download and install a plugin
+install_plugin() {
+  local plugin_id="$1"
+  local repo="$2"
+  
+  if plugin_is_installed "$plugin_id"; then
+    echo "  ℹ️ Plugin already installed: $plugin_id"
+  else
+    echo "  📥 Downloading and installing: $plugin_id"
+    
+    # Create plugin directory
+    mkdir -p "$PLUGINS_DIR/$plugin_id"
+    
+    # Clone the repository directly
+    git clone --depth=1 "https://github.com/$repo.git" "$PLUGINS_DIR/$plugin_id" 2>/dev/null
+    
+    # Remove the .git directory to save space
+    rm -rf "$PLUGINS_DIR/$plugin_id/.git"
+    
+    if [ -d "$PLUGINS_DIR/$plugin_id" ]; then
+      echo "  ✅ Plugin installed: $plugin_id"
+    else
+      echo "  ❌ Failed to install plugin: $plugin_id"
+      # Create a placeholder to indicate it should be manually installed
+      mkdir -p "$PLUGINS_DIR/$plugin_id"
+      echo "This plugin needs to be manually installed from the Community Plugins menu in Obsidian." > "$PLUGINS_DIR/$plugin_id/README.md"
+    fi
+  fi
+  
+  # Ensure the plugin is enabled
+  enable_plugin "$plugin_id"
+}
+
+# Check if the plugins directory exists
+if [ ! -d "$PLUGINS_DIR" ]; then
+  echo "❌ Plugins directory not found: $PLUGINS_DIR"
+  echo "Please ensure Obsidian is configured correctly."
+  exit 1
+fi
+
+echo "=== Obsidian Recommended Plugins Installation ==="
+echo "Vault: $VAULT_PATH"
+echo
+
+# Install each recommended plugin
+echo "Installing recommended plugins..."
+for i in "${!PLUGIN_IDS[@]}"; do
+  plugin_id="${PLUGIN_IDS[$i]}"
+  repo="${PLUGIN_REPOS[$i]}"
+  echo "Processing plugin: $plugin_id ($repo)"
+  install_plugin "$plugin_id" "$repo"
+  echo
+done
+
+echo "=== Installation Complete ==="
+echo
+echo "Plugin installation is complete. Please restart Obsidian to activate the new plugins."
+echo "After restarting, make sure to enable all installed plugins in the Community Plugins section."
+echo
+echo "Priority Plugins to Configure First:"
+echo "1. Advanced Charts: Create interactive financial visualizations"
+echo "2. DataLoom: Build comprehensive data tables with advanced filtering"
+echo "3. Templater: Upgrade your templating system with programmable templates"
+echo "4. QuickAdd: Streamline creation of standardized notes with macros"
+echo "5. Kanban: Create boards for client projects and strategies"
+echo "6. Advanced Tables: Enhance competitor comparison tables"
+echo
+echo "For detailed usage instructions, refer to the advanced_enhancement_recommendations.md document."

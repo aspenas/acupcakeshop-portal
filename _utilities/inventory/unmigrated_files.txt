@@ -1,0 +1,4 @@
+/Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Automation.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Installation.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Maintenance.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Readme.md

@@ -1,0 +1,690 @@
+========================================================================
+LOG: update_links
+STARTED: Tue Apr 15 14:58:43 MDT 2025
+USER: patricksmith
+PID: 35699
+========================================================================
+
+[2025-04-15 14:58:43] [INFO] Starting script: update_links
+[2025-04-15 14:58:43] [INFO] Description: Internal Link Updating
+[2025-04-15 14:58:43] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop
+[2025-04-15 14:58:43] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities
+[2025-04-15 14:58:43] [INFO] Validated directory: /Users/patricksmith/obsidian/acupcakeshop/_utilities/scripts
+[2025-04-15 14:58:43] [INFO] Starting link updating process...
+[2025-04-15 14:58:43] [INFO] Building file path mapping...
+[2025-04-15 14:58:43] [INFO] Extracting paths from migration tracker...
+[2025-04-15 14:58:43] [SUCCESS] Created file path mapping with 3 entries
+[2025-04-15 14:58:43] [INFO] Updating links in 233 markdown files...
+[2025-04-15 14:58:43] [INFO] Processing files in: /Users/patricksmith/obsidian/acupcakeshop/content
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 04-analysis/service-model-diagram.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: 04-analysis/service-model-diagram.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 04-analysis/interview-insights.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: 04-analysis/interview-insights.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: 04-analysis/competitor-positioning-diagram.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/research-summary.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/agents/kevin-conner.md
+[2025-04-15 14:58:43] [INFO] No links found in: 04-analysis/competitor-positioning-diagram.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/research-summary.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/competitor-profiles/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/agents/kevin-conner.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: competitor-analysis/agent-advisor-models.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: competitor-analysis/agent-advisor-models.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/market-analysis/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/research/industry-analysis/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/industry-analysis/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/research/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/advisory-board/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/registration/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 05-compliance/advisory-board-research.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: 05-compliance/advisory-board-research.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 05-compliance/registration-requirements.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: 05-compliance/registration-requirements.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/compliance/standards/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/jenkins-john-raiders.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/smith-roquan-ravens.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/jenkins-john-raiders.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/smith-roquan-ravens.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/README.md
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[/atlas/README]]
+[2025-04-15 14:58:43] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/content/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/johnson-jaylen-bears.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/jenkins-john-raiders-defensive-tackle.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/johnson-jaylen-bears-safety.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/johnson-jaylen-bears.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/johnson-jaylen-bears-safety.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/jenkins-john-raiders-defensive-tackle.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/smith-roquan-ravens-linebacker.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/oconnell-aidan-raiders-quarterback.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/oconnell-aidan-raiders.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/lynn-nicole.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/smith-roquan-ravens-linebacker.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/active/oconnell-aidan-raiders-quarterback.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/players/oconnell-aidan-raiders.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/lynn-nicole.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/conner-kevin.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/agents/conner-kevin.md
+[2025-04-15 14:58:43] [INFO] Processing links in: 02-interviews/INTERVIEW-GUIDE.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/-.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/campbell-lamar.md
+[2025-04-15 14:58:43] [INFO] No links found in: 02-interviews/INTERVIEW-GUIDE.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/campbell-lamar.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/-.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/nelson-daryl.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/interviews/industry-professionals/nelson-daryl.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/business-model/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 06-planning/mckinsey-analysis.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: 06-planning/mckinsey-analysis.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 06-planning/working-sessions.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: 06-planning/working-sessions.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: 06-planning/key-hypotheses.md
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 06-planning/business-model-framework.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/planning/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: 06-planning/key-hypotheses.md
+[2025-04-15 14:58:43] [INFO] No links found in: 06-planning/business-model-framework.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: 00-project-overview/key-project-areas.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: 00-project-overview/key-project-areas.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: 00-project-overview/current-status.md
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: 00-project-overview/current-status.md
+[2025-04-15 14:58:43] [INFO] Processing links in: 00-project-overview/project-vision.md
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: 00-project-overview/project-vision.md
+[2025-04-15 14:58:43] [INFO] Processing links in: kanban/competitor-research.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: kanban/interview-pipeline.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: kanban/competitor-research.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: kanban/interview-pipeline.md
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: kanban/service-development.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: kanban/service-development.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: calls/call-list.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: calls/call-list.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: calls/tonight-guide.md
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: calls/conversation-guide.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: calls/tonight-guide.md
+[2025-04-15 14:58:43] [INFO] No links found in: calls/conversation-guide.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 07-team/task-guidelines.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/team/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: 07-team/task-guidelines.md
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 07-team/tasks-dashboard.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: 07-team/tasks-dashboard.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/implementation/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: 03-strategy/business-model.md
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: 03-strategy/business-model.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] Processing links in: 03-strategy/research-roadmap.md
+[2025-04-15 14:58:43] [INFO] Processing links in: Financial
+[2025-04-15 14:58:43] [INFO] Processing links in: 03-strategy/competitive-positioning.md
+[2025-04-15 14:58:43] [INFO] No links found in: 03-strategy/competitive-positioning.md
+[2025-04-15 14:58:43] [INFO] No links found in: Financial
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/content/strategy/Athlete
+[2025-04-15 14:58:43] [INFO] No links found in: 03-strategy/research-roadmap.md
+[2025-04-15 14:58:43] [INFO] Processing files in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/competitor-profile-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/competitor-profile.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/standard-table-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/standard-table-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/competitor-profile.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/competitor-profile-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/_index.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/fee-structure-comparison.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/service-comparison-matrix.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/service-comparison-matrix.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/_index.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Analysis/fee-structure-comparison.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/weekly-status.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/kanban-card.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/task-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/kanban-card.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/weekly-status.md
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{RELATED_TASK_1}}]]
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{RELATED_TASK_2}}]]
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{DEPENDENCY_1}}]]
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{DEPENDENCY_2}}]]
+[2025-04-15 14:58:43] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/task-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/weekly-note.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/cap-strategist-interview-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/cap-strategist-interview-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Project/weekly-note.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor_profile_template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor_profile_template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/cap-strategist-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard_note_template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/cap-strategist-interview-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard_note_template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/former-player-interview-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-table-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/former-player-interview-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-table-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/agent-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player_interview_template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/weekly-status.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/weekly-status.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player_interview_template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/agent-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/former-player-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/interview-summary-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/agent-interview-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/player-interview-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/interview-summary-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/agent-interview-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/former-player-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/industry-interview.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/interview-summary-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/yaml-frontmatter-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/yaml-frontmatter-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/interview-summary-template-20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/industry-interview.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/index.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/meeting-notes.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/kanban-card.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/test-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/fee-structure-comparison.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/fee-structure-comparison.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/test-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/kanban-card.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/meeting-notes.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/moc-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/weekly-note.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/audio-transcript-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/audio-transcript-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/weekly-note.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/moc-template.md
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{RELATED_TASK_1}}]]
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{RELATED_TASK_2}}]]
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{DEPENDENCY_1}}]]
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{DEPENDENCY_2}}]]
+[2025-04-15 14:58:43] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/task-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/client-analysis.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/service-comparison-matrix.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/competitor-profile-template_20250415145842.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/service-comparison-matrix.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/client-analysis.md
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{RELATED_NOTE_1}}]]
+[2025-04-15 14:58:43] [WARNING] No mapping found for link: [[{{RELATED_NOTE_2}}]]
+[2025-04-15 14:58:43] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/System/standard-note-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/competitor-profile-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/index-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/competitor-profile-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/index-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/player-interview-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/agent-interview-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/interview-summary-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/former-player-interview-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/audio-transcript-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/task-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/_index.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/task-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/cap-strategist-interview-template_20250415145841.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/audio-transcript-template.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Interview/_index.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/task-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/_index.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/player-interview.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/_index.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/player-interview.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Task/task-template.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/industry-interview.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/meeting-notes.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/client-analysis.md
+[2025-04-15 14:58:43] [INFO] Processing files in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/competitor-analysis.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/competitor/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/financial/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project-status.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/industry-interview.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/meeting-notes.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/templates/Client/client-analysis.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/financial/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/competitor/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project-status.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/competitor-analysis.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/content-status.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/interview-insights.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/obsidian-compatibility-summary.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/content-status.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/interview-insights.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/obsidian-compatibility-summary.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/competitor-analysis.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-status.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/interview-insights.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/content-status.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/competitor-analysis.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-status.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/interview-insights.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/content-status.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/optimization-table-link.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-progress.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/index.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/project-progress.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/index.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/optimization-table-link.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-summary.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-report.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/athlete-financial-needs.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-service-model-analysis.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-summary.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-service-model-analysis.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/script-consolidation-report.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/athlete-financial-needs.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/consolidation-success.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-queries-dashboard.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project-progress.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/index.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project-progress.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/index.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/consolidation-success.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/project/advanced-queries-dashboard.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/athlete-financial-needs.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/interview/README.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/advanced-service-model-analysis.md
+[2025-04-15 14:58:43] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/advanced-queries-dashboard.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/advanced-queries-dashboard.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/athlete-financial-needs.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/interview/README.md
+[2025-04-15 14:58:43] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/resources/dashboards/advanced-service-model-analysis.md
+[2025-04-15 14:58:44] [INFO] Processing files in: /Users/patricksmith/obsidian/acupcakeshop/atlas
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape_20250415145843.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/compliance-map.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape_20250415145843.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models.md
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/interviews/players/john-jenkins-raiders-defensive-tackle]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/compliance/registration/requirements]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/compliance/registration/application-process]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/interviews/players/jaylen-johnson-bears-safety]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/compliance/registration/maintenance-requirements]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/interviews/players/aidan-oconnell-raiders-quarterback]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/compliance/advisory-board/board-requirements]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/interviews/players/roquan-smith-ravens-linebacker]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/interviews/agents/kevin-conner]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/compliance/advisory-board/candidate-research]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/compliance/advisory-board/governance-structure]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/interviews/agents/nicole-lynn]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/compliance/standards/fiduciary-requirements]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/interviews/industry-professionals/lamar-campbell]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/compliance/standards/disclosure-requirements]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/interviews/industry-professionals/daryl-nelson]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/compliance/standards/recordkeeping-requirements]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[research-map]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[strategy-map]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[strategy-map]]
+[2025-04-15 14:58:44] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/atlas/interview-map.md
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[research-map]]
+[2025-04-15 14:58:44] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/atlas/compliance-map.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models_20250415145843.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/README.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews_20250415145843.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-service-models_20250415145843.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews_20250415145843.md
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/research/market-analysis/athlete-financial-needs]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[interview-map]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/research/market-analysis/existing-service-gaps]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[research-map]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[strategy-map]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/research/market-analysis/market-size-analysis]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/research/competitor-profiles/integra-wealth-management]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[compliance-map]]
+[2025-04-15 14:58:44] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/atlas/README.md
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/research/competitor-profiles/athlete-wealth-partners]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/research/competitor-profiles/agent-advisor-models]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/research/industry-analysis/fee-structure-comparison]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/research/industry-analysis/service-model-comparison]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[interview-map]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[strategy-map]]
+[2025-04-15 14:58:44] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/strategy-map.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning_20250415145843.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning_20250415145843.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-athlete-interviews.md
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/04-analysis/competitor-analysis/_index]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/project-vision]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/04-analysis/competitor-analysis/agent-advisor-models]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/mission-statement]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/04-analysis/competitor-positioning-diagram]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/business-model/service-offerings]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/business-model/revenue-model]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/key-insights]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/business-model/competitive-positioning]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Dashboards/project-progress]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/planning/key-hypotheses]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/integra-wealth-management]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/planning/working-sessions]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/ubs-mainsail]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/km-capital-management]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/planning/mckinsey-analysis]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/wme-joel-segal]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/implementation/phase-one]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/kevin-conner]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/implementation/phase-two]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/content/strategy/implementation/phase-three]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/integra-wealth-management]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[interview-map]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/ubs-mainsail]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/km-capital-management]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[research-map]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[compliance-map]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/wme-joel-segal]]
+[2025-04-15 14:58:44] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/atlas/strategy-map.md
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/04-analysis/competitor-analysis/agent-advisor-models]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/kevin-conner]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/02-interviews/industry-professionals/2025/04_april/2025-04-06_lynn-nicole_klutch_agent]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/02-interviews/industry-professionals/2025/04_april/2025-04-06_cabott-chris_steinberg_agent]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/02-interviews/industry-professionals/2025/04_april/2025-04-06_conner-kevin_universal_agent]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/04-analysis/competitor-analysis/boutique-firms/_index]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/04-analysis/competitor-analysis/institutional-firms/_index]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/03-strategy/competitive-positioning]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Dashboards/competitor-analysis]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_smith-roquan_ravens_linebacker]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_jenkins-john_raiders_defensive-tackle]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[/Athlete Financial Empowerment/02-interviews/players/former/2025/04_april/2025-04-06_harris-chris_broncos_cornerback]]
+[2025-04-15 14:58:44] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-competitor-landscape.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-athlete-financial-lifecycle.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-service-model.md
+[2025-04-15 14:58:44] [INFO] Processing files in: /Users/patricksmith/obsidian/acupcakeshop/docs
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-plan.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-executive-summary.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/docs/README.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/atlas/map-strategic-planning.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-service-model.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/atlas/mind-map-athlete-financial-lifecycle.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-plan.md
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-executive-summary.md
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[organization-standards]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[vault-guide]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[organization-standards]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[template-guide]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[utilities-guide]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[utilities-guide]]
+[2025-04-15 14:58:44] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md
+[2025-04-15 14:58:44] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/docs/README.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-execution-guide.md
+[2025-04-15 14:58:44] [INFO] Processing links in: /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md
+[2025-04-15 14:58:44] [SUCCESS] Link updating completed successfully
+
+========================================================================
+COMPLETED: Tue Apr 15 14:58:44 MDT 2025
+STATUS: 0
+========================================================================
+[2025-04-15 14:58:44] [SUCCESS] Script completed successfully.
+[2025-04-15 14:58:44] [INFO] No links found in: /Users/patricksmith/obsidian/acupcakeshop/docs/migration-execution-guide.md
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$source_path" == *"/players/"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[file-name]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[file-name]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$source_path" == *"/agents/"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$source_path" == *"/industry-professionals/"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[vault-guide]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == "_index.md" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[template-guide]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$creation_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[frontmatter-standards]]
+[2025-04-15 14:58:44] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$modified_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -d "$SOURCE_DIR" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$source_path" == *"/competitor-profiles/"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$source_path" == *"/industry-analysis/"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == "_index.md" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$creation_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$modified_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -d "$SOURCE_DIR" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ ! -d "$source_dir" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == "_index.md" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$creation_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$modified_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ ! -d "$SOURCE_DIR" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == "_index.md" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == *"registration"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == *"advisory"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$creation_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$modified_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == *"interview"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == *"competitor"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == *"task"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == *"project"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == "_index.md" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -f "$target_file" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -z "$creation_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -z "$modified_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -d "$source_dir" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -d "$source_dir" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == "README.md" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == *"competitor"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == *"interview"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == *"financial"* ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -f "$target_file" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$creation_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$modified_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -d "$source_dir" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == "README.md" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -f "$target_file" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$creation_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -n "$modified_date" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$ext" == "png" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$ext" == "pdf" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$ext" == "excalidraw" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ -d "$source_dir" ]]
+[2025-04-15 14:58:44] [WARNING] No mapping found for link: [[ "$filename" == .* ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ -f "$target_file" ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ -z "$old_path" ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[old_file]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[new_file]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ "$content" == *"[[$old_basename]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[$old_basename]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[$new_basename]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[old_file]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[new_file]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ "$content" == *"[[$old_basename]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[$old_basename]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[$new_basename]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[old/path/file]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[new/path/file]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ "$content" == *"[[$old_rel_path_no_ext]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[$old_rel_path_no_ext]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[$new_rel_path_no_ext]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[old/path/file]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[new/path/file]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ "$content" == *"[[$old_rel_path_no_ext]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[$old_rel_path_no_ext]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[$new_rel_path_no_ext]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ "$content" != "$original_content" ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $unmigrated_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[^]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ "$link" == *"]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ "$link" != *".md" && "$link" != *"http"* ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ "$link" == /* ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ ! -f "$target" && "$link" != *"http"* ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $broken_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $has_title -eq 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $has_title -eq 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $has_date_created -eq 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $has_date_modified -eq 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $has_status -eq 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $has_tags -eq 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $issues_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $unmigrated_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $unmigrated_count -gt 20 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $broken_links_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $broken_links_count -gt 20 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $frontmatter_issues_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $frontmatter_issues_count -gt 10 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $unmigrated_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $unmigrated_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $broken_links_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $frontmatter_issues_count -gt 0 ]]
+[2025-04-15 14:58:45] [WARNING] No mapping found for link: [[ $unmigrated_count -gt 0 ]]
+[2025-04-15 14:58:45] [INFO] No links updated in: /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md

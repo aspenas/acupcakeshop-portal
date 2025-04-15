@@ -1,0 +1,363 @@
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/task-templates/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/research-roadmap.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/competitive-positioning.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-education/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/advisory-board-research.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/registration-requirements.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/05-compliance/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/cap-strategist-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/agent-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/former-player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/interview-summary-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/competitor-templates/competitor-profile-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/index-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/analysis-templates/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-summary-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/task-templates/task-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/task-templates/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/audio-transcript-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/mckinsey-analysis.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/working-sessions.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/key-hypotheses.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/business-model-framework.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/06-planning/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/key-project-areas.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/current-status.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/00-project-overview/project-vision.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/call-list.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/tonight-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/conversation-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/calls/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/task-guidelines.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/tasks-dashboard.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/competitor-research.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/interview-pipeline.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/service-development.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/kanban/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/meetings/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/project-plan/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/07-team/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/service-model-diagram.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/interview-insights.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/institutional-firms/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/boutique-firms/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/agent-advisor-models.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-analysis/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/competitor-positioning-diagram.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/market-trends/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/04-analysis/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/INTERVIEW_GUIDE.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_johnson-jaylen_bears_safety.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_smith-roquan_ravens_linebacker.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_oconnell-aidan_raiders_quarterback.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/2025/04_april/2025-04-06_jenkins-john_raiders_defensive-tackle.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/active/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/former/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/players/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/agents/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/lynn-nicole.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/conner-kevin.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/agents/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/-.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/campbell-lamar.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/by-role/team-personnel/player-development/nelson-daryl.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/industry-professionals/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/02-interviews/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/research-summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/kevin-conner.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/agents/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/team-personnel/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/competitor-profiles/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/industry-analysis/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/01-market-research/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/03-strategy/business-model.md
+/Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/consolidation_success.md
+/Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/obsidian_compatibility_summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/optimization_table_link.md
+/Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_report.md
+/Users/patricksmith/obsidian/acupcakeshop/Dashboards/System/script_consolidation_summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/dataview_implementation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/enhanced_implementation_plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/first_phase_plugin_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/graph_view_optimization.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/knowledge_graph_enhancement_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/plugin_installation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/strategic_linking_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/advanced_enhancement_recommendations.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/cleanup_summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/dataview_implementation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/deployment_package.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/documentation_dashboard.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/enhanced_implementation_plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/enhancement_summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/final_recovery_report.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/fix_next_steps.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/implementation_roadmap.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/implementation_status.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/implementation-plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/mermaid_implementation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_completion_report.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_dashboard.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_report.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_verification_report.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_verification_status.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/obsidian_enhancement_summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/redirection_fix_report.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/strategic_linking_summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/tagging_implementation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/template_implementation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/vault_fix_report_20250410_075058.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/vault_fix_report.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/vault_migration_plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/knowledge_graph_enhancement_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Reference/automation_scripts_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Reference/tag_system.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/Reference/yaml_frontmatter_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/System/consolidation_next_steps.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/System/obsidian_performance_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/System/obsidian_sync_compatibility.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/System/script_consolidation_README.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/System/yaml_audit_results.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/System/yaml_frontmatter_standardization.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/tagging_implementation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/template_implementation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/vault_reorganization_plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/yaml_frontmatter_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Documentation/yaml_frontmatter_standardization.md
+/Users/patricksmith/obsidian/acupcakeshop/index.md
+/Users/patricksmith/obsidian/acupcakeshop/Maps/map-athlete-interviews.md
+/Users/patricksmith/obsidian/acupcakeshop/Maps/map-competitor-landscape.md
+/Users/patricksmith/obsidian/acupcakeshop/Maps/map-service-models.md
+/Users/patricksmith/obsidian/acupcakeshop/Maps/map-strategic-planning.md
+/Users/patricksmith/obsidian/acupcakeshop/PERFORMANCE_README.md
+/Users/patricksmith/obsidian/acupcakeshop/phased_migration_plan.md
+/Users/patricksmith/obsidian/acupcakeshop/recovery_complete.md
+/Users/patricksmith/obsidian/acupcakeshop/recovery_successful.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/assets/diagrams/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/assets/documents/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/assets/images/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/assets/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-queries-dashboard.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-service-model-analysis.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/athlete-financial-needs.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor-analysis.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/content-status.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/financial/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/index.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview-insights.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-progress.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-status.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/advanced-queries-dashboard.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/advanced-service-model-analysis.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/athlete-financial-needs.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/competitor-analysis.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/consolidation-success.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/content-status.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/index.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/interview-insights.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/obsidian-compatibility-summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/optimization-table-link.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/project-progress.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/project-status.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/script-consolidation-report.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/script-consolidation-summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/consolidation-success.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/obsidian-compatibility-summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/optimization-table-link.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/script-consolidation-report.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/script-consolidation-summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/index.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-athlete-interviews.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-competitor-landscape.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-service-models.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-strategic-planning.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-athlete-financial-lifecycle.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-service-model.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/advanced-enhancement-recommendations.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/athlete-financial-lifecycle.excalidraw.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/automation-scripts-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/Automation.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cleanup-summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/consolidation-next-steps.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/dataview-implementation-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/deployment-package.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/directory-structure-log.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/documentation-dashboard.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/enhanced-implementation-plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/enhancement-summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/final-recovery-report.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/first-phase-plugin-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/fix-next-steps.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/graph-view-optimization.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/implementation-plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/implementation-roadmap.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/implementation-status.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/Installation.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/knowledge-graph-enhancement-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/Maintenance.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/mermaid-implementation-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-completion-report.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-dashboard.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-report.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-verification-report.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-verification-status.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-enhancement-summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-performance-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-sync-compatibility.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/optimization-table.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/PERFORMANCE-README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/phased-migration-plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/plugin-installation-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/README-templates.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/recovery-complete.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/recovery-successful.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/redirection-fix-report.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/script-consolidation-README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/strategic-linking-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/strategic-linking-implementation.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/strategic-linking-summary.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/tag-system.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/tagging-implementation-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/template-implementation-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-fix-report-20250410-075058.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-fix-report.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-migration-plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-reorganization-plan.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/verification-report-20250409-132809.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/welcome.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-audit-results.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-standardization.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/agent-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/analysis-templates/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/fee-structure-comparison.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/service-comparison-matrix.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/standard-table-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/audio-transcript-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/cap-strategist-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/client-analysis.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/industry-interview.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/meeting-notes.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/player-interview.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-profile-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-templates/competitor-profile-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/former-player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/index-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-summary-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/agent-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/cap-strategist-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/former-player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/interview-summary-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template_20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/audio-transcript-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/competitor-profile-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template_20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/index-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template_20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template_20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/task-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/kanban-card.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/task-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-note.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-status.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/audio-transcript-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/client-analysis.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor_profile_template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template_20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template-20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/fee-structure-comparison.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template_20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template-20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/industry-interview.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/kanban-card.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/meeting-notes.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/moc-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player_interview_template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template_20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145841.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/service-comparison-matrix.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard_note_template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template_20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template-20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-table-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template_20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template-20250415145842.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/test-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/weekly-note.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/weekly-status.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/yaml-frontmatter-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-templates/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-templates/task-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/_index.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/task-template.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/athlete-financial-lifecycle.excalidraw.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/README-templates.md
+/Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/README.md
+/Users/patricksmith/obsidian/acupcakeshop/Scripts/Automation.md
+/Users/patricksmith/obsidian/acupcakeshop/Scripts/Installation.md
+/Users/patricksmith/obsidian/acupcakeshop/Scripts/Maintenance.md
+/Users/patricksmith/obsidian/acupcakeshop/Scripts/Readme.md
+/Users/patricksmith/obsidian/acupcakeshop/System/directory_structure_log.md
+/Users/patricksmith/obsidian/acupcakeshop/System/index.md
+/Users/patricksmith/obsidian/acupcakeshop/System/PerformanceReports/optimization_table.md
+/Users/patricksmith/obsidian/acupcakeshop/System/Scripts/strategic_linking_implementation.md
+/Users/patricksmith/obsidian/acupcakeshop/System/verification_report_20250409_132809.md
+/Users/patricksmith/obsidian/acupcakeshop/welcome.md

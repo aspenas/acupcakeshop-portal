@@ -1,0 +1,103 @@
+---
+title: "Dashboard: Interview Insights"
+date_created: 2025-04-08
+last_updated: 2025-04-08
+update_frequency: Weekly
+tags: [dashboard, interviews, research]
+---
+
+# Interview Insights Dashboard
+
+This dashboard aggregates key insights from athlete and industry professional interviews.
+
+## Recent Interviews
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Interview",
+  sport as "Sport",
+  career_stage as "Career Stage",
+  key_insights as "Key Insights"
+FROM "Athlete Financial Empowerment/02-interviews"
+WHERE contains(file.tags, "#interview") 
+SORT date desc
+LIMIT 5
+```
+
+## Career Stage Distribution
+
+```dataview
+TABLE WITHOUT ID
+  career_stage as "Career Stage",
+  count(career_stage) as "Count"
+FROM "Athlete Financial Empowerment/02-interviews/players"
+WHERE contains(file.tags, "#interview")
+GROUP BY career_stage
+SORT count(career_stage) desc
+```
+
+## Common Financial Pain Points
+
+```mermaid
+pie title "Most Common Financial Concerns"
+    "Family Financial Pressure" : 8
+    "Tax Planning Complexity" : 6
+    "Investment Frauds" : 5
+    "Cash Flow Management" : 5
+    "Contract Understanding" : 4
+    "Post-Career Planning" : 4
+```
+
+## Key Learnings by Stakeholder Group
+
+### Players
+
+1. **Rookie Concerns**
+   - First major contract negotiations
+   - Family financial demands
+   - Establishing credit and banking
+   - Basic financial literacy
+
+2. **Mid-Career Priorities**
+   - Tax optimization
+   - Investment diversification
+   - Real estate acquisitions 
+   - Brand building and endorsements
+
+3. **Late Career Focus**
+   - Post-career income planning
+   - Business ventures and investments
+   - Wealth preservation
+   - Legacy planning
+
+### Industry Professionals
+
+```dataview
+TABLE WITHOUT ID
+  file.link as "Professional",
+  role as "Role",
+  key_insights as "Key Insights"
+FROM "Athlete Financial Empowerment/02-interviews/industry-professionals"
+WHERE contains(file.tags, "#interview")
+SORT date desc
+```
+
+## Interview Gaps to Address
+
+- [ ] Need more interviews with basketball and baseball players
+- [ ] Need perspectives from team financial advisors
+- [ ] Need insights from players with entrepreneurial ventures
+- [ ] Need more female athlete perspectives
+
+## Recurring Interview Themes
+
+```dataview
+TABLE WITHOUT ID
+  count(key_themes) as "Count",
+  key_themes as "Theme"
+FROM "Athlete Financial Empowerment/02-interviews"
+WHERE contains(file.tags, "#interview") AND key_themes
+FLATTEN key_themes
+GROUP BY key_themes
+SORT count(key_themes) desc
+```
