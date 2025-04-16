@@ -1,7 +1,7 @@
 ---
 title: "Documentation"
 date_created: 2025-04-15
-date_modified: 2025-04-15
+date_modified: 2025-04-16
 status: active
 tags: [documentation, guides, reference]
 ---
@@ -28,12 +28,20 @@ This directory contains documentation about the vault itself, including guides, 
 2. **System Documentation**: Details about vault structure and organization
 3. **Reference Materials**: Standards, conventions, and best practices
 4. **Implementation Plans**: Details of implementation and migration activities
+5. **Technical Configuration**: Setup and management of technical infrastructure
 
 ## Using Documentation
 
 - Refer to [[vault-guide]] for comprehensive information on using the vault
 - Review [[organization-standards]] for content creation guidelines
 - See [[utilities-guide]] for information on scripts and utilities
+- Consult [[implementation/portal_configuration]] for web portal setup details
+
+## Key Technical Documentation
+
+- [[implementation/portal_configuration|Portal Configuration Guide]] - Setup and credentials management for the acupcake.shop portal
+- [[implementation/script_consolidation_summary|Script Consolidation]] - Overview of automation scripts
+- [[implementation/content_management_guide|Content Management]] - Guidelines for content organization
 
 ## Contributing to Documentation
 

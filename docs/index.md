@@ -1,7 +1,7 @@
 ---
 title: "Athlete Financial Empowerment Vault"
 date_created: 2025-04-15
-date_modified: 2025-04-15
+date_modified: 2025-04-16
 status: active
 tags: [athlete-financial, documentation, home, index, vault]
 ---
@@ -52,6 +52,11 @@ This vault has been organized to provide a clear, structured approach to our kno
 - [[resources/templates/interview/player-interview-template|Player Interview Template]] - Standardized template for player interviews
 - [[resources/templates/analysis/competitor-profile-template|Competitor Profile Template]] - Template for analyzing competitors
 
+## Technical Documentation
+
+- [[docs/implementation/portal_configuration|Portal Configuration Guide]] - Setup and credentials management for the web portal
+- [[docs/implementation/script_consolidation_summary|Script Consolidation]] - Overview of automation scripts
+
 ---
 
-*Last updated: April 15, 2025*
+*Last updated: April 16, 2025*
