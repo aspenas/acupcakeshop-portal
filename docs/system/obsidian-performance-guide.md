@@ -3,7 +3,13 @@ title: "Obsidian Performance Optimization Guide"
 date_created: 2025-04-15
 date_modified: 2025-04-15
 status: active
-tags: [system, obsidian, performance, troubleshooting]
+tags: [documentation, obsidian, performance, system, troubleshooting]
+---
+
+---
+
+---
+
 ---
 
 ---

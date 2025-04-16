@@ -3,7 +3,13 @@ title: "'Interview Insights: Hidden Patterns from Athlete Financial Advisory Int
 date_created: 2025-04-05
 date_modified: 2025-04-06
 status: approved
-tags: []
+tags: [content, research]
+---
+
+---
+
+---
+
 ---
 
 ---

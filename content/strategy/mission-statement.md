@@ -3,7 +3,13 @@ title: "Mission Statement"
 date_created: 2025-04-15
 date_modified: 2025-04-15
 status: active
-tags: [strategy, mission, vision]
+tags: [mission, strategy, vision]
+---
+
+---
+
+---
+
 ---
 
 # Mission Statement

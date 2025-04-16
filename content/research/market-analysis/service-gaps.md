@@ -3,7 +3,13 @@ title: "Service Gaps Analysis"
 date_created: 2025-04-15
 date_modified: 2025-04-15
 status: active
-tags: [research, market-analysis, service-gaps]
+tags: [market-analysis, research, service-gaps]
+---
+
+---
+
+---
+
 ---
 
 # Service Gaps Analysis

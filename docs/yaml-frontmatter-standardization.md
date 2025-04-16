@@ -35,16 +35,13 @@ status: [draft, in_progress, review, complete]
 [not_started, in_progress, review, complete, blocked]
 approved
 complete
-tags: [tag1, tag2, tag3]
-[analysis, specific-tags]
-[interview, specific-tags]
-[competitor, profile, specific-tags]
-[dashboard, specific-tags]
-[MOC, navigation, specific-tags]
-[strategy, specific-tags]
-[task, specific-tags]
+tags: [[analysis, [competitor, [dashboard, [interview, [MOC, [strategy, [task, advisor, analysis, documentation, navigation, profile, specific-tags], tag1, tag2, tag3]]]
+---
 
-[competitor, profile, analysis, advisor]
+---
+
+---
+
 ---
 
 ---

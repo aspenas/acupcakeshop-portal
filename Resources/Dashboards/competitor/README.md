@@ -14,6 +14,12 @@ tags: [resources-dashboards/competitor]
 
 ---
 
+---
+
+---
+
+---
+
 # Competitor dashboards
 
 This directory is part of the new vault structure created during migration.

@@ -1,7 +1,7 @@
 ---
 title: "Athlete Financial Empowerment Vault"
 date_created: 2025-04-15
-date_modified: 2025-04-15
+date_modified: 2025-04-16
 status: active
 tags: [index, home, vault, athlete-financial]
 ---
@@ -42,6 +42,25 @@ This vault has been organized to provide a clear, structured approach to our kno
 - [[resources/templates/interview/player-interview-template|Player Interview Template]] - Standardized template for player interviews
 - [[resources/templates/analysis/competitor-profile-template|Competitor Profile Template]] - Template for analyzing competitors
 
+## Vault Maintenance
+
+- **[[scripts/README|Maintenance Scripts]]**: Unified scripts for vault maintenance
+- **[[docs/implementation/script_consolidation_summary|Script Consolidation Summary]]**: Overview of recent script improvements
+- **[[docs/implementation/script_consolidation_report|Script Consolidation Report]]**: Detailed report on script consolidation
+
+### Vault Tools
+
+- **Tag Management**: `./scripts/maintenance.sh audit-tags` or `./scripts/maintenance.sh list-tags`
+- **Link Verification**: `./scripts/maintenance.sh verify --report`
+- **YAML Standardization**: `./scripts/maintenance.sh standardize-yaml`
+- **Content Creation**: `./scripts/maintenance.sh create-interview` or `./scripts/maintenance.sh apply-template`
+
+### Documentation
+
+- **[[docs/implementation/content_management_guide|Content Management Guide]]**: Guide to creating and managing content
+- **[[docs/implementation/script_consolidation_summary|Script Consolidation Summary]]**: Overview of script improvements
+- **[[docs/implementation/testing_framework|Testing Framework Guide]]**: Guide to testing vault scripts
+
 ---
 
-*Last updated: April 15, 2025*
+*Last updated: April 16, 2025*

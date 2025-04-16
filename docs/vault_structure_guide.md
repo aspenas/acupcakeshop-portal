@@ -1,9 +1,17 @@
 ---
-title: "Vault Structure Guide"
+title: "Vault Structure Guide
+Document Title"
 date_created: 2025-04-15
+YYYY-MM-DD
 date_modified: 2025-04-15
+YYYY-MM-DD
 status: active
-tags: [documentation, guide, structure, organization]
+active   # active, draft, archived, template
+tags: [[tag1, documentation, guide, organization], structure, tag2, tag3, tag3]]
+---
+
+---
+
 ---
 
 # Vault Structure Guide

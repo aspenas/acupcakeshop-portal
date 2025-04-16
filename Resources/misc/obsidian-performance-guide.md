@@ -12,6 +12,12 @@ tags: [system, obsidian, performance, troubleshooting]
 
 ---
 
+---
+
+---
+
+---
+
 # Obsidian Performance Optimization Guide
 
 This guide addresses performance issues with Obsidian and provides a systematic approach to diagnosing and fixing problems that cause slowdowns, crashes, or sync issues.

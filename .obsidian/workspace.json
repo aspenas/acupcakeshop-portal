@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Athlete Financial Empowerment/03-strategy/research-roadmap.md",
+                "file": "recovery_complete.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "research-roadmap"
+              "title": "recovery_complete"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Athlete Financial Empowerment/03-strategy/research-roadmap.md",
+                "file": "recovery_complete.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of research-roadmap"
+              "title": "Outline of recovery_complete"
             }
           }
         ],
@@ -178,43 +178,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c5d5ceb34feb8f8",
+  "active": "c337c3634f3b87ea",
   "lastOpenFiles": [
-    "_utilities/scripts/simple_frontmatter_fix.sh",
-    "_utilities/scripts/simple_link_repair.sh",
-    "_utilities/logs/template_link_repair_20250415_160414.log",
-    "_utilities/logs/template_link_repair_20250415_160407.log",
-    "docs/template_usage_guide.md",
-    "docs/content_creation_workflow.md",
-    "docs/vault_structure_guide.md",
-    "_utilities/scripts/advanced_frontmatter_standardizer.sh",
-    "_utilities/scripts/template_aware_link_repair.sh",
-    "README_OBSIDIAN_PLUGINS.md",
-    "install_plugins.py",
-    "OBSIDIAN_PLUGINS_README.md",
-    "install_obsidian_plugins.sh",
-    "docs/migration_success_summary.md",
-    "_utilities/logs/verify_migration_20250415_152527.log",
-    "docs/knowledge-graph-enhancement-guide.md.tmp",
-    "docs/organization-standards.md.tmp",
-    "content/interviews/industry-professionals/2025/04_april/nelson-daryl-financial-advisor.md",
-    "content/interviews/industry-professionals/2025/04_april/campbell-lamar-financial-advisor.md",
-    "content/interviews/agents/2025/04_april/lynn-nicole-klutch-agent.md",
-    "content/interviews/agents/2025/04_april/conner-kevin-universal-agent.md",
-    "content/interviews/players/active/2025/04_april/smith-roquan-ravens-linebacker.md",
-    "content/interviews/players/active/2025/04_april/oconnell-aidan-raiders-quarterback.md",
-    "content/interviews/players/active/2025/04_april/johnson-jaylen-bears-safety.md",
-    "content/interviews/players/active/2025/04_april/jenkins-john-raiders-defensive-tackle.md",
-    "content/compliance/standards/recordkeeping-requirements.md",
-    "content/compliance/standards/disclosure-requirements.md",
-    "content/compliance/standards/fiduciary-requirements.md",
-    "content/compliance/advisory-board/governance-structure.md",
-    "content/compliance/advisory-board/candidate-research.md",
-    "content/compliance/advisory-board/board-requirements.md",
-    "content/compliance/registration/maintenance-requirements.md",
-    "content/compliance/registration/application-process.md",
-    "content/compliance/registration/requirements.md",
-    "content/strategy/implementation/phase-three.md",
-    "content/strategy/implementation/phase-two.md"
+    "Scripts/sync_vault.sh",
+    "docs/implementation/testing_framework.md",
+    "Scripts/tests/test_template_apply.sh",
+    "Scripts/tests/test_framework.sh",
+    "Scripts/tests",
+    "docs/implementation/content_management_guide.md",
+    "Scripts/content/create_interview.sh",
+    "current_spec.yaml.bak",
+    "current_spec.yaml",
+    "Scripts/content/template_apply.sh",
+    "_utilities/inventory/tag_inventory.csv",
+    "_utilities/logs/tags_20250416_111439.log",
+    "_utilities/logs/maintenance_20250416_111439.log",
+    "docs/implementation/script_consolidation_summary.md",
+    "docs/implementation/script_consolidation_report.md",
+    "System/Backups/script_fixes_20250409_182001/README.md",
+    "System/Backups/before_fix_20250409_205126/README.md",
+    "System/Backups/pre_cleanup_20250409_213646/README.md",
+    "backup_20250410_075058/README.md",
+    "System/Backups/pre_migration_20250409_181514/README.md",
+    "System/Backups/bak_files/System/Backups/pre_migration_20250409_181514/README.md",
+    "System/Backups/pre_migration_20250409_132806/README.md",
+    "System/Backups/pre_cleanup_20250409_213646/System/Backups/pre_migration_20250409_181514/README.md",
+    "System/Backups/pre_cleanup_20250409_213646/System/Backups/bak_files/System/Backups/pre_migration_20250409_181514/README.md",
+    "System/Backups/pre_cleanup_20250409_213646/System/Backups/pre_migration_20250409_132806/README.md",
+    "Vault_Learning_Progress.md",
+    "Athlete_Financial_Empowerment_Study_Guide.md",
+    "docs/misc/recovery_successful.md",
+    "docs/reference/OBSIDIAN_PLUGINS_README.md",
+    "docs/misc/phased_migration_plan.md",
+    "docs/misc/recovery_complete.md",
+    "docs/misc/Automation.md",
+    "docs/misc/Maintenance.md",
+    "docs/misc/Installation.md",
+    "docs/misc/Readme.md",
+    "docs/reference/README_OBSIDIAN_PLUGINS.md"
   ]
 }

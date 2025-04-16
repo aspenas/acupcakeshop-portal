@@ -6,6 +6,12 @@ status: active
 tags: [compliance, registration, requirements]
 ---
 
+---
+
+---
+
+---
+
 # Registration Requirements
 
 *This is a placeholder file created during migration to maintain link integrity. Content to be added later.*

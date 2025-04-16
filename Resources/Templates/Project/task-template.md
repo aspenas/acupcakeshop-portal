@@ -2,8 +2,16 @@
 title: "{{TASK_NAME}}"
 date_created: {{DATE:YYYY-MM-DD}}
 date_modified: {{DATE:YYYY-MM-DD}}
-status: todo
-tags: [task, {{PROJECT_TAG}}]
+status: template
+tags: [{{PROJECT_TAG}}, task]
+---
+
+---
+
+---
+
+---
+
 ---
 
 ---

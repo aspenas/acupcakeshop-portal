@@ -3,7 +3,13 @@ title: "Lamar Campbell - Financial Advisor Interview"
 date_created: 2025-04-15
 date_modified: 2025-04-15
 status: active
-tags: [interview, industry-professional, financial-advisor]
+tags: [athlete, financial-advisor, industry-professional, interview]
+---
+
+---
+
+---
+
 ---
 
 # Lamar Campbell - Financial Advisor Interview

@@ -32,6 +32,12 @@ tags: [tag1, tag2]
 
 ---
 
+---
+
+---
+
+---
+
 
 This guide provides instructions on using YAML frontmatter to enhance your Obsidian notes and enable powerful queries.
 

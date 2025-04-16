@@ -2,8 +2,14 @@
 title: "{{TASK_NAME}}"
 date_created: 2025-04-15
 date_modified: 2025-04-15
-status: todo
-tags: []
+status: template
+tags: [documentation, guide]
+---
+
+---
+
+---
+
 ---
 
 ---

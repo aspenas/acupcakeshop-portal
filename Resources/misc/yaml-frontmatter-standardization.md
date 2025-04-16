@@ -53,6 +53,12 @@ tags: [tag1, tag2, tag3]
 
 ---
 
+---
+
+---
+
+---
+
 
 This document defines the standard YAML frontmatter structure for different document types in the Athlete Financial Empowerment Obsidian vault.
 

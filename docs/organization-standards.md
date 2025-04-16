@@ -7,8 +7,13 @@ date_modified: 2025-04-15
 YYYY-MM-DD
 status: active
 draft|active|archived
-tags: [documentation, standards, organization, vault]
-[tag1, tag2, tag3]
+tags: [[tag1, documentation, organization, standards, tag2, tag3, vault]]]
+---
+
+---
+
+---
+
 ---
 
 ---

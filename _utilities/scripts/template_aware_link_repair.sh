@@ -215,8 +215,14 @@ update_links_in_file() {
         echo "Updating file: $file" | tee -a "$LOG_FILE"
     fi
     
-    # Extract all wiki-style links
-    grep -o '\[\[[^]]*\]\]' "${file}" 2>/dev/null | while read -r original_link; do
+    # Extract all wiki-style links and store them in an array
+    local links=()
+    while IFS= read -r line; do
+        links+=("$line")
+    done < <(grep -o '\[\[[^]]*\]\]' "${file}" 2>/dev/null)
+    
+    # Process each link
+    for original_link in "${links[@]}"; do
         # Clean link syntax for processing
         link=${original_link#\[\[}
         link=${link%\]\]}
@@ -370,14 +376,22 @@ create_placeholder_files() {
     local temp_targets="${INVENTORY_DIR}/broken_link_targets.txt"
     cut -d ':' -f 2 "${BROKEN_LINKS}" | sort | uniq > "$temp_targets"
     
-    # Skip placeholder creation for template variables
-    for var_pattern in "${TEMPLATE_VARS[@]}"; do
-        sed -i '' "/$var_pattern/d" "$temp_targets"
-    done
+    # Clean the targets file to remove template variables and bash variables
+    # Create a clean version of the file without using sed -i
+    local clean_targets="${INVENTORY_DIR}/clean_link_targets.txt"
+    > "$clean_targets"
     
-    # Skip bash variables
-    sed -i '' '/\${/d' "$temp_targets"
-    sed -i '' '/\$(/d' "$temp_targets"
+    # Filter out lines with template variables
+    while IFS= read -r line; do
+        # Skip if it looks like a template variable or bash variable
+        if [[ "$line" == *"{{"* || "$line" == *"}}"* || "$line" == *"${"* || "$line" == *"$("* ]]; then
+            continue
+        fi
+        echo "$line" >> "$clean_targets"
+    done < "$temp_targets"
+    
+    # Replace the original file with the clean one
+    mv "$clean_targets" "$temp_targets"
     
     # Count targets
     local target_count=$(wc -l < "$temp_targets" | tr -d ' ')

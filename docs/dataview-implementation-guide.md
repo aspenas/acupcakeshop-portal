@@ -4,10 +4,13 @@ date_created: 2025-04-15
 date_modified: 2025-04-15
 status: In Progress
 In Progress
-tags: [interview, basketball, rookie]
-[competitor, boutique]
-[task, high-priority]
-[section, market-research]
+tags: [[competitor, [section, [task, basketball, boutique], documentation, high-priority], interview, market-research, rookie]]]
+---
+
+---
+
+---
+
 ---
 
 ---

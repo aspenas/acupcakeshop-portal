@@ -1,9 +1,9 @@
 ---
-title: "Resources"
-date_created: 2025-04-10
-date_modified: 2025-04-15
+title: "index"
+date_created: 2025-04-09
+date_modified: 2025-04-09
 status: active
-tags: []
+tags: [migration, restored, placeholder]
 ---
 
 ---
@@ -12,4 +12,14 @@ tags: []
 
 ---
 
+---
+
+---
+
+---
+
+# index
+
+> [\!WARNING] Content Placeholder
+> This file was restored after a migration issue. The original content needs to be recreated or imported from another backup.
 

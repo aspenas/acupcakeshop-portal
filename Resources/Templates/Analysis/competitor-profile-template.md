@@ -2,8 +2,16 @@
 title: "Competitor Profile Template"
 date_created: 2025-04-05
 date_modified: 2025-04-05
-status: active
+status: template
 tags: []
+---
+
+---
+
+---
+
+---
+
 ---
 
 ---

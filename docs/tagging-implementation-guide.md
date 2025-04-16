@@ -8,12 +8,13 @@ Develop Competitor Comparison Matrix"
 date_created: 2025-04-15
 date_modified: 2025-04-15
 status: active
-tags: [interviews, athlete, basketball, rookie, complete]
-[market-research, profile, boutique, complete]
-[service-model, process, investment, in-progress]
-[analysis, summary, contract, complete]
-[education, resource, endorsement, athlete, complete]
-[admin, task, market-research, priority, in-progress]
+tags: [[admin, [analysis, [education, [market-research, [service-model, athlete, basketball, boutique, complete], contract, documentation, endorsement, in-progress, in-progress], interviews, investment, market-research, priority, process, profile, resource, rookie, summary, task, task]]
+---
+
+---
+
+---
+
 ---
 
 ---

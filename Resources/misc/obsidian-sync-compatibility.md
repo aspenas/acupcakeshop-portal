@@ -12,6 +12,12 @@ tags: [system, obsidian, sync, troubleshooting]
 
 ---
 
+---
+
+---
+
+---
+
 # Obsidian Sync Compatibility Guide
 
 ## Overview

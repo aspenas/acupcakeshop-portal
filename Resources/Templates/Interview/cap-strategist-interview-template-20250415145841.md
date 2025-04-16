@@ -1,9 +1,17 @@
 ---
-title: "Cap Strategist Interview Questions"
+title: "Cap Strategist Interview Questions - {{INTERVIEWEE}}"
 date_created: 2025-04-05
 date_modified: 2025-04-05
-status: active
+status: template
 tags: []
+---
+
+---
+
+---
+
+---
+
 ---
 
 ---

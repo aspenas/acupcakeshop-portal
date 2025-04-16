@@ -1,9 +1,17 @@
 ---
-title: "[Name] ([Organization]) - Interview Summary"
+title: "[Name] ([Organization]) - Interview Summary - {{INTERVIEWEE}}"
 date_created: YYYY-MM-DD
 date_modified: YYYY-MM-DD
-status: draft | review | approved
+status: template
 tags: []
+---
+
+---
+
+---
+
+---
+
 ---
 
 ---

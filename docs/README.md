@@ -12,6 +12,12 @@ tags: [documentation, guides, reference]
 
 ---
 
+---
+
+---
+
+---
+
 # Documentation: Vault Guides and Reference
 
 This directory contains documentation about the vault itself, including guides, reference materials, and system documentation.

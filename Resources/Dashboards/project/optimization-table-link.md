@@ -12,6 +12,10 @@ tags: []
 
 ---
 
+---
+
+---
+
 # Script Optimization - Component Matrix
 
 > [!note] Performance Note

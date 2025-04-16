@@ -3,7 +3,13 @@ title: "Revenue Model"
 date_created: 2025-04-15
 date_modified: 2025-04-15
 status: active
-tags: [strategy, business-model, revenue]
+tags: [business-model, revenue, strategy]
+---
+
+---
+
+---
+
 ---
 
 # Revenue Model

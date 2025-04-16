@@ -1,0 +1,6 @@
+[2025-04-16 11:09:28] [0;34mℹ Starting vault maintenance script[0m
+[2025-04-16 11:09:28] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:09:28] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/maintenance_20250416_110928.log[0m
+[2025-04-16 11:09:28] [0;34mℹ Creating backup of vault to /Users/patricksmith/obsidian/acupcakeshop/../acupcakeshop_archives/backup_20250416_110928[0m
+[2025-04-16 11:09:28] [0;32m✓ Backup completed successfully to /Users/patricksmith/obsidian/acupcakeshop/../acupcakeshop_archives/backup_20250416_110928[0m
+[2025-04-16 11:09:28] [0;34mℹ Maintenance script completed[0m

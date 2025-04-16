@@ -12,6 +12,12 @@ tags: [documentation, guide, organization, vault]
 
 ---
 
+---
+
+---
+
+---
+
 # Athlete Financial Empowerment Vault Guide
 
 This guide provides a comprehensive overview of the Athlete Financial Empowerment vault, including its structure, organization, and best practices for using and contributing to the vault.

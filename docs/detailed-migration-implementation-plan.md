@@ -11,9 +11,13 @@ $(date +%Y-%m-%d)
 status: active
 active
 active
-tags: [documentation, migration, implementation, plan, detailed]
-[migration, verification, report]
-[migration, report, completion]
+tags: [[migration, completion, detailed], documentation, implementation, migration, plan, report, report], verification, verification]]
+---
+
+---
+
+---
+
 ---
 
 ---

@@ -1,0 +1,60 @@
+[2025-04-16 11:09:16] [0;34mℹ Starting frontmatter script[0m
+[2025-04-16 11:09:16] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:09:16] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/frontmatter_20250416_110916.log[0m
+[2025-04-16 11:09:16] [0;34mℹ Batch processing directory: docs/implementation[0m
+[2025-04-16 11:09:16] [0;34mℹ Processing file: docs/implementation/deployment-package.md[0m
+[2025-04-16 11:09:16] [0;32m✓ Standardized YAML in docs/implementation/deployment-package.md[0m
+[2025-04-16 11:09:16] [0;34mℹ Processing file: docs/implementation/vault-fix-report.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/vault-fix-report.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/implementation-status.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/implementation-status.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/migration-dashboard.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/migration-dashboard.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/tagging-implementation-guide.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/tagging-implementation-guide.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/cleanup-summary.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/cleanup-summary.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/strategic-linking-summary.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/strategic-linking-summary.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/documentation-dashboard.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/documentation-dashboard.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/fix-next-steps.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/fix-next-steps.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/mermaid-implementation-guide.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/mermaid-implementation-guide.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/migration-verification-status.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/migration-verification-status.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/migration-verification-report.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/migration-verification-report.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/enhanced-implementation-plan.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/enhanced-implementation-plan.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/migration-completion-report.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/migration-completion-report.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/final-recovery-report.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/final-recovery-report.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/obsidian-enhancement-summary.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/obsidian-enhancement-summary.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/implementation-plan.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/implementation-plan.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/redirection-fix-report.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/redirection-fix-report.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/implementation-roadmap.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/implementation-roadmap.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/script_consolidation_report.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/script_consolidation_report.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/vault-migration-plan.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/vault-migration-plan.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/advanced-enhancement-recommendations.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/advanced-enhancement-recommendations.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/enhancement-summary.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/enhancement-summary.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/migration-report.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/migration-report.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/template-implementation-guide.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/template-implementation-guide.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/vault-fix-report-20250410-075058.md[0m
+[2025-04-16 11:09:17] [0;32m✓ Standardized YAML in docs/implementation/vault-fix-report-20250410-075058.md[0m
+[2025-04-16 11:09:17] [0;34mℹ Processing file: docs/implementation/dataview-implementation-guide.md[0m
+[2025-04-16 11:09:18] [0;32m✓ Standardized YAML in docs/implementation/dataview-implementation-guide.md[0m
+[2025-04-16 11:09:18] [0;32m✓ Processed 27 files in docs/implementation[0m
+[2025-04-16 11:09:18] [0;34mℹ Frontmatter script completed[0m

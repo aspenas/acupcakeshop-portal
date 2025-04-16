@@ -1,0 +1,5 @@
+[2025-04-16 11:09:01] [0;34mℹ Starting vault maintenance script[0m
+[2025-04-16 11:09:01] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:09:01] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/maintenance_20250416_110901.log[0m
+[2025-04-16 11:09:01] [0;34mℹ Standardizing YAML frontmatter in --dir[0m
+[2025-04-16 11:09:01] [0;34mℹ This will ensure all files have proper YAML frontmatter[0m

@@ -1,6 +1,0 @@
-2025-04-15 11:34:25,827 - consolidate_scripts - INFO - Loaded 4 scripts from database
-2025-04-15 11:34:25,827 - consolidate_scripts - INFO - Executing consolidation plan (dry_run=False)...
-2025-04-15 11:34:25,827 - consolidate_scripts - INFO - Executing consolidation plan (dry_run=False)...
-2025-04-15 11:34:25,827 - consolidate_scripts - INFO - Extracting 2 shared functions to example_script1_script2.py
-2025-04-15 11:34:25,827 - consolidate_scripts - INFO - Executed 1 consolidations with 1 successes
-2025-04-15 11:34:25,827 - consolidate_scripts - INFO - Script consolidation process completed

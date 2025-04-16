@@ -17,15 +17,13 @@ in-progress
 completed
 approved
 approved
-tags: [tag1, tag2]
-[primary-tag, secondary-tag]  # At least one tag from the tagging system
-[interview, athlete, football, tax]
-[competitor, analysis, financial]
-[strategy, business-model, financial, planning]
-[task, competitor, analysis, priority:high]
-[interview, athlete, football, financial, advisor, status:completed]
-[competitor, analysis, financial, investment, research, status:completed]
-[strategy, business-model, financial, planning, status:completed]
+tags: [[competitor, [interview, [primary-tag, [strategy, [task, advisor, analysis, athlete, business-model, competitor, documentation, financial, financial], football, investment, planning, planning], priority:high], research, secondary-tag]  # At least one tag from the tagging system, status:completed, status:completed], tag1, tag2], tax], tax]]]
+---
+
+---
+
+---
+
 ---
 
 ---

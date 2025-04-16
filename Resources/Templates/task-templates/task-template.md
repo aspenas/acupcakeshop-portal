@@ -1,9 +1,17 @@
 ---
-title: "Task Template"
+title: "Task Template - {{TASK_NAME}}"
 date_created: 2025-04-06
 date_modified: 2025-04-06
-status: approved
+status: template
 tags: []
+---
+
+---
+
+---
+
+---
+
 ---
 
 ---

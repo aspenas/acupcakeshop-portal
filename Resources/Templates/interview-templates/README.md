@@ -2,8 +2,14 @@
 title: "Interview Templates Index"
 date_created: 2025-04-06
 date_modified: 2025-04-06
-status: approved
+status: template
 tags: []
+---
+
+---
+
+---
+
 ---
 
 ---

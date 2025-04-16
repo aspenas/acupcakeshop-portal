@@ -3,7 +3,13 @@ title: "Obsidian Sync Compatibility Guide"
 date_created: 2025-04-15
 date_modified: 2025-04-15
 status: active
-tags: [system, obsidian, sync, troubleshooting]
+tags: [documentation, obsidian, sync, system, troubleshooting]
+---
+
+---
+
+---
+
 ---
 
 ---

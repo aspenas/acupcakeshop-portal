@@ -8,6 +8,10 @@ tags: []
 
 ---
 
+---
+
+---
+
 # Obsidian Performance Configuration
 
 If you're experiencing performance issues with this vault, this document provides quick solutions.

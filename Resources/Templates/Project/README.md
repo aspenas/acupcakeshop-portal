@@ -2,8 +2,16 @@
 title: "Project templates"
 date_created: 2025-04-15
 date_modified: 2025-04-15
-status: active
+status: template
 tags: [resources-templates/project]
+---
+
+---
+
+---
+
+---
+
 ---
 
 ---

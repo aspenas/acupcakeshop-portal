@@ -2,8 +2,14 @@
 title: "Section Title Index"
 date_created: YYYY-MM-DD
 date_modified: YYYY-MM-DD
-status: draft
+status: template
 tags: []
+---
+
+---
+
+---
+
 ---
 
 ---

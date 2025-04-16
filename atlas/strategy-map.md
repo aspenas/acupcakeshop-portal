@@ -12,6 +12,12 @@ tags: [atlas, map, moc, strategy]
 
 ---
 
+---
+
+---
+
+---
+
 # Strategy Map
 
 This map of content provides an overview of the strategic framework for the Athlete Financial Empowerment project.

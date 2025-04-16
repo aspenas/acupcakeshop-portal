@@ -1,9 +1,15 @@
 ---
-title: "[Name] ([Organization]) - Interview Summary"
+title: "[Name] ([Organization]) - Interview Summary - {{INTERVIEWEE}}"
 date_created: 2025-04-15
 date_modified: 2025-04-15
-status: draft
-tags: []
+status: template
+tags: [documentation, guide]
+---
+
+---
+
+---
+
 ---
 
 ---

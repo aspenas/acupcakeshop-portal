@@ -41,13 +41,79 @@
 /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md:/content/research/competitor-profiles/integra-wealth-management.md
 /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md:/content/research/industry-analysis/fee-structure-comparison.md
 /Users/patricksmith/obsidian/acupcakeshop/atlas/research-map.md:/content/research/industry-analysis/service-model-comparison.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/template_implementation_guide.md:Documentation/Implementation/template_implementation_guide.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:atlas/README.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:content/README.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:resources/README.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:docs/README.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:atlas/interview-map.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:atlas/research-map.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:atlas/strategy-map.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:atlas/compliance-map.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:content/interviews/players/jenkins-john-raiders.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:content/interviews/players/jaylen-johnson-bears.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:content/interviews/players/aidan-oconnell-raiders.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:content/strategy/business-model/competitive-positioning.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:content/strategy/implementation/phase-one.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:resources/templates/interview/player-interview-template.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/index.md:resources/templates/analysis/competitor-profile-template.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Fee-Only Advisory Model.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:AUM-Based Model.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Hybrid Service Model.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Competitor Analysis: Integra Wealth.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Competitor Analysis: UBS Mainsail.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Service Model Comparison Matrix.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Interview: Roquan Smith - Advisory Preferences.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Interview: Chris Harris - Post-Career Advisory Needs.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Athlete Risk Factors.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Risk Assessment Framework.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Career Stage Risk Variables.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Case Study: NFL Rookie Risk Profile.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Interview: Financial Risk Perceptions.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Interview: Roquan Smith.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Interview: Roquan Smith#Advisor Selection Criteria.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Trust Framework in Advisory Relationships.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Background Verification Methods.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Advisor Selection Checklist.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Red Flags in Advisory Relationships.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Interview: Roquan Smith#Trust Factors.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/knowledge_graph_enhancement_guide.md:Interview: Chris Harris#Advisor Selection.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/01-market-research/key-insights.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Dashboards/project-progress.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/integra-wealth-management.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/ubs-mainsail.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/km-capital-management.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/wme-joel-segal.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/integra-wealth-management.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/ubs-mainsail.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/km-capital-management.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/01-market-research/competitor-profiles/advisors/wme-joel-segal.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/02-interviews/industry-professionals/2025/04_april/2025-04-06_lynn-nicole_klutch_agent.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/02-interviews/industry-professionals/2025/04_april/2025-04-06_cabott-chris_steinberg_agent.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/02-interviews/industry-professionals/2025/04_april/2025-04-06_conner-kevin_universal_agent.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Dashboards/competitor-analysis.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/misc/map-competitor-landscape.md:/Athlete Financial Empowerment/02-interviews/players/former/2025/04_april/2025-04-06_harris-chris_broncos_cornerback.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md:template-guide.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/vault-guide.md:utilities-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/content_creation_workflow.md:/path/to/content.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/content_creation_workflow.md:/path/to/content.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/content_creation_workflow.md:/content/interviews/players/active/2025/04_april/2025-04-10-smith-john-raiders-quarterback.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/content_creation_workflow.md:/content/interviews/players/active/2025/04_april/2025-04-12-johnson-michael-bears-linebacker.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/content_creation_workflow.md:file-path.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/content_creation_workflow.md:file-path.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/content_creation_workflow.md:/content/interviews/players/active/2025/04_april/2025-04-10-smith-john-raiders-quarterback.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/content_creation_workflow.md:/content/research/market-analysis/rookie-advisory-needs.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/content_creation_workflow.md:player-compensation-analysis.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/README.md:utilities-guide.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md:{{RELATED_TASK_1}}.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md:{{RELATED_TASK_2}}.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md:{{DEPENDENCY_1}}.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md:{{DEPENDENCY_2}}.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/template_usage_guide.md:template, documentation, guide, template-type, templates.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/template_usage_guide.md:{{RELATED_TASK_1}}.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/template_usage_guide.md:{{RELATED_TASK_2}}.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/template_usage_guide.md:{{DEPENDENCY_1}}.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/template_usage_guide.md:{{DEPENDENCY_2}}.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/index.md:atlas/README.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/index.md:content/README.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/index.md:resources/README.md
@@ -162,6 +228,7 @@
 /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $broken_links_count -gt 0 .md
 /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $frontmatter_issues_count -gt 0 .md
 /Users/patricksmith/obsidian/acupcakeshop/docs/detailed-migration-implementation-plan.md: $unmigrated_count -gt 0 .md
+/Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md:tag1, documentation, organization, standards, tag2, tag3, vault.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md:file-name.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md:file-name.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/organization-standards.md:template-guide.md
@@ -188,3 +255,8 @@
 /Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Interview: Roquan Smith#Trust Factors.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/knowledge-graph-enhancement-guide.md:Interview: Chris Harris#Advisor Selection.md
 /Users/patricksmith/obsidian/acupcakeshop/docs/template-implementation-guide.md:AnotherNote.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/vault_structure_guide.md:target-file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/vault_structure_guide.md:target-file.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/vault_structure_guide.md:player-interview-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/vault_structure_guide.md:player-interview-guide.md
+/Users/patricksmith/obsidian/acupcakeshop/docs/vault_structure_guide.md:/content/interviews/players/smith-john-raiders-quarterback.md

@@ -15,9 +15,9 @@ This report provides verification results for the vault migration process. It id
 ## Verification Summary
 
 - **Overall Status**: ISSUES
-- **Unmigrated Content**: 4 files
-- **Broken Links**: 190 links
-- **Frontmatter Issues**: 226 issues
+- **Unmigrated Content**: 73 files
+- **Broken Links**: 262 links
+- **Frontmatter Issues**: 593 issues
 
 ## Detailed Findings
 
@@ -57,7 +57,7 @@ The following actions are recommended to address the issues found:
 
 ## Verification Process
 
-This report was generated automatically by the `verify_migration.sh` script on Tue Apr 15 15:25:36 MDT 2025. The script performed the following checks:
+This report was generated automatically by the `verify_migration.sh` script on Tue Apr 15 16:19:27 MDT 2025. The script performed the following checks:
 
 1. Identified unmigrated content by comparing original files with the migration tracker
 2. Searched for broken wiki-style links in all markdown files in the new structure
@@ -71,4 +71,4 @@ After addressing the issues identified in this report, re-run the verification s
 
 ---
 
-*Report generated: Tue Apr 15 15:25:36 MDT 2025*
+*Report generated: Tue Apr 15 16:19:27 MDT 2025*

@@ -295,8 +295,25 @@ merge_tags() {
     # Combine tags
     local combined="$tags, $new_tags"
     
-    # Remove duplicates
-    local unique_tags=$(echo "$combined" | tr ',' '\n' | sed 's/^ *//' | sed 's/ *$//' | sort -u | tr '\n' ',' | sed 's/,/, /g' | sed 's/, $//')
+    # Remove duplicates by creating a temporary file with unique sorted tags
+    local temp_file=$(mktemp)
+    echo "$combined" | tr ',' '\n' | sed 's/^ *//' | sed 's/ *$//' | sort -u > "$temp_file"
+    
+    # Read the unique tags into a string with proper formatting
+    local unique_tags=""
+    while IFS= read -r tag; do
+        # Skip empty lines
+        [[ -z "$tag" ]] && continue
+        # Add tag to list
+        if [[ -z "$unique_tags" ]]; then
+            unique_tags="$tag"
+        else
+            unique_tags="$unique_tags, $tag"
+        fi
+    done < "$temp_file"
+    
+    # Remove temporary file
+    rm "$temp_file"
     
     # Format as array
     echo "[$unique_tags]"
@@ -341,6 +358,13 @@ process_template_frontmatter() {
         echo ""
     } > "$temp_file"
     
+    # Append content after frontmatter
+    awk 'BEGIN{f=0} /^---$/{f++} f>=2 || (f==0 && NR>1){print}' "$file" >> "$temp_file"
+    
+    # Replace original file
+    mv "$temp_file" "$file"
+    
+    echo "  Standardized template frontmatter in: $file" | tee -a "$LOG_FILE"
     return 0
 }
 
@@ -408,10 +432,16 @@ standardize_file() {
                 tags=$(grep -i "^tags:" "$file" | cut -d ':' -f 2- | sed 's/^ *//' || echo "")
             else
                 # Multi-line format - extract all tag lines
-                tags=$(awk '/^tags:/,/^[^-]/' "$file" | sed '$d' | sed 's/^tags: *//')
+                # Create a temporary file for tag extraction
+                local tags_temp=$(mktemp)
+                awk '/^tags:/,/^[^-]/' "$file" | grep -v "^$" | sed 's/^tags: *//' > "$tags_temp"
                 
-                # If it doesn't end with a newline, it might be a single line format
-                if ! echo "$tags" | grep -q "]"; then
+                # Read the tags into a string
+                tags=$(cat "$tags_temp")
+                rm "$tags_temp"
+                
+                # If it doesn't end with a bracket, it might be a single line format
+                if [[ ! "$tags" == *"]" ]]; then
                     tags="[$tags]"
                 fi
             fi
@@ -459,21 +489,22 @@ standardize_file() {
             echo "---"
             echo ""
         } > "$temp_file"
+        
+        # Append content after frontmatter
+        if [[ "$has_frontmatter" == "true" ]]; then
+            # Skip existing frontmatter when appending
+            awk 'BEGIN{f=0} /^---$/{f++} f>=2 || (f==0 && NR>1){print}' "$file" >> "$temp_file"
+        else
+            # Append entire file content
+            cat "$file" >> "$temp_file"
+        fi
+        
+        # Replace original file
+        mv "$temp_file" "$file"
+        
+        echo "  Standardized frontmatter in: $file" | tee -a "$LOG_FILE"
     fi
     
-    # Append content after frontmatter
-    if [[ "$has_frontmatter" == "true" ]]; then
-        # Skip existing frontmatter when appending
-        awk 'BEGIN{f=0} /^---$/{f++} f>=2 || (f==0 && NR>1){print}' "$file" >> "$temp_file"
-    else
-        # Append entire file content
-        cat "$file" >> "$temp_file"
-    fi
-    
-    # Replace original file
-    mv "$temp_file" "$file"
-    
-    echo "  Standardized frontmatter in: $file" | tee -a "$LOG_FILE"
     return 0
 }
 

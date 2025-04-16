@@ -3,7 +3,13 @@ title: "Service Model Comparison"
 date_created: 2025-04-15
 date_modified: 2025-04-15
 status: active
-tags: [research, industry, service-models]
+tags: [industry, research, service-models]
+---
+
+---
+
+---
+
 ---
 
 # Service Model Comparison

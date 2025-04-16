@@ -3,7 +3,13 @@ title: "Application Process"
 date_created: 2025-04-15
 date_modified: 2025-04-15
 status: active
-tags: [compliance, registration, application]
+tags: [application, compliance, registration]
+---
+
+---
+
+---
+
 ---
 
 # Application Process

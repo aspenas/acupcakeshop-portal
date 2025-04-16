@@ -12,6 +12,12 @@ tags: [directory, resources/assets]
 
 ---
 
+---
+
+---
+
+---
+
 # Media and attachments
 
 This directory is part of the migrated vault structure.

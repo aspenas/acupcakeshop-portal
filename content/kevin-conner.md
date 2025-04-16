@@ -10,6 +10,10 @@ tags: []
 
 ---
 
+---
+
+---
+
 *Profile compiled by: Claude*  
 *Date: April 5, 2025*  
 *Sources: Audio transcript of conversation with Kevin Conner*

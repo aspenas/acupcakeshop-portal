@@ -1,9 +1,15 @@
 ---
-title: "Former Player Interview Questions"
+title: "Former Player Interview Questions - {{INTERVIEWEE}}"
 date_created: 2025-04-15
 date_modified: 2025-04-15
-status: active
-tags: []
+status: template
+tags: [documentation, guide]
+---
+
+---
+
+---
+
 ---
 
 ---

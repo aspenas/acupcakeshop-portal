@@ -1,9 +1,18 @@
 ---
-title: "Template Usage Guide"
+title: "Template Usage Guide
+Template Name"
 date_created: 2025-04-15
+YYYY-MM-DD
 date_modified: 2025-04-15
-status: active
-tags: [documentation, guide, templates]
+YYYY-MM-DD
+status: template
+tags: [[template, documentation, guide, template-type, templates]]]
+---
+
+---
+
+---
+
 ---
 
 # Template Usage Guide

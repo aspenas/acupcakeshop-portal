@@ -7,12 +7,14 @@ Dashboard: {{title}}"
 date_created: {{date:YYYY-MM-DD}}
 {{date:YYYY-MM-DD}}
 date_modified: 2025-04-15
-status: active
-tags: [meeting]
-[client, analysis]
-[status, weekly]
-[service]
-[dashboard]
+status: template
+tags: [[client, [dashboard, [service], [status, analysis], meeting], weekly], weekly]]]
+---
+
+---
+
+---
+
 ---
 
 ---
