@@ -70,6 +70,8 @@ Commands:
   list-templates       - List available templates
   apply-template       - Apply a template to create new content
   create-interview     - Create a new interview file
+  sync                 - Sync vault changes with GitHub
+  sync-status          - Check GitHub sync status
   clean                - Clean up temporary files
   backup               - Create backup of vault
   help                 - Show this help message
@@ -85,6 +87,8 @@ Examples:
   ./maintenance.sh list-templates
   ./maintenance.sh apply-template interview/player-interview-template.md content/interviews/new-interview.md
   ./maintenance.sh create-interview player John Smith Vikings Quarterback
+  ./maintenance.sh sync --message "Updated player interviews"
+  ./maintenance.sh sync-status
   ./maintenance.sh clean
   ./maintenance.sh backup
 
@@ -324,6 +328,16 @@ case "$COMMAND" in
     ;;
   backup)
     cmd_backup
+    ;;
+  sync)
+    log_info "Syncing vault with GitHub"
+    "$VAULT_ROOT/scripts/sync/github.sh" sync "$@"
+    log_success "GitHub sync completed"
+    ;;
+  sync-status)
+    log_info "Checking GitHub sync status"
+    "$VAULT_ROOT/scripts/sync/github.sh" status "$@"
+    log_success "GitHub sync status check completed"
     ;;
   help|--help|-h)
     show_help

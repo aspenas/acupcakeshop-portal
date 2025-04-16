@@ -1,0 +1,42 @@
+[
+  {
+    "scenario": "Conservative",
+    "return": 5,
+    "risk": 3,
+    "contribution": 15000,
+    "duration_years": 30,
+    "final_amount": 975000,
+    "success_probability": 0.85,
+    "monthlyIncome": 3900
+  },
+  {
+    "scenario": "Moderate",
+    "return": 7,
+    "risk": 5,
+    "contribution": 15000,
+    "duration_years": 30,
+    "final_amount": 1520000,
+    "success_probability": 0.75,
+    "monthlyIncome": 6080
+  },
+  {
+    "scenario": "Aggressive",
+    "return": 9,
+    "risk": 8,
+    "contribution": 15000,
+    "duration_years": 30,
+    "final_amount": 2350000,
+    "success_probability": 0.65,
+    "monthlyIncome": 9400
+  },
+  {
+    "scenario": "Ultra-Aggressive",
+    "return": 11,
+    "risk": 10,
+    "contribution": 15000,
+    "duration_years": 30,
+    "final_amount": 3680000,
+    "success_probability": 0.55,
+    "monthlyIncome": 14720
+  }
+]

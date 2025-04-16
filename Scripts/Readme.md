@@ -24,6 +24,8 @@ The scripts have been consolidated and organized to provide a more streamlined a
 │   ├── links.sh             # Link fixing and verification
 │   ├── tags.sh              # Tag auditing and management
 │   └── verify.sh            # Vault integrity verification
+├── sync/                    # Synchronization scripts
+│   └── github.sh            # GitHub synchronization
 ├── migration/               # Migration-related scripts
 │   ├── lib.sh               # Shared migration functions
 │   └── verify.sh            # Migration verification
@@ -33,6 +35,11 @@ The scripts have been consolidated and organized to provide a more streamlined a
 ├── content/                 # Content management scripts
 │   ├── create_interview.sh  # Interview creation
 │   └── template_apply.sh    # Template application
+├── tests/                   # Test scripts
+│   ├── test_framework.sh    # Testing framework
+│   ├── test_frontmatter.sh  # Tests for frontmatter.sh
+│   ├── test_links.sh        # Tests for links.sh
+│   └── test_template_apply.sh # Tests for template_apply.sh
 └── legacy/                  # Original scripts (for reference)
 ```
 
@@ -44,6 +51,8 @@ The `maintenance.sh` script provides a unified interface to all maintenance task
 - `./maintenance.sh fix-links` - Fix broken links in files
 - `./maintenance.sh verify` - Verify vault integrity
 - `./maintenance.sh audit-tags` - Audit tags used in the vault
+- `./maintenance.sh sync` - Sync vault changes with GitHub
+- `./maintenance.sh sync-status` - Check GitHub sync status
 - `./maintenance.sh clean` - Clean up temporary files
 - `./maintenance.sh backup` - Create backup of vault
 
@@ -97,6 +106,28 @@ This will remove temporary files and clean up the vault.
 
 This will create a backup of the vault.
 
+### Sync with GitHub
+
+```bash
+./maintenance.sh sync
+```
+
+This will sync the vault with GitHub, committing and pushing all changes with an automated commit message.
+
+For a custom commit message:
+
+```bash
+./maintenance.sh sync --message "Updated player interviews"
+```
+
+### Check GitHub Sync Status
+
+```bash
+./maintenance.sh sync-status
+```
+
+This will check the sync status with GitHub, showing information about uncommitted changes and whether the local branch is up-to-date with the remote.
+
 ## Script Consolidation Plan
 
 The original scripts have been consolidated according to the following plan:
@@ -125,6 +156,11 @@ The original scripts have been consolidated according to the following plan:
    - `tag_audit.sh`
    
    Consolidated into `maintenance/tags.sh`
+
+5. **GitHub Sync**
+   - `sync_vault.sh`
+   
+   Consolidated into `sync/github.sh`
 
 ## Best Practices
 

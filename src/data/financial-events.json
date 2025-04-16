@@ -1,0 +1,8 @@
+[
+  {"name": "Market Crash", "year": 2008, "y": 10},
+  {"name": "Bull Market Begins", "year": 2009, "y": 20},
+  {"name": "Interest Rate Hike", "year": 2015, "y": 30},
+  {"name": "Global Pandemic", "year": 2020, "y": 40},
+  {"name": "Tech Sector Growth", "year": 2021, "y": 50},
+  {"name": "Interest Rate Cycle", "year": 2023, "y": 60}
+]

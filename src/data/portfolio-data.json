@@ -1,0 +1,302 @@
+[
+  {
+    "date": "2023-01-01",
+    "value": 100000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-02-01",
+    "value": 101500,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-03-01",
+    "value": 103200,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-04-01",
+    "value": 105000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-05-01",
+    "value": 104200,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-06-01",
+    "value": 108500,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-07-01",
+    "value": 110000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-08-01",
+    "value": 112500,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-09-01",
+    "value": 111000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-10-01",
+    "value": 112000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-11-01",
+    "value": 115000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-12-01",
+    "value": 118000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2024-01-01",
+    "value": 120000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2024-02-01",
+    "value": 122000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2024-03-01",
+    "value": 125000,
+    "asset": "US Stocks"
+  },
+  {
+    "date": "2023-01-01",
+    "value": 50000,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-02-01",
+    "value": 50800,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-03-01",
+    "value": 51500,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-04-01",
+    "value": 52200,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-05-01",
+    "value": 51900,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-06-01",
+    "value": 53000,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-07-01",
+    "value": 54000,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-08-01",
+    "value": 53500,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-09-01",
+    "value": 52800,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-10-01",
+    "value": 53200,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-11-01",
+    "value": 54500,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-12-01",
+    "value": 55800,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2024-01-01",
+    "value": 56500,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2024-02-01",
+    "value": 57200,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2024-03-01",
+    "value": 58000,
+    "asset": "International Stocks"
+  },
+  {
+    "date": "2023-01-01",
+    "value": 75000,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-02-01",
+    "value": 75300,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-03-01",
+    "value": 75600,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-04-01",
+    "value": 76000,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-05-01",
+    "value": 76200,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-06-01",
+    "value": 76500,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-07-01",
+    "value": 77000,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-08-01",
+    "value": 77400,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-09-01",
+    "value": 77800,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-10-01",
+    "value": 78200,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-11-01",
+    "value": 78600,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-12-01",
+    "value": 79000,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2024-01-01",
+    "value": 79500,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2024-02-01",
+    "value": 80000,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2024-03-01",
+    "value": 80500,
+    "asset": "Bonds"
+  },
+  {
+    "date": "2023-01-01",
+    "value": 25000,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-02-01",
+    "value": 25200,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-03-01",
+    "value": 24900,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-04-01",
+    "value": 25400,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-05-01",
+    "value": 25700,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-06-01",
+    "value": 26200,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-07-01",
+    "value": 26500,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-08-01",
+    "value": 26800,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-09-01",
+    "value": 27200,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-10-01",
+    "value": 27500,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-11-01",
+    "value": 27900,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2023-12-01",
+    "value": 28200,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2024-01-01",
+    "value": 28500,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2024-02-01",
+    "value": 29000,
+    "asset": "Real Estate"
+  },
+  {
+    "date": "2024-03-01",
+    "value": 29500,
+    "asset": "Real Estate"
+  }
+]

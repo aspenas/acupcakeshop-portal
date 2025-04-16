@@ -1,0 +1,177 @@
+[
+  {
+    "simulation": 1,
+    "year": 1,
+    "value": 110000
+  },
+  {
+    "simulation": 1,
+    "year": 5,
+    "value": 152000
+  },
+  {
+    "simulation": 1,
+    "year": 10,
+    "value": 210000
+  },
+  {
+    "simulation": 1,
+    "year": 15,
+    "value": 315000
+  },
+  {
+    "simulation": 1,
+    "year": 20,
+    "value": 450000
+  },
+  {
+    "simulation": 1,
+    "year": 25,
+    "value": 680000
+  },
+  {
+    "simulation": 1,
+    "year": 30,
+    "value": 950000
+  },
+  {
+    "simulation": 2,
+    "year": 1,
+    "value": 107000
+  },
+  {
+    "simulation": 2,
+    "year": 5,
+    "value": 140000
+  },
+  {
+    "simulation": 2,
+    "year": 10,
+    "value": 190000
+  },
+  {
+    "simulation": 2,
+    "year": 15,
+    "value": 280000
+  },
+  {
+    "simulation": 2,
+    "year": 20,
+    "value": 410000
+  },
+  {
+    "simulation": 2,
+    "year": 25,
+    "value": 610000
+  },
+  {
+    "simulation": 2,
+    "year": 30,
+    "value": 870000
+  },
+  {
+    "simulation": 3,
+    "year": 1,
+    "value": 112000
+  },
+  {
+    "simulation": 3,
+    "year": 5,
+    "value": 160000
+  },
+  {
+    "simulation": 3,
+    "year": 10,
+    "value": 240000
+  },
+  {
+    "simulation": 3,
+    "year": 15,
+    "value": 380000
+  },
+  {
+    "simulation": 3,
+    "year": 20,
+    "value": 580000
+  },
+  {
+    "simulation": 3,
+    "year": 25,
+    "value": 880000
+  },
+  {
+    "simulation": 3,
+    "year": 30,
+    "value": 1350000
+  },
+  {
+    "simulation": 4,
+    "year": 1,
+    "value": 109000
+  },
+  {
+    "simulation": 4,
+    "year": 5,
+    "value": 155000
+  },
+  {
+    "simulation": 4,
+    "year": 10,
+    "value": 230000
+  },
+  {
+    "simulation": 4,
+    "year": 15,
+    "value": 340000
+  },
+  {
+    "simulation": 4,
+    "year": 20,
+    "value": 510000
+  },
+  {
+    "simulation": 4,
+    "year": 25,
+    "value": 760000
+  },
+  {
+    "simulation": 4,
+    "year": 30,
+    "value": 1120000
+  },
+  {
+    "simulation": 5,
+    "year": 1,
+    "value": 108000
+  },
+  {
+    "simulation": 5,
+    "year": 5,
+    "value": 142000
+  },
+  {
+    "simulation": 5,
+    "year": 10,
+    "value": 195000
+  },
+  {
+    "simulation": 5,
+    "year": 15,
+    "value": 290000
+  },
+  {
+    "simulation": 5,
+    "year": 20,
+    "value": 430000
+  },
+  {
+    "simulation": 5,
+    "year": 25,
+    "value": 640000
+  },
+  {
+    "simulation": 5,
+    "year": 30,
+    "value": 920000
+  }
+]

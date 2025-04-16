@@ -18,7 +18,6 @@ services:
   envs:
   - key: MONGO_URI
     scope: RUN_AND_BUILD_TIME
-    value: mongodb+srv://cfagwmkt:37f5204f-2cd6-4f9a-8fec-a1b51acd3d83@cluster0.mongodb.net/acupcakeshop
   - key: MONGO_DB_NAME
     scope: RUN_AND_BUILD_TIME
     value: acupcakeshop

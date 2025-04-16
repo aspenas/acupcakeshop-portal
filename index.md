@@ -54,12 +54,14 @@ This vault has been organized to provide a clear, structured approach to our kno
 - **Link Verification**: `./scripts/maintenance.sh verify --report`
 - **YAML Standardization**: `./scripts/maintenance.sh standardize-yaml`
 - **Content Creation**: `./scripts/maintenance.sh create-interview` or `./scripts/maintenance.sh apply-template`
+- **GitHub Sync**: `./scripts/maintenance.sh sync` or `./scripts/maintenance.sh sync-status`
 
 ### Documentation
 
 - **[[docs/implementation/content_management_guide|Content Management Guide]]**: Guide to creating and managing content
 - **[[docs/implementation/script_consolidation_summary|Script Consolidation Summary]]**: Overview of script improvements
 - **[[docs/implementation/testing_framework|Testing Framework Guide]]**: Guide to testing vault scripts
+- **[[scripts/README|Maintenance Scripts Guide]]**: Comprehensive guide to all maintenance scripts
 
 ---
 
