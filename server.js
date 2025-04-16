@@ -10,6 +10,7 @@ import { Strategy as JwtStrategy, ExtractJwt } from 'passport-jwt';
 import jwt from 'jsonwebtoken';
 import User from './models/User.js';
 import obsidianRoutes from './routes/obsidian.js';
+import fs from 'fs';
 
 // Load environment variables
 dotenv.config();
@@ -142,12 +143,69 @@ app.get('/api/user', authenticateJWT, (req, res) => {
 // Use Obsidian routes for content
 app.use('/api/obsidian', authenticateJWT, obsidianRoutes);
 
-// Serve static files from dist (Observable output)
-app.use(express.static(join(__dirname, 'dist')));
+// Serve static files (try dist first, fall back to src if dist doesn't exist)
+if (fs.existsSync(join(__dirname, 'dist'))) {
+  console.log('Serving static files from dist directory');
+  app.use(express.static(join(__dirname, 'dist')));
+} else {
+  console.log('dist directory not found, serving from src directory');
+  app.use(express.static(join(__dirname, 'src')));
+}
+
+// Create a temporary welcome page if there's no index.html
+app.get('/', (req, res) => {
+  if (
+    (!fs.existsSync(join(__dirname, 'dist', 'index.html'))) && 
+    (!fs.existsSync(join(__dirname, 'src', 'index.html')))
+  ) {
+    res.send(`
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <title>A Cup Cake Shop Portal</title>
+          <style>
+            body { font-family: Arial, sans-serif; margin: 0; padding: 20px; line-height: 1.6; }
+            .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+            h1 { color: #333; }
+            .card { border: 1px solid #ddd; border-radius: 4px; padding: 20px; margin-bottom: 20px; }
+            .button { display: inline-block; background: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; }
+          </style>
+        </head>
+        <body>
+          <div class="container">
+            <h1>Welcome to A Cup Cake Shop Portal</h1>
+            <div class="card">
+              <h2>Site under construction</h2>
+              <p>Our portal is currently being set up. Please check back soon!</p>
+              <p>You can try to:</p>
+              <ul>
+                <li><a href="/auth/google">Sign in with Google</a></li>
+                <li><a href="/api/obsidian/dir/">Browse Obsidian Vault Files (requires authentication)</a></li>
+              </ul>
+            </div>
+          </div>
+        </body>
+      </html>
+    `);
+  } else {
+    // If index.html exists, it will be served by express.static
+    // This is just a fallback if the file isn't found
+    res.status(404).send('Not found');
+  }
+});
 
 // Catch-all route to serve index.html for client-side routing
 app.get('*', (req, res) => {
-  res.sendFile(join(__dirname, 'dist', 'index.html'));
+  const distIndexPath = join(__dirname, 'dist', 'index.html');
+  const srcIndexPath = join(__dirname, 'src', 'index.html');
+  
+  if (fs.existsSync(distIndexPath)) {
+    res.sendFile(distIndexPath);
+  } else if (fs.existsSync(srcIndexPath)) {
+    res.sendFile(srcIndexPath);
+  } else {
+    res.redirect('/');
+  }
 });
 
 // Start server
