@@ -1,0 +1,34 @@
+{
+  "name": "acupcakeshop-portal",
+  "description": "Obsidian-integrated Node.js application",
+  "scripts": {
+    "dokku": {
+      "postdeploy": "npm run build"
+    }
+  },
+  "env": {
+    "NODE_ENV": {
+      "description": "Environment for Node.js application",
+      "value": "production"
+    },
+    "PORT": {
+      "description": "Port for the application to listen on",
+      "value": "3000"
+    },
+    "OBSIDIAN_VAULT_PATH": {
+      "description": "Path to the Obsidian vault",
+      "value": "./"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic-xxs"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+} 
