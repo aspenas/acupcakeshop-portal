@@ -8,7 +8,7 @@
     "deploy": "observable deploy",
     "observable": "observable",
     "start": "node server.js",
-    "postinstall": "npm run build || true"
+    "postinstall": "npm run build || echo 'Build failed, but continuing deployment'"
   },
   "dependencies": {
     "@observablehq/framework": "^1.13.2",

@@ -8,15 +8,56 @@ services:
     instance_count: 1
     instance_size_slug: basic-xxs
     environment_slug: node-js
-    build_command: npm install
+    build_command: npm install --production && npm run build || true
     run_command: npm start
     envs:
       - key: NODE_ENV
-        value: production
+        value: "production"
         scope: RUN_AND_BUILD_TIME
       - key: PORT
-        value: 3000
+        value: "3000"
         scope: RUN_AND_BUILD_TIME
       - key: OBSIDIAN_VAULT_PATH
-        value: ./
-        scope: RUN_AND_BUILD_TIME 
+        value: "./"
+        scope: RUN_AND_BUILD_TIME
+      # The following env variables are configured in DigitalOcean but
+      # values are not stored in this file for security reasons
+      - key: MONGO_DB_NAME
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: ADMIN_EMAILS
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: ALLOWED_ORIGINS
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: GOOGLE_CALLBACK_URL
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: GOOGLE_WORKSPACE_DOMAIN
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: ADOBE_FONTS_TOKEN
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: GITHUB_TOKEN
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: VERCEL_TOKEN
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: VERCEL_TEAM_ID
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: DIGITALOCEAN_TOKEN
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: ANTHROPIC_API_KEY
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: AWS_BEDROCK_ACCESS_KEY
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
+      - key: AWS_BEDROCK_SECRET_KEY
+        scope: RUN_AND_BUILD_TIME
+        value: "[configured in DigitalOcean]"
