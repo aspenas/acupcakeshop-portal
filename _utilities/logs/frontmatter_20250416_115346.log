@@ -1,0 +1,38 @@
+[2025-04-16 11:53:46] [0;34mℹ Starting frontmatter script[0m
+[2025-04-16 11:53:46] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:53:46] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/frontmatter_20250416_115346.log[0m
+[2025-04-16 11:53:46] [0;34mℹ Verifying frontmatter in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/test_frontmatter.md[0m
+[2025-04-16 11:53:46] [0;32m✓ Frontmatter verified in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/test_frontmatter.md (no issues found)[0m
+[2025-04-16 11:53:46] [0;34mℹ Frontmatter script completed[0m
+[2025-04-16 11:53:46] [0;34mℹ Starting frontmatter script[0m
+[2025-04-16 11:53:46] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:53:46] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/frontmatter_20250416_115346.log[0m
+[2025-04-16 11:53:46] [0;34mℹ Verifying frontmatter in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/test_no_frontmatter.md[0m
+[2025-04-16 11:53:46] [0;31m✗ No YAML frontmatter found in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/test_no_frontmatter.md[0m
+[2025-04-16 11:53:46] [0;34mℹ Starting frontmatter script[0m
+[2025-04-16 11:53:46] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:53:46] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/frontmatter_20250416_115346.log[0m
+[2025-04-16 11:53:46] [0;34mℹ Verifying frontmatter in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/test_invalid_frontmatter.md[0m
+[2025-04-16 11:53:46] [0;33m⚠ Missing date_modified field in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/test_invalid_frontmatter.md[0m
+[2025-04-16 11:53:46] [0;33m⚠ Missing tags field in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/test_invalid_frontmatter.md[0m
+[2025-04-16 11:53:46] [0;33m⚠ Found 2 issue(s) in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/test_invalid_frontmatter.md[0m
+[2025-04-16 11:53:46] [0;34mℹ Starting frontmatter script[0m
+[2025-04-16 11:53:46] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:53:46] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/frontmatter_20250416_115346.log[0m
+[2025-04-16 11:53:46] [0;34mℹ Batch processing directory: /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/files[0m
+[2025-04-16 11:53:46] [0;34mℹ Processing file: /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/files/test_file_1.md[0m
+[2025-04-16 11:53:46] [0;32m✓ Standardized YAML in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/files/test_file_1.md[0m
+[2025-04-16 11:53:46] [0;34mℹ Processing file: /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/files/test_file_2.md[0m
+[2025-04-16 11:53:46] [0;32m✓ Standardized YAML in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/files/test_file_2.md[0m
+[2025-04-16 11:53:46] [0;34mℹ Processing file: /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/files/test_file_3.md[0m
+[2025-04-16 11:53:46] [0;32m✓ Standardized YAML in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/files/test_file_3.md[0m
+[2025-04-16 11:53:46] [0;32m✓ Processed 3 files in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.BBp32UrJWC/files[0m
+[2025-04-16 11:53:46] [0;34mℹ Frontmatter script completed[0m
+[2025-04-16 11:53:46] [0;34mℹ Starting frontmatter script[0m
+[2025-04-16 11:53:46] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:53:46] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/frontmatter_20250416_115346.log[0m
+[2025-04-16 11:53:46] [0;31m✗ Unknown command: fix[0m
+[2025-04-16 11:53:46] [0;34mℹ Starting frontmatter script[0m
+[2025-04-16 11:53:46] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:53:46] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/frontmatter_20250416_115346.log[0m
+[2025-04-16 11:53:46] [0;31m✗ Unknown command: fix[0m

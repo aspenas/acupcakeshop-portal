@@ -1,0 +1,12 @@
+[2025-04-16 11:51:26] [0;34mℹ Starting GitHub sync script[0m
+[2025-04-16 11:51:26] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:51:26] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/github_sync_20250416_115126.log[0m
+[2025-04-16 11:51:26] [0;34mℹ Syncing vault with GitHub[0m
+[2025-04-16 11:51:26] [0;34mℹ Would fetch latest changes from GitHub (dry run)[0m
+[2025-04-16 11:51:26] [0;34mℹ Would check if merge is needed (dry run)[0m
+[2025-04-16 11:51:26] [0;34mℹ Would add all changes to git (dry run)[0m
+[2025-04-16 11:51:26] [0;34mℹ Would check if there are changes to commit (dry run)[0m
+[2025-04-16 11:51:26] [0;34mℹ Would commit changes with message: 'Test sync' (dry run)[0m
+[2025-04-16 11:51:26] [0;34mℹ Would push changes to origin main (dry run)[0m
+[2025-04-16 11:51:26] [0;32m✓ Vault sync completed successfully[0m
+[2025-04-16 11:51:26] [0;34mℹ GitHub sync script completed[0m

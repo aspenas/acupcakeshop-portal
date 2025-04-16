@@ -253,9 +253,9 @@ shift || true
 case "$COMMAND" in
   sync)
     # Parse arguments
-    local message=""
-    local dry_run="false"
-    local force="false"
+    message=""
+    dry_run="false"
+    force="false"
     
     while [[ "$#" -gt 0 ]]; do
       case $1 in
@@ -282,7 +282,7 @@ case "$COMMAND" in
     ;;
   status)
     # Parse arguments
-    local dry_run="false"
+    dry_run="false"
     
     while [[ "$#" -gt 0 ]]; do
       case $1 in

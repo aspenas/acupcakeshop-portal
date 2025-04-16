@@ -180,17 +180,18 @@
   },
   "active": "c337c3634f3b87ea",
   "lastOpenFiles": [
-    "Scripts/tests/test_links.sh",
-    "Scripts/tests/test_frontmatter.sh",
-    "Scripts/sync/github.sh",
-    "src/data/trades.csv",
-    "src/data/retirement-scenarios.json",
-    "src/data/portfolio-data.json",
-    "src/data/monte-carlo.json",
-    "src/data/launches.csv.js",
-    "src/data/financial-events.json",
-    "src/data/financial-data.csv",
-    "src/data/events.json",
+    "_utilities/logs/frontmatter_20250416_115346.log",
+    "_utilities/logs/frontmatter_20250416_115345.log",
+    "_utilities/logs/test_20250416_115345.log",
+    "routes/obsidian.js",
+    "routes",
+    "var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.YGOJmRiTEe/test-interview.md",
+    "var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.YGOJmRiTEe",
+    "var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T",
+    "var/folders/by/_1j9j9054x5512_93srbh4jw0000gn",
+    "var/folders/by",
+    "var/folders",
+    "var",
     "src/observable.png",
     "src/index.md",
     "src/finance.md",
@@ -215,7 +216,6 @@
     "Athlete_Financial_Empowerment_Study_Guide.md",
     "docs/misc/recovery_successful.md",
     "docs/reference/OBSIDIAN_PLUGINS_README.md",
-    "docs/misc/phased_migration_plan.md",
-    "docs/misc/recovery_complete.md"
+    "docs/misc/phased_migration_plan.md"
   ]
 }

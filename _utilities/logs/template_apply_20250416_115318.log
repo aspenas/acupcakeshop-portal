@@ -1,0 +1,26 @@
+[2025-04-16 11:53:18] [0;34mℹ Starting template apply script[0m
+[2025-04-16 11:53:18] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:53:18] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/template_apply_20250416_115318.log[0m
+[2025-04-16 11:53:18] [0;34mℹ Listing available templates[0m
+[2025-04-16 11:53:18] [0;34mℹ Template categories:[0m
+[2025-04-16 11:53:18] [0;34mℹ For specific templates in a category, use:[0m
+[2025-04-16 11:53:18] [0;34mℹ   ./template_apply.sh list <category>[0m
+[2025-04-16 11:53:18] [0;34mℹ Template apply script completed[0m
+[2025-04-16 11:53:18] [0;34mℹ Starting template apply script[0m
+[2025-04-16 11:53:18] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:53:18] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/template_apply_20250416_115318.log[0m
+[2025-04-16 11:53:18] [0;34mℹ Listing available templates[0m
+[2025-04-16 11:53:18] [0;34mℹ Category: Interview[0m
+[2025-04-16 11:53:18] [0;34mℹ Templates in category Interview:[0m
+[2025-04-16 11:53:18] [0;34mℹ Template apply script completed[0m
+[2025-04-16 11:53:18] [0;34mℹ Starting template apply script[0m
+[2025-04-16 11:53:18] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 11:53:18] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/template_apply_20250416_115318.log[0m
+[2025-04-16 11:53:18] [0;34mℹ Creating directory: /Users/patricksmith/obsidian/acupcakeshop//var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.YGOJmRiTEe[0m
+[2025-04-16 11:53:18] [0;34mℹ Applying template Interview/player-interview-template.md to /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.YGOJmRiTEe/test-interview.md[0m
+[2025-04-16 11:53:18] [0;32m✓ Template applied successfully to /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.YGOJmRiTEe/test-interview.md[0m
+[2025-04-16 11:53:18] [0;34mℹ Remember to:[0m
+[2025-04-16 11:53:18] [0;34mℹ 1. Review and update the content[0m
+[2025-04-16 11:53:18] [0;34mℹ 2. Update the title and tags in the frontmatter[0m
+[2025-04-16 11:53:18] [0;34mℹ 3. Change the status from 'draft' to 'active' when ready[0m
+[2025-04-16 11:53:18] [0;34mℹ Template apply script completed[0m

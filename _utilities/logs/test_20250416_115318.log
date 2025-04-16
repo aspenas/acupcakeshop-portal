@@ -1,0 +1,4 @@
+[2025-04-16 11:53:18] [0;34mℹ Starting test framework[0m
+[2025-04-16 11:53:18] [0;34mℹ Running test: test_template_apply[0m
+[2025-04-16 11:53:18] [0;32m✓ Test passed: test_template_apply[0m
+[2025-04-16 11:53:18] [0;34mℹ Test framework completed[0m

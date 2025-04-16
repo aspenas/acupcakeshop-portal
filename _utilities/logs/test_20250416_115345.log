@@ -1,0 +1,4 @@
+[2025-04-16 11:53:45] [0;34mℹ Starting test framework[0m
+[2025-04-16 11:53:45] [0;34mℹ Running test: test_frontmatter[0m
+[2025-04-16 11:53:46] [0;32m✓ Test passed: test_frontmatter[0m
+[2025-04-16 11:53:46] [0;34mℹ Test framework completed[0m
