@@ -7,7 +7,8 @@
     "dev": "observable preview",
     "deploy": "observable deploy",
     "observable": "observable",
-    "start": "node server.js"
+    "start": "node server.js",
+    "postinstall": "npm run build || true"
   },
   "dependencies": {
     "@observablehq/framework": "^1.13.2",
