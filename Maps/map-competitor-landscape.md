@@ -145,4 +145,3 @@ Based on our competitor research, we've identified these key market gaps:
 
 ## Notes
 
-*This Map of Content should be regularly updated to reflect new competitor research and analysis. Last refreshed: April 8, 2025.*

@@ -94,4 +94,3 @@ tags:
 *Notes compiled by: [Compiler Name]*  
 *Status: [Status]*
 
-[← Back to [Appropriate Section]](../index.md) | [Home](../../../_index.md)

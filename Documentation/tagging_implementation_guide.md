@@ -195,4 +195,3 @@ Follow this process to implement the tagging system across your vault:
 
 4. **Entity-Focused Dashboard**
    - Filter by entity type tags
-   - Show related content across categories

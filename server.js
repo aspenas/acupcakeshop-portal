@@ -143,7 +143,10 @@ app.get('/api/user', authenticateJWT, (req, res) => {
 // Use Obsidian routes for content
 app.use('/api/obsidian', authenticateJWT, obsidianRoutes);
 
-// Serve static files (try dist first, fall back to src if dist doesn't exist)
+// Serve root directory first (for index.html)
+app.use(express.static(__dirname));
+
+// Then fall back to other directories
 if (fs.existsSync(join(__dirname, 'dist'))) {
   console.log('Serving static files from dist directory');
   app.use(express.static(join(__dirname, 'dist')));
@@ -152,57 +155,71 @@ if (fs.existsSync(join(__dirname, 'dist'))) {
   app.use(express.static(join(__dirname, 'src')));
 }
 
-// Create a temporary welcome page if there's no index.html
+// Root route
 app.get('/', (req, res) => {
-  if (
-    (!fs.existsSync(join(__dirname, 'dist', 'index.html'))) && 
-    (!fs.existsSync(join(__dirname, 'src', 'index.html')))
-  ) {
-    res.send(`
-      <!DOCTYPE html>
-      <html>
-        <head>
-          <title>A Cup Cake Shop Portal</title>
-          <style>
-            body { font-family: Arial, sans-serif; margin: 0; padding: 20px; line-height: 1.6; }
-            .container { max-width: 800px; margin: 0 auto; padding: 20px; }
-            h1 { color: #333; }
-            .card { border: 1px solid #ddd; border-radius: 4px; padding: 20px; margin-bottom: 20px; }
-            .button { display: inline-block; background: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; }
-          </style>
-        </head>
-        <body>
-          <div class="container">
-            <h1>Welcome to A Cup Cake Shop Portal</h1>
-            <div class="card">
-              <h2>Site under construction</h2>
-              <p>Our portal is currently being set up. Please check back soon!</p>
-              <p>You can try to:</p>
-              <ul>
-                <li><a href="/auth/google">Sign in with Google</a></li>
-                <li><a href="/api/obsidian/dir/">Browse Obsidian Vault Files (requires authentication)</a></li>
-              </ul>
-            </div>
-          </div>
-        </body>
-      </html>
-    `);
-  } else {
-    // If index.html exists, it will be served by express.static
-    // This is just a fallback if the file isn't found
-    res.status(404).send('Not found');
+  // Check for index.html in root directory first
+  if (fs.existsSync(join(__dirname, 'index.html'))) {
+    res.sendFile(join(__dirname, 'index.html'));
+    return;
   }
+  
+  // Then check dist and src directories
+  if (fs.existsSync(join(__dirname, 'dist', 'index.html'))) {
+    res.sendFile(join(__dirname, 'dist', 'index.html'));
+    return;
+  }
+  
+  if (fs.existsSync(join(__dirname, 'src', 'index.html'))) {
+    res.sendFile(join(__dirname, 'src', 'index.html'));
+    return;
+  }
+  
+  // If no index.html found anywhere, send the embedded welcome page
+  res.send(`
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>A Cup Cake Shop Portal</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+          body { font-family: Arial, sans-serif; margin: 0; padding: 20px; line-height: 1.6; }
+          .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+          h1 { color: #333; }
+          .card { border: 1px solid #ddd; border-radius: 4px; padding: 20px; margin-bottom: 20px; }
+          .button { display: inline-block; background: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; }
+        </style>
+      </head>
+      <body>
+        <div class="container">
+          <h1>Welcome to A Cup Cake Shop Portal</h1>
+          <div class="card">
+            <h2>Site under construction</h2>
+            <p>Our portal is currently being set up. Please check back soon!</p>
+            <p>You can try to:</p>
+            <ul>
+              <li><a href="/auth/google">Sign in with Google</a></li>
+              <li><a href="/api/obsidian/dir/">Browse Obsidian Vault Files (requires authentication)</a></li>
+            </ul>
+          </div>
+        </div>
+      </body>
+    </html>
+  `);
 });
 
-// Catch-all route to serve index.html for client-side routing
+// Catch-all route
 app.get('*', (req, res) => {
-  const distIndexPath = join(__dirname, 'dist', 'index.html');
-  const srcIndexPath = join(__dirname, 'src', 'index.html');
+  // Try to find the path or redirect to home
+  const rootPath = join(__dirname, req.path);
+  const distPath = join(__dirname, 'dist', req.path);
+  const srcPath = join(__dirname, 'src', req.path);
   
-  if (fs.existsSync(distIndexPath)) {
-    res.sendFile(distIndexPath);
-  } else if (fs.existsSync(srcIndexPath)) {
-    res.sendFile(srcIndexPath);
+  if (fs.existsSync(rootPath)) {
+    res.sendFile(rootPath);
+  } else if (fs.existsSync(distPath)) {
+    res.sendFile(distPath);
+  } else if (fs.existsSync(srcPath)) {
+    res.sendFile(srcPath);
   } else {
     res.redirect('/');
   }
@@ -211,4 +228,6 @@ app.get('*', (req, res) => {
 // Start server
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
+  console.log(`Root directory: ${__dirname}`);
+  console.log(`index.html exists in root: ${fs.existsSync(join(__dirname, 'index.html'))}`);
 }); 

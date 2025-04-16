@@ -383,4 +383,3 @@ If using Templater, you can enhance these templates with dynamic content:
 <% tp.file.include("[[AnotherNote]]") %>
 ```
 
-Add these to your templates to create more interactive and dynamic documents.

@@ -69,4 +69,3 @@ title: Former Player Interview Questions
 30. What financial blindspots do you think most current players have?
 
 ---
-*Focus on the player's direct experience rather than opinions or evaluations of others. Document responses factually without interpretive assessment.*

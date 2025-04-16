@@ -68,4 +68,3 @@ title: Agent Interview Questions
 30. Based on your experience, what would an ideal financial advisory model for NFL players look like?
 
 ---
-*Focus on open-ended questions that encourage detailed responses rather than yes/no answers. Document responses factually without interpretive assessment.*

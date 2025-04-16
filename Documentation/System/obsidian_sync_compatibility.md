@@ -89,4 +89,3 @@ If you encounter issues with Obsidian sync even after these changes, try the fol
    - Always backup files before making significant changes
    - Our system automatically backs up scripts before consolidation
 
-By following these guidelines, we can maintain a robust script consolidation system that works seamlessly with Obsidian sync across multiple devices.

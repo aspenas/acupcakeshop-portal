@@ -1,0 +1,705 @@
+[2025-04-16 12:35:40] [0;34mℹ Starting links script[0m
+[2025-04-16 12:35:40] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 12:35:40] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/links_20250416_123540.log[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in all markdown files[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Maps/map-service-models.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Maps/map-service-models.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Maps/map-athlete-interviews.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Maps/map-athlete-interviews.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Maps/map-competitor-landscape.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Maps/map-competitor-landscape.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Maps/map-strategic-planning.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Maps/map-strategic-planning.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/yaml_frontmatter_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/yaml_frontmatter_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/dataview_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/dataview_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/template_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/template_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/obsidian_performance_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/obsidian_performance_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/consolidation_next_steps.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/consolidation_next_steps.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/yaml_audit_results.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/yaml_audit_results.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/script_consolidation_README.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/script_consolidation_README.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/yaml_frontmatter_standardization.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/yaml_frontmatter_standardization.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/obsidian_sync_compatibility.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/System/obsidian_sync_compatibility.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/yaml_frontmatter_standardization.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/yaml_frontmatter_standardization.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/plugin_installation_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/plugin_installation_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/graph_view_optimization.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/graph_view_optimization.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/strategic_linking_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/strategic_linking_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/knowledge_graph_enhancement_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/knowledge_graph_enhancement_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/first_phase_plugin_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Guides/first_phase_plugin_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/implementation_status.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/implementation_status.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/strategic_linking_summary.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/strategic_linking_summary.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/vault_migration_plan.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/vault_migration_plan.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/deployment_package.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/deployment_package.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/vault_fix_report.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/vault_fix_report.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/dataview_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/dataview_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/cleanup_summary.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/cleanup_summary.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/template_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/template_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/obsidian_enhancement_summary.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/obsidian_enhancement_summary.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_dashboard.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_dashboard.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/implementation-plan.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/implementation-plan.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/redirection_fix_report.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/redirection_fix_report.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/implementation_roadmap.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/implementation_roadmap.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/vault_fix_report_20250410_075058.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/vault_fix_report_20250410_075058.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_verification_report.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_verification_report.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/documentation_dashboard.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/documentation_dashboard.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_verification_status.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_verification_status.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_completion_report.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_completion_report.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/mermaid_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/mermaid_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/fix_next_steps.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/fix_next_steps.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/enhancement_summary.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/enhancement_summary.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/final_recovery_report.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/final_recovery_report.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_report.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/migration_report.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/enhanced_implementation_plan.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/enhanced_implementation_plan.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/tagging_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/tagging_implementation_guide.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/advanced_enhancement_recommendations.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/advanced_enhancement_recommendations.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/vault_reorganization_plan.md[0m
+[2025-04-16 12:35:40] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/vault_reorganization_plan.md[0m
+[2025-04-16 12:35:40] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/knowledge_graph_enhancement_guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/knowledge_graph_enhancement_guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/enhanced_implementation_plan.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/enhanced_implementation_plan.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/tagging_implementation_guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/tagging_implementation_guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Reference/yaml_frontmatter_guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Reference/yaml_frontmatter_guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Reference/automation_scripts_guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Reference/automation_scripts_guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Reference/tag_system.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Reference/tag_system.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-service-models.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-service-models.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/README.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/README.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-athlete-interviews.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-athlete-interviews.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-competitor-landscape.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-competitor-landscape.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-strategic-planning.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/map-strategic-planning.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-athlete-financial-lifecycle.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-athlete-financial-lifecycle.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-service-model.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Maps/mind-map-service-model.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/optimization-table.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/optimization-table.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/automation-scripts-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/automation-scripts-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-compatibility-summary.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-compatibility-summary.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-analysis.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-analysis.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/recovery-complete.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/recovery-complete.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/deployment-package.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/deployment-package.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor_profile_template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor_profile_template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-fix-report.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-fix-report.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/project-status.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/project-status.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-reorganization-plan.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-reorganization-plan.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/implementation-status.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/implementation-status.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-dashboard.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-dashboard.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/tagging-implementation-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/tagging-implementation-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/map-service-models.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/map-service-models.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/athlete-financial-lifecycle.excalidraw.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/athlete-financial-lifecycle.excalidraw.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard_note_template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard_note_template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cleanup-summary.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cleanup-summary.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-insights.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-insights.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/strategic-linking-summary.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/strategic-linking-summary.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/strategic-linking-implementation.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/strategic-linking-implementation.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/documentation-dashboard.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/documentation-dashboard.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/fix-next-steps.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/fix-next-steps.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/welcome.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/welcome.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/directory-structure-log.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/directory-structure-log.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/mermaid-implementation-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/mermaid-implementation-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/content-status.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/content-status.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/optimization-table-link.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/optimization-table-link.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/script-consolidation-README.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/script-consolidation-README.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-table-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-table-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-verification-status.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-verification-status.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/phased-migration-plan.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/phased-migration-plan.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-verification-report.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-verification-report.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/enhanced-implementation-plan.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/enhanced-implementation-plan.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-audit-results.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-audit-results.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/first-phase-plugin-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/first-phase-plugin-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-completion-report.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-completion-report.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/README.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/README.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/final-recovery-report.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/final-recovery-report.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-enhancement-summary.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-enhancement-summary.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/implementation-plan.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/implementation-plan.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player_interview_template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player_interview_template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/weekly-status.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/weekly-status.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/project-progress.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/project-progress.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/redirection-fix-report.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/redirection-fix-report.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/industry-interview.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/industry-interview.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/implementation-roadmap.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/implementation-roadmap.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/meeting-notes.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/meeting-notes.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/consolidation-next-steps.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/consolidation-next-steps.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/script-consolidation-report.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/script-consolidation-report.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/strategic-linking-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/strategic-linking-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/PERFORMANCE-README.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/PERFORMANCE-README.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/script-consolidation-summary.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/script-consolidation-summary.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-migration-plan.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-migration-plan.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/map-athlete-interviews.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/map-athlete-interviews.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/advanced-enhancement-recommendations.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/advanced-enhancement-recommendations.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/athlete-financial-needs.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/athlete-financial-needs.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/kanban-card.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/kanban-card.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/test-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/test-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/fee-structure-comparison.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/fee-structure-comparison.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/recovery-successful.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/recovery-successful.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/knowledge-graph-enhancement-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/knowledge-graph-enhancement-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/enhancement-summary.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/enhancement-summary.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-report.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/migration-report.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/template-implementation-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/template-implementation-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/moc-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/moc-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/map-competitor-landscape.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/map-competitor-landscape.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/verification-report-20250409-132809.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/verification-report-20250409-132809.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-standardization.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-standardization.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/graph-view-optimization.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/graph-view-optimization.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/Installation.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/Installation.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/weekly-note.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/weekly-note.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-fix-report-20250410-075058.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/vault-fix-report-20250410-075058.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/advanced-service-model-analysis.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/advanced-service-model-analysis.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/consolidation-success.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/consolidation-success.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/audio-transcript-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/audio-transcript-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template_20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/plugin-installation-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/plugin-installation-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template-20250415145842.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/advanced-queries-dashboard.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/advanced-queries-dashboard.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/dataview-implementation-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/dataview-implementation-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/Maintenance.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/Maintenance.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/map-strategic-planning.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/map-strategic-planning.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-sync-compatibility.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-sync-compatibility.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/mind-map-athlete-financial-lifecycle.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/mind-map-athlete-financial-lifecycle.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/README-templates.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/README-templates.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-performance-guide.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/obsidian-performance-guide.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/_index.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/_index.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/tag-system.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/tag-system.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/client-analysis.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/client-analysis.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/Automation.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/Automation.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/mind-map-service-model.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/mind-map-service-model.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/service-comparison-matrix.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/service-comparison-matrix.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/README.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/README.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/athlete-financial-lifecycle.excalidraw.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/athlete-financial-lifecycle.excalidraw.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/README.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/README.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/README-templates.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/README-templates.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/index.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/index.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor-analysis.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor-analysis.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor/README.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/competitor/README.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/financial/README.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/financial/README.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-status.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-status.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview-insights.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview-insights.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/content-status.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/content-status.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/README.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/README.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/obsidian-compatibility-summary.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/obsidian-compatibility-summary.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/competitor-analysis.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/competitor-analysis.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/project-status.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/project-status.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/interview-insights.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/interview-insights.md[0m
+[2025-04-16 12:35:41] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/content-status.md[0m
+[2025-04-16 12:35:41] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/content-status.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/optimization-table-link.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/optimization-table-link.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/project-progress.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/project-progress.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/index.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/index.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/script-consolidation-report.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/script-consolidation-report.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/script-consolidation-summary.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/script-consolidation-summary.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/athlete-financial-needs.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/athlete-financial-needs.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/advanced-service-model-analysis.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/advanced-service-model-analysis.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/consolidation-success.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/consolidation-success.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/advanced-queries-dashboard.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project/advanced-queries-dashboard.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/obsidian-compatibility-summary.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/obsidian-compatibility-summary.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/optimization-table-link.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/optimization-table-link.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/script-consolidation-report.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/script-consolidation-report.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/script-consolidation-summary.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/script-consolidation-summary.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/consolidation-success.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/System/consolidation-success.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-progress.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/project-progress.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/index.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/index.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/interview/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/athlete-financial-needs.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/athlete-financial-needs.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-service-model-analysis.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-service-model-analysis.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-queries-dashboard.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Dashboards/advanced-queries-dashboard.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Readme.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Readme.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Installation.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Installation.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Maintenance.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Maintenance.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Automation.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/scripts/Automation.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/agent-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/agent-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/former-player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/former-player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/interview-summary-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/interview-summary-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-templates/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-templates/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/index-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/index-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/standard-table-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/standard-table-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/fee-structure-comparison.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/fee-structure-comparison.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/_index.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/_index.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/service-comparison-matrix.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/service-comparison-matrix.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/analysis-templates/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/analysis-templates/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-status.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-status.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/kanban-card.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/kanban-card.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/task-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/task-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-note.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/weekly-note.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/agent-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/agent-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor_profile_template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor_profile_template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard_note_template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard_note_template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-table-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-table-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player_interview_template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player_interview_template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/weekly-status.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/weekly-status.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/industry-interview.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/industry-interview.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/yaml-frontmatter-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/yaml-frontmatter-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/meeting-notes.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/meeting-notes.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/kanban-card.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/kanban-card.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/test-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/test-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/fee-structure-comparison.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/fee-structure-comparison.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/moc-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/moc-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/weekly-note.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/weekly-note.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/audio-transcript-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/audio-transcript-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template_20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template-20250415145842.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/client-analysis.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/client-analysis.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/service-comparison-matrix.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/service-comparison-matrix.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/former-player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/former-player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-summary-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-summary-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/competitor-profile-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/index-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/index-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/task-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/task-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/audio-transcript-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/audio-transcript-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/_index.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/_index.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/task-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/task-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/_index.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/_index.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-templates/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-templates/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-templates/task-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-templates/task-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/audio-transcript-template.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/audio-transcript-template.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/player-interview.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/player-interview.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/industry-interview.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/industry-interview.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/meeting-notes.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/meeting-notes.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/client-analysis.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Client/client-analysis.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/assets/images/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/assets/images/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/assets/diagrams/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/assets/diagrams/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/assets/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/assets/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/Resources/assets/documents/README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/Resources/assets/documents/README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/APP_README.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/APP_README.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/welcome.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/welcome.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.YGOJmRiTEe/test-interview.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.YGOJmRiTEe/test-interview.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/-.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/-.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/aum-based-model.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/aum-based-model.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/trust-framework-in-advisory-relationships.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/trust-framework-in-advisory-relationships.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/athlete-risk-factors.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/athlete-risk-factors.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/risk-assessment-framework.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/risk-assessment-framework.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/red-flags-in-advisory-relationships.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/red-flags-in-advisory-relationships.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/career-stage-risk-variables.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/career-stage-risk-variables.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/case-study-nfl-rookie-risk-profile.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/case-study-nfl-rookie-risk-profile.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/hybrid-service-model.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/hybrid-service-model.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/fee-only-advisory-model.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/fee-only-advisory-model.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/advisor-selection-checklist.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/advisor-selection-checklist.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/background-verification-methods.md[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/misc/background-verification-methods.md[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in /Users/patricksmith/obsidian/acupcakeshop/content/research/Athlete[0m
+[2025-04-16 12:35:42] [0;34mℹ Verifying links in Financial[0m
+[2025-04-16 12:35:42] [0;32m✓ No broken links found in Financial[0m
+[2025-04-16 12:35:42] [0;31m✗ Error: File does not exist: 04-analysis/service-model-diagram.md[0m

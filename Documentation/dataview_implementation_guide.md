@@ -147,4 +147,3 @@ TABLE WITHOUT ID
 FROM "Athlete Financial Empowerment/02-interviews"
 WHERE contains(file.tags, "#interview")
 GROUP BY career_stage
-```

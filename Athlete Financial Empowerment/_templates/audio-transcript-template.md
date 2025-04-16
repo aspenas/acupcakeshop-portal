@@ -79,4 +79,3 @@ Instructions: Note any unclear terminology, names, or references that need clari
 *Processing completed: [Date]*  
 *Processed by: [Name]*
 
-IMPORTANT: Once transcript processing is complete, transfer to the standard interview format using the interview-summary-template.md template. This workspace document should not be included in the final vault but retained separately for reference if needed.

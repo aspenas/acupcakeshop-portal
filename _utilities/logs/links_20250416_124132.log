@@ -1,0 +1,366 @@
+[2025-04-16 12:41:32] [0;34mℹ Starting links script[0m
+[2025-04-16 12:41:32] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 12:41:32] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/links_20250416_124132.log[0m
+[2025-04-16 12:41:32] [0;34mℹ Verifying links in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.yp1IYUXv1F/test_valid_links.md[0m
+[2025-04-16 12:41:32] [0;32m✓ No broken links found in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.yp1IYUXv1F/test_valid_links.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Links script completed[0m
+[2025-04-16 12:41:32] [0;34mℹ Starting links script[0m
+[2025-04-16 12:41:32] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 12:41:32] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/links_20250416_124132.log[0m
+[2025-04-16 12:41:32] [0;34mℹ Verifying links in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.yp1IYUXv1F/test_broken_links.md[0m
+[2025-04-16 12:41:32] [0;32m✓ No broken links found in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.yp1IYUXv1F/test_broken_links.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Links script completed[0m
+[2025-04-16 12:41:32] [0;34mℹ Starting links script[0m
+[2025-04-16 12:41:32] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 12:41:32] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/links_20250416_124132.log[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.yp1IYUXv1F/test_fix_links.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /var/folders/by/_1j9j9054x5512_93srbh4jw0000gn/T/tmp.yp1IYUXv1F/test_fix_links.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Links script completed[0m
+[2025-04-16 12:41:32] [0;34mℹ Starting links script[0m
+[2025-04-16 12:41:32] [0;34mℹ Vault root: /Users/patricksmith/obsidian/acupcakeshop[0m
+[2025-04-16 12:41:32] [0;34mℹ Log file: /Users/patricksmith/obsidian/acupcakeshop/_utilities/logs/links_20250416_124132.log[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in template files[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/template_implementation_guide.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/template_implementation_guide.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/template_implementation_guide.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Documentation/Implementation/template_implementation_guide.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor_profile_template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor_profile_template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard_note_template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard_note_template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-table-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-table-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player_interview_template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player_interview_template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/former-player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/player-interview-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/yaml-frontmatter-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/test-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/test-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/task-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/template-implementation-guide.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/template-implementation-guide.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/moc-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/moc-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/cap-strategist-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/audio-transcript-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/audio-transcript-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/competitor-profile-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/index-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/README-templates.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/README-templates.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/misc/standard-note-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/README-templates.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Visualizations/README-templates.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/agent-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/agent-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/former-player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/former-player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/interview-summary-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-templates/interview-summary-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-templates/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/competitor-templates/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/player-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/index-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/index-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/standard-table-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Analysis/standard-table-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/task-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Project/task-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/agent-interview-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/agent-interview-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template.md[0m
+[2025-04-16 12:41:32] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template_20250415145842.md[0m
+[2025-04-16 12:41:32] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template_20250415145842.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template_20250415145842.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template_20250415145842.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor_profile_template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor_profile_template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template_20250415145842.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template_20250415145842.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard_note_template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard_note_template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-table-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-table-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player_interview_template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player_interview_template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template_20250415145842.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/player-interview-template_20250415145842.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/yaml-frontmatter-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/yaml-frontmatter-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template-20250415145842.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template-20250415145842.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/test-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/test-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/task-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/moc-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/moc-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template_20250415145842.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/competitor-profile-template_20250415145842.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template-20250415145842.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/index-template-20250415145842.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/System/standard-note-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/competitor-profile-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/competitor-profile-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/index-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/index-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/task-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/task-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/cap-strategist-interview-template_20250415145841.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Interview/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/task-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/Task/task-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-templates/task-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/task-templates/task-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Resources/Templates/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/content/competitor-profile-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/content/competitor-profile-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/content/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/content/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/content/index-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/content/index-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/content/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/content/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/content/agent-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/content/agent-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/content/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/content/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/content/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/content/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/content/task-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/content/task-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/content/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/content/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/agent-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/agent-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/former-player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-templates/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/competitor-templates/competitor-profile-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/competitor-templates/competitor-profile-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/index-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/index-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/interview-summary-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/task-templates/task-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/task-templates/task-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/Athlete Financial Empowerment/_templates/audio-transcript-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/competitor-profile-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/competitor-profile-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/player-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/index-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/index-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/template_implementation_guide.md[0m
+[2025-04-16 12:41:33] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/template_implementation_guide.md[0m
+[2025-04-16 12:41:33] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/agent-interview-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/agent-interview-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/former-player-interview-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/former-player-interview-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/interview-summary-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/interview-summary-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/task-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/task-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/audio-transcript-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/misc/audio-transcript-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/competitor-profile-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/competitor-profile-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/competitor-profile-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/cap-strategist-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/player-interview-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/player-interview-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/index-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/index-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/cap-strategist-interview-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/former-player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/standard-table-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/standard-table-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/player-interview-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/agent-interview-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/agent-interview-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/player-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/former-player-interview-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/former-player-interview-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/interview-summary-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/interview-summary-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/agent-interview-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/interview-summary-template-20250415145841.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/yaml-frontmatter-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/yaml-frontmatter-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/test-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/test-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/task-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/moc-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/moc-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/standard-note-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/audio-transcript-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/audio-transcript-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/index-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/index-template-20250415145842.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/standard-note-template.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/system/standard-note-template.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/template_usage_guide.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/template_usage_guide.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/guides/template-guide.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/guides/template-guide.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/implementation/template-implementation-guide.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/implementation/template-implementation-guide.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/template-implementation-guide.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/template-implementation-guide.md[0m
+[2025-04-16 12:41:34] [0;34mℹ Fixing links in /Users/patricksmith/obsidian/acupcakeshop/docs/reference/README-templates.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in /Users/patricksmith/obsidian/acupcakeshop/docs/reference/README-templates.md[0m
+[2025-04-16 12:41:34] [0;32m✓ Fixed links in 171 template files[0m
+[2025-04-16 12:41:34] [0;34mℹ Links script completed[0m

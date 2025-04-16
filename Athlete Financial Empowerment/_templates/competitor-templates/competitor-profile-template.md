@@ -162,4 +162,3 @@ title: Competitor Profile Template
 ---
 *Profile compiled by:*
 *Date:*
-*Sources:*

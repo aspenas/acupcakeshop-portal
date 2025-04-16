@@ -272,4 +272,3 @@ tags: [competitor, profile, analysis, advisor]
 5. **Specificity**: Use specific rather than general tags
 6. **Hierarchy**: Follow the established tag hierarchy
 
-By following these standards, we'll ensure consistent metadata across the vault, which improves searchability, filtering, and database-like functionality through Dataview queries.

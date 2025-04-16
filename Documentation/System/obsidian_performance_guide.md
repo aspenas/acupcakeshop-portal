@@ -139,4 +139,3 @@ If performance issues persist despite these optimizations:
 4. **Backup**: Always maintain backups before making changes
 5. **Script Isolation**: Keep scripts isolated from content
 
-By following these guidelines, we can maintain a high-performance Obsidian vault even with extensive scripts and automation.

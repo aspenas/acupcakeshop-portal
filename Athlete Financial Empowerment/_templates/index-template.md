@@ -64,4 +64,3 @@ Brief description of this section and its purpose within the project (1-2 senten
 ---
 
 *Index maintained by: [Name]*  
-*Last updated: [Date]*

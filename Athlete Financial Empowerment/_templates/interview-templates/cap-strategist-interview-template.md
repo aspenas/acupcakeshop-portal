@@ -68,4 +68,3 @@ title: Cap Strategist Interview Questions
 30. What information gap exists between what teams communicate about contracts and what players understand?
 
 ---
-*Focus on understanding the team's perspective rather than evaluating or selling. Document responses factually without interpretive assessment.*

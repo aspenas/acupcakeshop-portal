@@ -124,4 +124,3 @@ type: template
 *Last updated: [Date]*  
 *Next review: [Date]*
 
-[← Back to Team Resources](../../07-team/_index.md) | [Home](../../_index.md)

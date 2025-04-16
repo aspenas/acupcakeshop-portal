@@ -1,19 +1,23 @@
 ---
-created: 2025-04-05
-modified: 2025-04-05
-tags:
-- athlete
-- business
-- checklist
-- compliance
-- education
-- estate
-- finance
-- financial
-- football
-- interview
-- template
-title: Player Call Checklist
+title: "Player Call Checklist - {{INTERVIEWEE}}"
+date_created: 2025-04-16
+date_modified: 2025-04-16
+status: draft
+tags: []
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 ---
 
 # PLAYER CALL CHECKLIST
@@ -67,3 +71,4 @@ This checklist provides potential talking points for player conversations. Focus
 *Call conducted by:*  
 *Date:*  
 *Player:*  
+*Notes captured by:*
