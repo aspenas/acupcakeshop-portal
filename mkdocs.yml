@@ -1,0 +1,10 @@
+site_name: A Cupcake Shop Portal
+site_url: https://aspenas.github.io/acupcakeshop-portal/
+theme:
+  name: material
+nav:
+  - Home: index.md
+# Add plugins if needed later, e.g., for Roam-style links:
+# plugins:
+#  - search
+#  - roamlinks 
